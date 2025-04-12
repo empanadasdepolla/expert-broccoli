@@ -1412,3 +1412,25 @@ Reason: Banned by an operator.
 [12Apr2025 21:32:08.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
 [12Apr2025 21:32:09.218] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
 [12Apr2025 21:32:09.218] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[12Apr2025 21:32:52.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[12Apr2025 21:33:02.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[12Apr2025 21:33:06.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 21:35:03.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Stopping the server]
+[12Apr2025 21:35:03.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Apr2025 21:35:03.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Apr2025 21:35:03.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Apr2025 21:35:03.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:overworld
+[12Apr2025 21:35:03.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/twilightforest:twilight_forest
+[12Apr2025 21:35:03.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/tht:dimension
+[12Apr2025 21:35:03.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:the_end
+[12Apr2025 21:35:03.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/aether:the_aether
+[12Apr2025 21:35:03.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:the_nether
+[12Apr2025 21:35:03.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dxdss): All chunks are saved
+[12Apr2025 21:35:03.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[12Apr2025 21:35:03.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[12Apr2025 21:35:03.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Apr2025 21:35:03.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[12Apr2025 21:35:03.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Apr2025 21:35:03.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Apr2025 21:35:03.486] [Server thread/INFO] [Framework/]: Unloading server configs...
+[12Apr2025 21:35:03.487] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
