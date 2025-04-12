@@ -368,6 +368,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-12 18:38:53 +0000",
+      "chicken": "2025-04-12 19:48:54 +0000",
       "cooked_mutton": "2025-04-12 18:55:35 +0000",
       "cooked_beef": "2025-04-12 17:11:32 +0000",
       "beef": "2025-04-12 17:11:13 +0000",
@@ -657,7 +658,8 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "zombie_head": "2025-04-12 19:09:13 +0000"
+      "zombie_head": "2025-04-12 19:09:13 +0000",
+      "illager_head": "2025-04-12 19:50:44 +0000"
     },
     "done": false
   },
@@ -732,6 +734,7 @@
       "minecraft:old_growth_pine_taiga": "2025-04-12 19:08:53 +0000",
       "minecraft:birch_forest": "2025-04-12 16:39:24 +0000",
       "minecraft:dark_forest": "2025-04-12 19:08:59 +0000",
+      "minecraft:sparse_jungle": "2025-04-12 19:47:28 +0000",
       "minecraft:dripstone_caves": "2025-04-12 18:40:53 +0000",
       "minecraft:forest": "2025-04-12 19:09:45 +0000",
       "minecraft:lush_caves": "2025-04-12 18:47:25 +0000",
@@ -922,6 +925,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-12 19:50:43 +0000",
       "minecraft:skeleton": "2025-04-12 19:17:29 +0000",
       "minecraft:spider": "2025-04-12 18:36:13 +0000",
       "minecraft:zombie": "2025-04-12 18:36:00 +0000"
