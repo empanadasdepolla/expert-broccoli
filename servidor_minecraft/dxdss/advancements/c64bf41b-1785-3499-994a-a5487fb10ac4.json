@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
@@ -29,31 +23,13 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_red": {
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 18:53:43 +0000"
-    },
-    "done": false
-  },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2025-04-12 18:53:42 +0000"
+      "give_recipe": "2025-04-12 19:08:50 +0000"
     },
     "done": true
   },
   "comforts:hammock_black": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
     },
@@ -77,39 +53,21 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 18:53:43 +0000"
-    },
-    "done": false
-  },
-  "comforts:sleeping_bag_magenta_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
     },
     "done": true
   },
-  "comforts:hammock_magenta_from_white": {
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+      "give_recipe": "2025-04-12 19:08:36 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_blue": {
+  "mca:recipes/misc/needle_and_thread": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_brown_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+      "has_item": "2025-04-12 19:09:54 +0000"
     },
     "done": true
   },
@@ -119,12 +77,23 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
     "criteria": {
-      "minecraft:birch_forest": "2025-04-12 18:53:43 +0000",
-      "minecraft:deep_dark": "2025-04-12 18:55:55 +0000"
+      "give_recipe": "2025-04-12 19:08:50 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 19:08:50 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
@@ -132,45 +101,15 @@
     },
     "done": true
   },
-  "comforts:hammock_blue_from_white": {
+  "beautify:rope": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_gray_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 18:53:43 +0000"
-    },
-    "done": false
-  },
-  "comforts:sleeping_bag_orange": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+      "requirement": "2025-04-12 19:09:54 +0000"
     },
     "done": true
   },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_cyan": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2025-04-12 18:53:42 +0000"
     },
     "done": true
   },
@@ -186,25 +125,7 @@
     },
     "done": true
   },
-  "comforts:hammock_purple_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
   "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "knight_quest:kq_quest_source": {
-    "criteria": {
-      "kq_quest_source": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-12 18:53:42 +0000"
     },
@@ -222,43 +143,19 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_pink_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
     },
     "done": true
   },
-  "comforts:hammock_red": {
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_black_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_yellow_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+      "give_recipe": "2025-04-12 19:08:50 +0000"
     },
     "done": true
   },
   "comforts:sleeping_bag_purple_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
     },
@@ -282,15 +179,15 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 19:08:50 +0000"
     },
     "done": true
   },
@@ -306,61 +203,19 @@
     },
     "done": true
   },
-  "comforts:hammock_green_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_orange": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_lime_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
     },
     "done": true
   },
-  "comforts:hammock_pink": {
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_orange_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_magenta": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+      "give_recipe": "2025-04-12 19:08:50 +0000"
     },
     "done": true
   },
   "comforts:sleeping_bag_green": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_cyan_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
     },
@@ -375,12 +230,6 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-04-12 18:53:42 +0000"
     },
     "done": true
   },
@@ -414,9 +263,9 @@
     },
     "done": true
   },
-  "comforts:hammock_brown": {
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+      "give_recipe": "2025-04-12 19:08:50 +0000"
     },
     "done": true
   },
@@ -426,21 +275,21 @@
     },
     "done": true
   },
-  "comforts:hammock_blue": {
+  "dungeons_arise:find_greenwood_pub": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+      "location0": "2025-04-12 19:10:47 +0000"
     },
     "done": true
   },
-  "comforts:hammock_green": {
+  "beautify:trellis": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+      "requirement": "2025-04-12 19:08:59 +0000"
     },
     "done": true
   },
-  "comforts:hammock_gray": {
+  "minecraft:story/root": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+      "crafting_table": "2025-04-12 19:08:54 +0000"
     },
     "done": true
   },
@@ -471,6 +320,326 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-04-12 19:08:59 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 18:53:43 +0000"
+    },
+    "done": false
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-04-12 19:09:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 18:53:43 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-12 19:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-04-12 18:53:43 +0000",
+      "minecraft:forest": "2025-04-12 19:12:41 +0000",
+      "minecraft:deep_dark": "2025-04-12 18:55:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-12 19:11:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 18:53:43 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-04-12 19:14:18 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_source": {
+    "criteria": {
+      "kq_quest_source": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-12 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-04-12 19:09:47 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-12 19:09:39 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 19:08:50 +0000"
     },
     "done": true
   },

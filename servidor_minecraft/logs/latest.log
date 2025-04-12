@@ -1209,3 +1209,52 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Apr2025 19:09:23.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
 [12Apr2025 19:09:39.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has made the advancement [Getting an Upgrade]
 [12Apr2025 19:09:47.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has made the advancement [Monster Hunter]
+[12Apr2025 19:10:11.574] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ivanka'/11171, l='ServerLevel[dxdss]', x=30.61, y=83.00, z=93.67] died, message: 'Ivanka was slain by Zombie'
+[12Apr2025 19:10:11.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ivanka'/11171, l='ServerLevel[dxdss]', x=30.61, y=83.00, z=93.67] died: Ivanka was slain by Zombie
+[12Apr2025 19:10:17.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> xd
+[12Apr2025 19:10:25.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> leo dame comida ya q fran me mato u.u
+[12Apr2025 19:10:27.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[12Apr2025 19:10:27.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[12Apr2025 19:10:27.930] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[12Apr2025 19:10:46.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Camilacapita to Sofx0Loder]
+[12Apr2025 19:10:52.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Camilacapita to Sofx0Loder]
+[12Apr2025 19:11:07.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> donde
+[12Apr2025 19:11:18.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> no parece nd
+[12Apr2025 19:11:19.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has made the advancement [Sweet Dreams]
+[12Apr2025 19:11:21.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> a
+[12Apr2025 19:11:23.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> XD
+[12Apr2025 19:11:35.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> deja me mato u.u
+[12Apr2025 19:11:37.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita is bleeding. Camilacapita hit the ground too hard
+[12Apr2025 19:11:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita hit the ground too hard
+[12Apr2025 19:12:58.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Camilacapita to Sofx0Loder]
+[12Apr2025 19:13:05.086] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10116a10
+[12Apr2025 19:13:05.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:43325] logged in with entity id 12696 at (19.752218873098112, 82.0, 108.37164956151982)
+[12Apr2025 19:13:05.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[12Apr2025 19:13:07.134] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[12Apr2025 19:13:07.135] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[12Apr2025 19:14:13.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Camilacapita to Sofx0Loder]
+[12Apr2025 19:14:18.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has made the advancement [Reaping What You Sow]
+[12Apr2025 19:14:35.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ fell from a high place
+[12Apr2025 19:15:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Drunken Villager
+[12Apr2025 19:15:12.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell from a high place
+[12Apr2025 19:15:29.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Camilacapita]
+[12Apr2025 19:15:41.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> xd
+[12Apr2025 19:15:52.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> dame
+[12Apr2025 19:16:06.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita is bleeding. Camilacapita was slain by Drunken Villager
+[12Apr2025 19:16:08.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> XD
+[12Apr2025 19:16:12.925] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/13312, l='ServerLevel[dxdss]', x=58.65, y=87.44, z=124.42] died: Drunken Villager walked into fire whilst fighting Yvetta
+[12Apr2025 19:16:23.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/13607, l='ServerLevel[dxdss]', x=54.18, y=89.50, z=119.69] died: Drunken Villager was slain by Hana
+[12Apr2025 19:16:35.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita was slain by Drunken Villager
+[12Apr2025 19:17:43.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> ten
+[12Apr2025 19:17:54.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Drunken Villager
+[12Apr2025 19:17:57.641] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/13361, l='ServerLevel[dxdss]', x=56.82, y=92.06, z=114.99] died: Drunken Villager was slain by Camilacapita
+[12Apr2025 19:18:11.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/13608, l='ServerLevel[dxdss]', x=55.51, y=89.75, z=129.24] died: Drunken Villager was slain by Yvetta
+[12Apr2025 19:18:21.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Made Camilacapita a server operator]
+[12Apr2025 19:18:30.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ./mca
+[12Apr2025 19:18:36.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ./mca editor
+[12Apr2025 19:18:56.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Made Camilacapita no longer a server operator]
+[12Apr2025 19:19:17.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> cy
+[12Apr2025 19:19:21.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> ño
+[12Apr2025 19:19:29.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> con la skin normal
+[12Apr2025 19:19:38.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> sin ojos de movimiento
+[12Apr2025 19:19:43.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> cy
