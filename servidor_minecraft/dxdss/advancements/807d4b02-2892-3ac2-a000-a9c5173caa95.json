@@ -661,6 +661,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-12 20:52:38 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_the_upright_recipe": "2025-04-12 16:39:23 +0000"
@@ -778,6 +784,12 @@
   "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:26:25 +0000"
+    },
+    "done": true
+  },
+  "beautify:candleabras": {
+    "criteria": {
+      "requirement": "2025-04-12 20:47:14 +0000"
     },
     "done": true
   },
@@ -1100,9 +1112,11 @@
       "minecraft:birch_forest": "2025-04-12 16:39:24 +0000",
       "minecraft:dark_forest": "2025-04-12 19:08:59 +0000",
       "minecraft:sparse_jungle": "2025-04-12 19:47:28 +0000",
+      "minecraft:river": "2025-04-12 20:54:01 +0000",
       "minecraft:dripstone_caves": "2025-04-12 18:40:53 +0000",
       "minecraft:forest": "2025-04-12 19:09:45 +0000",
       "minecraft:lush_caves": "2025-04-12 18:47:25 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-12 20:54:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-12 17:10:52 +0000",
       "minecraft:deep_dark": "2025-04-12 19:05:51 +0000"
     },
