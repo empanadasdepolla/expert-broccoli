@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:15:59 +0000"
@@ -313,6 +319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-04-12 19:06:26 +0000"
@@ -447,6 +459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:30:09 +0000"
@@ -468,6 +486,12 @@
   "dungeons_arise:find_keep_kayra": {
     "criteria": {
       "location0": "2025-04-12 17:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
     },
     "done": true
   },
@@ -519,6 +543,7 @@
       "minecraft:skeleton": "2025-04-12 19:17:29 +0000",
       "minecraft:vindicator": "2025-04-12 20:37:27 +0000",
       "minecraft:spider": "2025-04-12 18:36:13 +0000",
+      "minecraft:slime": "2025-04-12 21:03:09 +0000",
       "minecraft:zombie": "2025-04-12 18:36:00 +0000"
     },
     "done": false
@@ -571,9 +596,21 @@
     },
     "done": true
   },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-04-12 21:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
     },
     "done": true
   },
@@ -757,6 +794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:30:09 +0000"
@@ -841,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:15:59 +0000"
@@ -862,6 +911,18 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:24 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_find_great_essence": {
+    "criteria": {
+      "kq_quest_find_great_essence": "2025-04-12 21:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
     },
     "done": true
   },
@@ -1134,6 +1195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:30:09 +0000"
@@ -1149,6 +1216,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
     },
     "done": true
   },
@@ -1182,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-12 16:39:24 +0000"
@@ -1197,6 +1276,12 @@
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-12 21:07:10 +0000"
     },
     "done": true
   },
@@ -1221,6 +1306,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
     },
     "done": true
   },
@@ -1275,6 +1366,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
     },
     "done": true
   },
@@ -1359,6 +1456,12 @@
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 21:05:21 +0000"
     },
     "done": true
   },

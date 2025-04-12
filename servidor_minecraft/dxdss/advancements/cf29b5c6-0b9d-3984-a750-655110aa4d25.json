@@ -442,6 +442,8 @@
       "minecraft:pillager": "2025-04-12 19:27:36 +0000",
       "minecraft:skeleton": "2025-04-12 18:32:46 +0000",
       "minecraft:spider": "2025-04-12 18:32:50 +0000",
+      "minecraft:creeper": "2025-04-12 21:03:02 +0000",
+      "minecraft:slime": "2025-04-12 21:03:05 +0000",
       "minecraft:zombie": "2025-04-12 18:37:17 +0000"
     },
     "done": false
@@ -632,6 +634,12 @@
     },
     "done": true
   },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-04-12 21:11:44 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
@@ -701,6 +709,12 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-12 21:10:38 +0000"
     },
     "done": true
   },

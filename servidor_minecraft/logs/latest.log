@@ -1342,3 +1342,17 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Apr2025 20:57:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
 [12Apr2025 20:57:33.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [12Apr2025 20:57:34.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[12Apr2025 21:03:30.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Skeleton
+[12Apr2025 21:03:34.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Skeleton
+[12Apr2025 21:03:42.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Skeleton
+[12Apr2025 21:04:50.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [Quest: Find Three Great Essence]
+[12Apr2025 21:05:50.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ,
+[12Apr2025 21:07:10.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Take Aim]
+[12Apr2025 21:07:15.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was shot by Flancito0_
+[12Apr2025 21:07:29.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Blunt-force Trauma]
+[12Apr2025 21:07:47.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Skeleton
+[12Apr2025 21:08:00.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 21:08:10.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 21:10:38.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Not Today, Thank You]
+[12Apr2025 21:11:44.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Blade of the Samurai]
+[12Apr2025 21:11:55.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Skeleton
