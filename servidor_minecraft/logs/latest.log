@@ -1380,3 +1380,35 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Apr2025 21:19:15.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
 [12Apr2025 21:19:21.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [12Apr2025 21:19:30.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[12Apr2025 21:23:18.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Hammer Time!]
+[12Apr2025 21:23:47.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 21:25:19.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Skeleton
+[12Apr2025 21:25:35.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Skeleton
+[12Apr2025 21:25:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 21:26:19.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Skeleton
+[12Apr2025 21:26:35.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Skeleton
+[12Apr2025 21:26:46.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[12Apr2025 21:26:51.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 21:26:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 21:27:01.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Suit Up]
+[12Apr2025 21:27:01.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Acquire Hardware]
+[12Apr2025 21:27:05.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Stone Age]
+[12Apr2025 21:28:08.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Zombie
+[12Apr2025 21:28:53.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 21:29:45.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Banned Flancito0_: Banned by an operator.]
+[12Apr2025 21:29:45.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: You are banned from this server
+[12Apr2025 21:29:45.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[12Apr2025 21:29:45.153] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[12Apr2025 21:29:45.168] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Apr2025 21:29:51.267] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@44b33bd6[id=807d4b02-2892-3ac2-a000-a9c5173caa95,name=Flancito0_,properties={},legacy=false] (/127.223.198.220:44147): You are banned from this server.
+Reason: Banned by an operator.
+[12Apr2025 21:29:51.268] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44b33bd6[id=807d4b02-2892-3ac2-a000-a9c5173caa95,name=Flancito0_,properties={},legacy=false] (/127.223.198.220:44147) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[12Apr2025 21:29:51.317] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Apr2025 21:31:09.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Banned flancito=_: Banned by an operator.]
+[12Apr2025 21:31:59.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Unbanned Flancito0_]
+[12Apr2025 21:32:08.622] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c9578ec
+[12Apr2025 21:32:08.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:58891] logged in with entity id 25357 at (36.43639432025633, 84.17675927506424, 29.736105450934886)
+[12Apr2025 21:32:08.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[12Apr2025 21:32:09.218] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[12Apr2025 21:32:09.218] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_

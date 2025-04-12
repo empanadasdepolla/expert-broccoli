@@ -318,6 +318,12 @@
     },
     "done": false
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-04-12 21:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:29:05 +0000"
@@ -926,6 +932,12 @@
   "beautify:blinds": {
     "criteria": {
       "requirement": "2025-04-12 16:29:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-04-12 21:23:18 +0000"
     },
     "done": true
   },
