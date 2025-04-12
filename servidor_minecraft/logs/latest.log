@@ -1285,3 +1285,27 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Apr2025 19:29:49.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has made the advancement [A Seedy Place]
 [12Apr2025 19:29:57.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ hit the ground too hard
 [12Apr2025 19:30:05.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ hit the ground too hard
+[12Apr2025 19:30:39.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was doomed to fall by Pillager
+[12Apr2025 19:30:46.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Camilacapita]
+[12Apr2025 19:30:49.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Minecraft Comes Alive]
+[12Apr2025 19:30:59.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 40.500000, 84.500000, 34.500000]
+[12Apr2025 19:31:06.010] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[12Apr2025 19:31:06.036] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[12Apr2025 19:31:06.037] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[12Apr2025 19:31:06.038] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[12Apr2025 19:31:37.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> UN GATO PARECIDO A MONA :0
+[12Apr2025 19:31:48.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> mi gata desaparecida
+[12Apr2025 19:32:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has made the advancement [Suit Up]
+[12Apr2025 19:33:21.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has made the advancement [Acquire Hardware]
+[12Apr2025 19:33:52.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> porque me aparecen brillos amarillos
+[12Apr2025 19:34:04.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has made the advancement [Diamonds!]
+[12Apr2025 19:34:39.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has made the advancement [Isn't It Iron Pick]
+[12Apr2025 19:35:06.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 19:36:07.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> QUE RICO 4 MUJERES ENCERRADAS UWU
+[12Apr2025 19:36:23.930] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hynek'/15939, l='ServerLevel[dxdss]', x=-139.30, y=89.00, z=-271.89] died, message: 'Hynek was slain by Zombie'
+[12Apr2025 19:36:23.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hynek'/15939, l='ServerLevel[dxdss]', x=-139.30, y=89.00, z=-271.89] died: Hynek was slain by Zombie
+[12Apr2025 19:37:30.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> miman
+[12Apr2025 19:37:40.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> :monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey:
+[12Apr2025 19:37:42.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Flancito0_
+[12Apr2025 19:37:57.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> :catjam::catjam::catjam::catjam::catjam::catjam:
+[12Apr2025 19:38:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> zz:zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:

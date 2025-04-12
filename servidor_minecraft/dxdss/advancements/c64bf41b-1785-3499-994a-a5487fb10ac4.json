@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-04-12 19:35:31 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
@@ -199,7 +205,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-04-12 19:18:28 +0000"
+      "cooked_mutton": "2025-04-12 19:25:46 +0000",
+      "bread": "2025-04-12 19:18:28 +0000",
+      "cooked_chicken": "2025-04-12 19:25:52 +0000"
     },
     "done": false
   },
@@ -212,6 +220,12 @@
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-04-12 19:33:21 +0000"
     },
     "done": true
   },
@@ -233,6 +247,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-04-12 19:33:21 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
@@ -242,6 +262,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-12 19:34:39 +0000"
     },
     "done": true
   },
@@ -302,6 +328,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-12 19:08:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-04-12 19:33:21 +0000"
     },
     "done": true
   },
@@ -383,11 +415,23 @@
     },
     "done": true
   },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-04-12 19:33:21 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-04-12 18:53:43 +0000"
     },
     "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-12 19:32:08 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
@@ -421,8 +465,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-12 19:26:00 +0000",
       "minecraft:birch_forest": "2025-04-12 18:53:43 +0000",
+      "minecraft:dark_forest": "2025-04-12 19:26:41 +0000",
+      "minecraft:river": "2025-04-12 19:27:01 +0000",
       "minecraft:forest": "2025-04-12 19:12:41 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-12 19:27:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-12 19:21:26 +0000",
       "minecraft:deep_dark": "2025-04-12 18:55:55 +0000"
     },
@@ -476,6 +524,12 @@
     },
     "done": true
   },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-04-12 19:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:08:50 +0000"
@@ -503,6 +557,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-12 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-12 19:29:49 +0000"
     },
     "done": true
   },
@@ -593,9 +653,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-04-12 19:35:18 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-04-12 19:29:42 +0000"
     },
     "done": true
   },
@@ -623,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-12 19:34:04 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
@@ -638,6 +716,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-12 19:33:21 +0000"
     },
     "done": true
   },
