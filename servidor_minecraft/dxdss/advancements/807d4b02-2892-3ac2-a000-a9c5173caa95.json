@@ -13,7 +13,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
@@ -157,7 +157,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
@@ -326,6 +326,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-04-12 18:50:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
@@ -341,6 +347,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 18:47:37 +0000"
     },
     "done": true
   },
@@ -419,6 +431,12 @@
   "beautify:trellis": {
     "criteria": {
       "requirement": "2025-04-12 17:01:12 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-04-12 18:50:41 +0000"
     },
     "done": true
   },
@@ -531,6 +549,12 @@
     },
     "done": true
   },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-04-12 18:50:41 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-04-12 16:39:24 +0000"
@@ -539,7 +563,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
@@ -587,7 +611,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
@@ -601,6 +625,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-04-12 16:39:24 +0000",
       "minecraft:dripstone_caves": "2025-04-12 18:40:53 +0000",
+      "minecraft:lush_caves": "2025-04-12 18:47:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-12 17:10:52 +0000"
     },
     "done": false
@@ -679,13 +704,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
@@ -727,7 +752,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
@@ -745,7 +770,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
@@ -757,7 +782,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
@@ -770,7 +795,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
@@ -884,7 +909,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
@@ -942,6 +967,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-12 18:50:41 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
@@ -974,7 +1005,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
     },
     "done": false
   },
