@@ -1309,3 +1309,17 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Apr2025 19:37:42.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Flancito0_
 [12Apr2025 19:37:57.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> :catjam::catjam::catjam::catjam::catjam::catjam:
 [12Apr2025 19:38:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> zz:zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
+[12Apr2025 19:42:01.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jana'/16626, l='ServerLevel[dxdss]', x=-223.51, y=79.00, z=-254.29] died, message: 'Jana was slain by Zombie'
+[12Apr2025 19:42:01.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jana'/16626, l='ServerLevel[dxdss]', x=-223.51, y=79.00, z=-254.29] died: Jana was slain by Zombie
+[12Apr2025 19:42:19.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Zombie
+[12Apr2025 19:45:54.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Flancito0_
+[12Apr2025 19:46:02.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Sofx0Loder
+[12Apr2025 19:49:27.641] [Worker-Main-2/WARN] [ModernFix/]: The namespace betterwitchhuts contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[12Apr2025 19:49:32.551] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Apr2025 19:49:32.551] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Apr2025 19:49:32.551] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Apr2025 19:49:32.551] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Apr2025 19:49:32.557] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Apr2025 19:49:33.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was shot by Skeleton
+[12Apr2025 19:49:36.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 19:49:42.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
