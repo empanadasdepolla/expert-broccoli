@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-04-12 19:25:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
@@ -190,6 +196,12 @@
       "give_recipe": "2025-04-12 19:08:50 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-04-12 19:18:28 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
@@ -411,6 +423,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-04-12 18:53:43 +0000",
       "minecraft:forest": "2025-04-12 19:12:41 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-12 19:21:26 +0000",
       "minecraft:deep_dark": "2025-04-12 18:55:55 +0000"
     },
     "done": false
@@ -442,6 +455,12 @@
   "spartanweaponry:scythe": {
     "criteria": {
       "has_scythe": "2025-04-12 19:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-12 19:18:28 +0000"
     },
     "done": true
   },
@@ -525,7 +544,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-04-12 19:09:47 +0000"
+      "minecraft:skeleton": "2025-04-12 19:20:42 +0000",
+      "minecraft:spider": "2025-04-12 19:09:47 +0000",
+      "minecraft:creeper": "2025-04-12 19:16:56 +0000",
+      "minecraft:zombie": "2025-04-12 19:17:57 +0000"
     },
     "done": false
   },
