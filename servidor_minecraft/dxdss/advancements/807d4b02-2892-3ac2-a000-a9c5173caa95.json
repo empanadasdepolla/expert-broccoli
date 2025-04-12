@@ -13,7 +13,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },
@@ -157,7 +157,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },
@@ -308,6 +308,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-12 18:38:53 +0000",
+      "cooked_mutton": "2025-04-12 18:55:35 +0000",
       "cooked_beef": "2025-04-12 17:11:32 +0000",
       "beef": "2025-04-12 17:11:13 +0000",
       "bread": "2025-04-12 18:42:58 +0000"
@@ -371,6 +372,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-12 18:59:37 +0000"
     },
     "done": true
   },
@@ -563,7 +570,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },
@@ -582,6 +589,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-12 18:56:18 +0000"
     },
     "done": true
   },
@@ -611,7 +624,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },
@@ -704,13 +717,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },
@@ -752,7 +765,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },
@@ -770,7 +783,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },
@@ -782,7 +795,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },
@@ -795,7 +808,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },
@@ -909,7 +922,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },
@@ -997,6 +1010,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-04-12 19:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:57:20 +0000"
@@ -1005,7 +1024,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:55:25 +0000"
+      "log_spam_fixer": "2025-04-12 19:05:36 +0000"
     },
     "done": false
   },

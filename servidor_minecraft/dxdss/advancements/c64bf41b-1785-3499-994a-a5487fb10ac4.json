@@ -121,7 +121,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:birch_forest": "2025-04-12 18:53:43 +0000"
+      "minecraft:birch_forest": "2025-04-12 18:53:43 +0000",
+      "minecraft:deep_dark": "2025-04-12 18:55:55 +0000"
     },
     "done": false
   },
@@ -440,6 +441,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-12 18:56:26 +0000"
     },
     "done": true
   },
