@@ -1216,3 +1216,71 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Apr2025 20:31:26.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Olga'/162, l='ServerLevel[dxdss]', x=53.20, y=88.50, z=120.96] died: Olga was slain by Drunken Villager
 [12Apr2025 20:31:29.513] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/6429, l='ServerLevel[dxdss]', x=40.65, y=91.62, z=119.58] died: Drunken Villager was slain by Yvetta
 [12Apr2025 20:31:29.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:32:02.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hana'/253, l='ServerLevel[dxdss]', x=66.97, y=82.00, z=146.61] died, message: 'Hana was slain by Zombie'
+[12Apr2025 20:32:02.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hana'/253, l='ServerLevel[dxdss]', x=66.97, y=82.00, z=146.61] died: Hana was slain by Zombie
+[12Apr2025 20:32:22.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/6425, l='ServerLevel[dxdss]', x=67.81, y=57.02, z=108.87] died: Drunken Villager was slain by Flancito0_
+[12Apr2025 20:32:33.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/6572, l='ServerLevel[dxdss]', x=75.47, y=56.00, z=101.62] died: Drunken Villager was slain by Flancito0_
+[12Apr2025 20:32:37.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/6586, l='ServerLevel[dxdss]', x=78.15, y=56.00, z=100.07] died: Drunken Villager was slain by Flancito0_
+[12Apr2025 20:32:40.915] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ivo'/150, l='ServerLevel[dxdss]', x=37.70, y=78.00, z=126.30] died, message: 'Ivo was slain by Zombie'
+[12Apr2025 20:32:40.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ivo'/150, l='ServerLevel[dxdss]', x=37.70, y=78.00, z=126.30] died: Ivo was slain by Zombie
+[12Apr2025 20:33:04.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Unlicensed Alchemist
+[12Apr2025 20:33:11.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 20:33:54.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Sofx0Loder
+[12Apr2025 20:34:06.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Flancito0_
+[12Apr2025 20:35:20.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Unlicensed Alchemist
+[12Apr2025 20:35:20.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/6601, l='ServerLevel[dxdss]', x=75.26, y=56.00, z=106.47] died: Unlicensed Alchemist was slain by Flancito0_
+[12Apr2025 20:35:21.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was killed by Potion using magic
+[12Apr2025 20:35:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:35:47.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Vindicator
+[12Apr2025 20:35:50.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Drunken Villager
+[12Apr2025 20:35:50.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7124, l='ServerLevel[dxdss]', x=80.28, y=56.00, z=109.30] died: Unlicensed Alchemist was slain by Flancito0_
+[12Apr2025 20:35:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was killed by Potion using magic
+[12Apr2025 20:35:52.920] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[12Apr2025 20:35:52.920] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[12Apr2025 20:35:52.920] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[12Apr2025 20:35:52.920] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[12Apr2025 20:35:52.920] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[12Apr2025 20:36:00.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 20:36:03.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Drunken Villager
+[12Apr2025 20:36:10.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 20:36:12.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[12Apr2025 20:36:12.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[12Apr2025 20:36:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Drunken Villager
+[12Apr2025 20:36:12.223] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[12Apr2025 20:36:18.073] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@48fb4aba
+[12Apr2025 20:36:18.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:59579] logged in with entity id 7283 at (81.80619426205783, 56.0, 110.09032629257682)
+[12Apr2025 20:36:18.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[12Apr2025 20:36:18.673] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[12Apr2025 20:36:18.673] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[12Apr2025 20:36:49.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Drunken Villager
+[12Apr2025 20:36:50.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/6626, l='ServerLevel[dxdss]', x=80.84, y=56.00, z=112.67] died: Drunken Villager was slain by Sofx0Loder
+[12Apr2025 20:37:33.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Unlicensed Alchemist
+[12Apr2025 20:37:34.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Unlicensed Alchemist
+[12Apr2025 20:37:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Unlicensed Alchemist
+[12Apr2025 20:37:54.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 20:38:00.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7288, l='ServerLevel[dxdss]', x=74.75, y=56.00, z=108.82] died: Unlicensed Alchemist was slain by Flancito0_
+[12Apr2025 20:38:03.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7450, l='ServerLevel[dxdss]', x=72.57, y=56.00, z=108.98] died: Unlicensed Alchemist was slain by Flancito0_
+[12Apr2025 20:38:04.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was killed by Potion using magic
+[12Apr2025 20:38:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was killed by Potion using magic
+[12Apr2025 20:38:09.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:38:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[12Apr2025 20:38:32.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[12Apr2025 20:38:34.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:40:02.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7501, l='ServerLevel[dxdss]', x=82.09, y=56.13, z=111.00] died: Unlicensed Alchemist was slain by Sofx0Loder
+[12Apr2025 20:40:03.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was killed by Potion using magic
+[12Apr2025 20:40:32.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Unlicensed Alchemist
+[12Apr2025 20:40:37.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Unlicensed Alchemist
+[12Apr2025 20:40:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Unlicensed Alchemist
+[12Apr2025 20:40:53.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:41:04.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7812, l='ServerLevel[dxdss]', x=82.02, y=56.00, z=111.66] died: Unlicensed Alchemist was slain by Sofx0Loder
+[12Apr2025 20:41:15.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7503, l='ServerLevel[dxdss]', x=80.73, y=56.52, z=109.97] died: Unlicensed Alchemist was slain by Sofx0Loder
+[12Apr2025 20:41:16.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7388, l='ServerLevel[dxdss]', x=80.42, y=56.00, z=110.55] died: Unlicensed Alchemist was slain by Sofx0Loder
+[12Apr2025 20:41:16.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/8227, l='ServerLevel[dxdss]', x=79.70, y=56.00, z=109.52] died: Unlicensed Alchemist was slain by Sofx0Loder
+[12Apr2025 20:41:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was killed by Potion using magic
+[12Apr2025 20:41:16.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was killed by Potion using magic
+[12Apr2025 20:41:17.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was killed by Potion using magic
+[12Apr2025 20:41:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was killed by Potion using magic
+[12Apr2025 20:41:19.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:41:22.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[12Apr2025 20:41:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[12Apr2025 20:41:33.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]

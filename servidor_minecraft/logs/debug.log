@@ -14509,3 +14509,531 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Apr2025 20:31:26.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Olga'/162, l='ServerLevel[dxdss]', x=53.20, y=88.50, z=120.96] died: Olga was slain by Drunken Villager
 [12Apr2025 20:31:29.513] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/6429, l='ServerLevel[dxdss]', x=40.65, y=91.62, z=119.58] died: Drunken Villager was slain by Yvetta
 [12Apr2025 20:31:29.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:32:02.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hana'/253, l='ServerLevel[dxdss]', x=66.97, y=82.00, z=146.61] died, message: 'Hana was slain by Zombie'
+[12Apr2025 20:32:02.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hana'/253, l='ServerLevel[dxdss]', x=66.97, y=82.00, z=146.61] died: Hana was slain by Zombie
+[12Apr2025 20:32:02.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[12Apr2025 20:32:02.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[12Apr2025 20:32:22.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:32:22.718] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:32:22.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/6425, l='ServerLevel[dxdss]', x=67.81, y=57.02, z=108.87] died: Drunken Villager was slain by Flancito0_
+[12Apr2025 20:32:33.418] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:32:33.418] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:32:33.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/6572, l='ServerLevel[dxdss]', x=75.47, y=56.00, z=101.62] died: Drunken Villager was slain by Flancito0_
+[12Apr2025 20:32:34.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:32:34.119] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:32:37.206] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:32:37.206] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:32:37.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/6586, l='ServerLevel[dxdss]', x=78.15, y=56.00, z=100.07] died: Drunken Villager was slain by Flancito0_
+[12Apr2025 20:32:40.915] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ivo'/150, l='ServerLevel[dxdss]', x=37.70, y=78.00, z=126.30] died, message: 'Ivo was slain by Zombie'
+[12Apr2025 20:32:40.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ivo'/150, l='ServerLevel[dxdss]', x=37.70, y=78.00, z=126.30] died: Ivo was slain by Zombie
+[12Apr2025 20:33:04.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Unlicensed Alchemist
+[12Apr2025 20:33:11.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 20:33:48.304] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:33:48.304] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:33:48.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:33:48.447] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:33:48.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:33:48.648] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:33:48.850] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:33:48.851] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:33:49.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:33:49.052] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:33:49.194] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:33:49.195] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:33:49.418] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:33:49.418] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:33:52.547] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:33:52.547] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:33:54.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:33:54.292] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:33:54.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Sofx0Loder
+[12Apr2025 20:34:06.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:34:06.558] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:34:06.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Flancito0_
+[12Apr2025 20:35:17.469] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:35:17.469] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:35:18.602] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:35:18.602] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:35:19.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:35:19.749] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:35:20.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Unlicensed Alchemist
+[12Apr2025 20:35:20.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:35:20.608] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:35:20.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/6601, l='ServerLevel[dxdss]', x=75.26, y=56.00, z=106.47] died: Unlicensed Alchemist was slain by Flancito0_
+[12Apr2025 20:35:21.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:35:21.270] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:35:21.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was killed by Potion using magic
+[12Apr2025 20:35:22.195] [Server thread/DEBUG] [twilightforest/]: Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) respawned and received items held in storage
+[12Apr2025 20:35:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:35:47.094] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:35:47.094] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:35:47.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Vindicator
+[12Apr2025 20:35:48.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:35:48.870] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:35:49.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:35:49.508] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:35:50.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:35:50.169] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:35:50.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Drunken Villager
+[12Apr2025 20:35:50.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:35:50.970] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:35:50.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7124, l='ServerLevel[dxdss]', x=80.28, y=56.00, z=109.30] died: Unlicensed Alchemist was slain by Flancito0_
+[12Apr2025 20:35:51.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:35:51.620] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:35:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was killed by Potion using magic
+[12Apr2025 20:35:52.920] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[12Apr2025 20:35:52.920] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[12Apr2025 20:35:52.920] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[12Apr2025 20:35:52.920] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[12Apr2025 20:35:52.920] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[12Apr2025 20:35:55.540] [Server thread/DEBUG] [twilightforest/]: Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) respawned and received items held in storage
+[12Apr2025 20:36:00.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 20:36:03.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Drunken Villager
+[12Apr2025 20:36:10.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 20:36:12.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[12Apr2025 20:36:12.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[12Apr2025 20:36:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Drunken Villager
+[12Apr2025 20:36:12.223] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Flancito0_
+[12Apr2025 20:36:12.223] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[12Apr2025 20:36:15.390] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 41 messages to dispatch.
+[12Apr2025 20:36:15.518] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[12Apr2025 20:36:15.567] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'vazkii.quark.base.network.message.structural.S2CLoginFlag' to 'quark:main' sequence 1
+[12Apr2025 20:36:15.618] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 2
+[12Apr2025 20:36:15.668] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 3
+[12Apr2025 20:36:15.717] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 4
+[12Apr2025 20:36:15.721] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[12Apr2025 20:36:15.721] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[12Apr2025 20:36:15.721] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:15.769] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:moa_type' to 'fml:handshake' sequence 5
+[12Apr2025 20:36:15.789] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel quark:main with index 1
+[12Apr2025 20:36:15.789] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type vazkii.quark.base.network.message.structural.C2SLoginFlag
+[12Apr2025 20:36:15.818] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[12Apr2025 20:36:15.868] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[12Apr2025 20:36:15.919] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[12Apr2025 20:36:15.919] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[12Apr2025 20:36:15.919] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [hexerei, weaponmaster_ydm, dynamiclightsreforged, fallingattack, betterdungeons, decorativecovers, easyanvils, betterwitchhuts, beautify, playeranimator, aether, naturalist, betteroceanmonuments, nerb, connectivity, entitycollisionfpsfix, incendium, sophisticatedcore, bn_weapons, xaeroworldmap, modernfix, citadel, yungsapi, mixinextras, sophisticatedbackpacks, balm, snowrealmagic, fpsreducer, carryon, alphaskins, betterfortresses, knight_quest, cloth_config, crash_assistant, twilightforest, emojiful, embeddium, rubidium, entity_model_features, entity_texture_features, handcrafted, fastipping, cozy_home, ambientsounds, do_a_barrel_roll, chunky, yungsbridges, lionfishapi, cataclysm, curios, oculus, reforgium, camera, yungsextras, noisium, elevatorid, betterstrongholds, resourcefullib, cumulus_menus, pluto, better_runtime_resource_pack, spartanweaponry, architectury, enhancedblockentities, cupboard, refurbished_furniture, betterendisland, nitrogen_internals, rubidium_extra, framework, fallingtree, illageandspillage, t_and_t, bettermineshafts, playerrevive, geckolib3, betterjungletemples, waterdripsound, kiwi, mca, limitedchunks, easymagic, jei, swordinthestone, visualworkbench, universalbonemeal, pehkui, goblintraders, epicsamurai, invmove, waystones, wardrobe, structory, fastasyncworldsave, comforts, breezy, cpm, myserveriscompatible, mr_lukis_grandcapitals, beetle_f, lazydfu, starlight, betterdeserttemples, explorerscompass, farsight_view, bosses_of_mass_destruction, terralith, azurelib, jsonentitymodels, watut, rubidium_extras, dungeons_andtaverns_mr, forge, dsurround, sndctrl, environs, mobeffects, dungeons_arise, tectonic, minecraft, tht, smoothchunk, voicechat, sound_physics_remastered, simplyswords, terrablender, moonlight, bettercombat, jade, another_furniture, culllessleaves, creativecore, spectrelib, ksyxis, archaeology, spartanshields, xaerominimap, gravestone, bocchium, autoreglib, quark, supplementaries, nullscape, crittersandcompanions, canary, inventoryhud, immediatelyfast, coroutil, ferritecore, puzzleslib, enhancedcelestials, corgilib, cosmeticarmorreworked]
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:play' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingattack:main' : Version test of '2' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'azurelib:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nitrogen_internals:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cozy_home:cozy_home' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'crittersandcompanions:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'breezy:messages' : Version test of '1.0' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'beetle_f:beetle_f' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'knight_quest:knight_quest' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:channel' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:play' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tht:tht' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:network' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easyanvils:play' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kiwi:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'illageandspillage:channel' : Version test of '2' from client : ACCEPTED
+[12Apr2025 20:36:15.920] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'weaponmaster_ydm:yearscnetworking' : Version test of '1.0' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'swordinthestone:packets' : Version test of '1.0' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Version test of '1.0' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bn_weapons:bn_weapons' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of '2' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:network' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wardrobe:wardrobe' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elevatorid:main_channel' : Version test of '1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:15.921] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:15.968] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 9
+[12Apr2025 20:36:16.019] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 10
+[12Apr2025 20:36:16.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[12Apr2025 20:36:16.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[12Apr2025 20:36:16.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.041] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.068] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 11
+[12Apr2025 20:36:16.120] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 12
+[12Apr2025 20:36:16.167] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 13
+[12Apr2025 20:36:16.218] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 14
+[12Apr2025 20:36:16.268] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:advancement_sound_override' to 'fml:handshake' sequence 15
+[12Apr2025 20:36:16.318] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 16
+[12Apr2025 20:36:16.369] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 17
+[12Apr2025 20:36:16.419] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 18
+[12Apr2025 20:36:16.471] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 19
+[12Apr2025 20:36:16.519] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry swordinthestone:sword_abilities' to 'fml:handshake' sequence 20
+[12Apr2025 20:36:16.567] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 21
+[12Apr2025 20:36:16.616] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 22
+[12Apr2025 20:36:16.667] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 23
+[12Apr2025 20:36:16.718] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 24
+[12Apr2025 20:36:16.770] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 25
+[12Apr2025 20:36:16.819] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 26
+[12Apr2025 20:36:16.867] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 27
+[12Apr2025 20:36:16.905] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[12Apr2025 20:36:16.905] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.905] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.905] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[12Apr2025 20:36:16.905] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.905] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.917] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 28
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.917] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.918] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[12Apr2025 20:36:16.918] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.918] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.918] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[12Apr2025 20:36:16.918] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.918] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.918] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[12Apr2025 20:36:16.918] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:16.918] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:16.968] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 29
+[12Apr2025 20:36:17.018] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 30
+[12Apr2025 20:36:17.068] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config elevatorid-server.toml' to 'fml:handshake' sequence 31
+[12Apr2025 20:36:17.118] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 32
+[12Apr2025 20:36:17.168] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 33
+[12Apr2025 20:36:17.218] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config universalbonemeal-server.toml' to 'fml:handshake' sequence 34
+[12Apr2025 20:36:17.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[12Apr2025 20:36:17.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[12Apr2025 20:36:17.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[12Apr2025 20:36:17.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[12Apr2025 20:36:17.234] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.234] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.234] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[12Apr2025 20:36:17.234] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.234] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.234] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[12Apr2025 20:36:17.234] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.234] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.270] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config aether-server.toml' to 'fml:handshake' sequence 35
+[12Apr2025 20:36:17.318] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config beautify-server.toml' to 'fml:handshake' sequence 36
+[12Apr2025 20:36:17.368] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easyanvils-server.toml' to 'fml:handshake' sequence 37
+[12Apr2025 20:36:17.417] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 38
+[12Apr2025 20:36:17.468] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 39
+[12Apr2025 20:36:17.518] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 40
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.737] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.980] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.984] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[12Apr2025 20:36:17.984] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.984] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.984] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[12Apr2025 20:36:17.984] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.984] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.984] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[12Apr2025 20:36:17.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[12Apr2025 20:36:17.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[12Apr2025 20:36:17.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[12Apr2025 20:36:17.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.985] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.988] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[12Apr2025 20:36:17.988] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.988] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:17.988] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[12Apr2025 20:36:17.988] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Apr2025 20:36:17.988] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Apr2025 20:36:18.017] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[12Apr2025 20:36:18.073] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@48fb4aba
+[12Apr2025 20:36:18.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:59579] logged in with entity id 7283 at (81.80619426205783, 56.0, 110.09032629257682)
+[12Apr2025 20:36:18.077] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@92e3f1b into net.minecraft.network.Connection@768cb419
+[12Apr2025 20:36:18.077] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 177 classes
+[12Apr2025 20:36:18.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[12Apr2025 20:36:18.156] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Flancito0_: {disabled=false, disconnected=true, uuid=807d4b02-2892-3ac2-a000-a9c5173caa95, name=Flancito0_, group=null}
+[12Apr2025 20:36:18.673] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[12Apr2025 20:36:18.673] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Flancito0_
+[12Apr2025 20:36:18.673] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Flancito0_
+[12Apr2025 20:36:18.673] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Flancito0_
+[12Apr2025 20:36:18.673] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[12Apr2025 20:36:49.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Drunken Villager
+[12Apr2025 20:36:50.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:36:50.346] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:36:50.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/6626, l='ServerLevel[dxdss]', x=80.84, y=56.00, z=112.67] died: Drunken Villager was slain by Sofx0Loder
+[12Apr2025 20:36:51.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:36:51.070] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:02.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[12Apr2025 20:37:02.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[12Apr2025 20:37:18.893] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:18.894] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:19.993] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:19.993] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:20.649] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:20.649] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:21.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:21.294] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:22.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:22.046] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:22.846] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:22.846] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:23.593] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:23.594] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:24.293] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:24.293] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:24.997] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:24.997] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:25.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:25.746] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:26.445] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:26.445] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:27.203] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:27.203] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:27.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:27.845] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:28.351] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:28.351] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:29.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:29.047] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:29.703] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:29.703] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:29.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:29.704] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:30.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:30.400] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:30.401] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:30.401] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:33.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:33.443] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:33.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Unlicensed Alchemist
+[12Apr2025 20:37:34.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Unlicensed Alchemist
+[12Apr2025 20:37:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Unlicensed Alchemist
+[12Apr2025 20:37:51.716] [Server thread/DEBUG] [twilightforest/]: Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) respawned and received items held in storage
+[12Apr2025 20:37:54.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 20:37:58.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:58.653] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:37:59.404] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:37:59.404] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:38:00.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:38:00.155] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:38:00.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7288, l='ServerLevel[dxdss]', x=74.75, y=56.00, z=108.82] died: Unlicensed Alchemist was slain by Flancito0_
+[12Apr2025 20:38:03.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:38:03.570] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:38:03.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7450, l='ServerLevel[dxdss]', x=72.57, y=56.00, z=108.98] died: Unlicensed Alchemist was slain by Flancito0_
+[12Apr2025 20:38:04.291] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:38:04.291] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:38:04.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was killed by Potion using magic
+[12Apr2025 20:38:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was killed by Potion using magic
+[12Apr2025 20:38:05.151] [Server thread/DEBUG] [twilightforest/]: Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) respawned and received items held in storage
+[12Apr2025 20:38:09.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:38:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[12Apr2025 20:38:32.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[12Apr2025 20:38:34.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:39:58.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:39:58.848] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:39:59.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:39:59.548] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:01.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:40:01.570] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:02.243] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:40:02.244] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:02.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7501, l='ServerLevel[dxdss]', x=82.09, y=56.13, z=111.00] died: Unlicensed Alchemist was slain by Sofx0Loder
+[12Apr2025 20:40:02.902] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:40:02.902] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:03.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was killed by Potion using magic
+[12Apr2025 20:40:32.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Unlicensed Alchemist
+[12Apr2025 20:40:32.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:40:32.240] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:32.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:40:32.241] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:32.242] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:40:32.242] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:32.243] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:40:32.243] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:32.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:40:32.244] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:36.647] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:40:36.647] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:37.304] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:40:37.304] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:37.952] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:40:37.952] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:40:37.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Unlicensed Alchemist
+[12Apr2025 20:40:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Unlicensed Alchemist
+[12Apr2025 20:40:51.890] [Server thread/DEBUG] [twilightforest/]: Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) respawned and received items held in storage
+[12Apr2025 20:40:53.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:41:03.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:03.396] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:04.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:04.321] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:04.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7812, l='ServerLevel[dxdss]', x=82.02, y=56.00, z=111.66] died: Unlicensed Alchemist was slain by Sofx0Loder
+[12Apr2025 20:41:09.647] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:09.647] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:10.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:10.303] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:11.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:11.006] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:11.007] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:11.007] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:11.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:11.008] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:11.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:11.648] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:11.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:11.650] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:11.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:11.651] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:12.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:12.347] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:12.348] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:12.348] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:12.349] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:12.349] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:13.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:13.720] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:14.347] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:14.347] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:14.348] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:14.348] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:14.349] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:14.349] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:14.996] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:14.996] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:14.998] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:14.998] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:14.999] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:14.999] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:15.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:15.644] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:15.646] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:15.646] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:15.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7503, l='ServerLevel[dxdss]', x=80.73, y=56.52, z=109.97] died: Unlicensed Alchemist was slain by Sofx0Loder
+[12Apr2025 20:41:15.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:15.648] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:16.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:16.371] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:16.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/7388, l='ServerLevel[dxdss]', x=80.42, y=56.00, z=110.55] died: Unlicensed Alchemist was slain by Sofx0Loder
+[12Apr2025 20:41:16.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:16.374] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:16.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:16.375] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:16.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:16.375] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:16.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/8227, l='ServerLevel[dxdss]', x=79.70, y=56.00, z=109.52] died: Unlicensed Alchemist was slain by Sofx0Loder
+[12Apr2025 20:41:16.391] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:16.391] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:16.391] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:16.391] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was killed by Potion using magic
+[12Apr2025 20:41:16.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was killed by Potion using magic
+[12Apr2025 20:41:16.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:16.995] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:16.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:16.995] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:16.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:16.995] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:17.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:17.070] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:17.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Apr2025 20:41:17.070] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[12Apr2025 20:41:17.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was killed by Potion using magic
+[12Apr2025 20:41:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was killed by Potion using magic
+[12Apr2025 20:41:17.973] [Server thread/DEBUG] [twilightforest/]: Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) respawned and received items held in storage
+[12Apr2025 20:41:18.050] [Server thread/DEBUG] [twilightforest/]: Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) respawned and received items held in storage
+[12Apr2025 20:41:19.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 20:41:22.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[12Apr2025 20:41:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[12Apr2025 20:41:33.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
