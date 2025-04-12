@@ -11,15 +11,21 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "incendium:technical/on_block": {
     "criteria": {
-      "always": "2025-04-12 16:07:50 +0000"
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
     },
-    "done": true
+    "done": false
   },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:01 +0000"
     },
     "done": true
   },
@@ -29,31 +35,13 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_red": {
+  "minecraft:recipes/woodcutting/witch_hazel/barrel_from_witch_hazel_planks_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 16:07:51 +0000"
-    },
-    "done": false
-  },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2025-04-12 16:07:50 +0000"
+      "give_recipe": "2025-04-12 16:29:05 +0000"
     },
     "done": true
   },
   "comforts:hammock_black": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
     },
@@ -77,37 +65,7 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 16:07:51 +0000"
-    },
-    "done": false
-  },
-  "comforts:sleeping_bag_magenta_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_lime_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_magenta_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_blue": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
     },
@@ -119,12 +77,23 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "mca:recipes/misc/needle_and_thread": {
     "criteria": {
-      "minecraft:birch_forest": "2025-04-12 16:07:51 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-12 16:10:45 +0000"
+      "has_item": "2025-04-12 17:07:45 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
@@ -132,27 +101,15 @@
     },
     "done": true
   },
-  "comforts:hammock_blue_from_white": {
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_planks_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "give_recipe": "2025-04-12 16:29:05 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_gray_from_white": {
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-12 16:07:51 +0000"
-    },
-    "done": false
-  },
-  "comforts:sleeping_bag_orange": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "give_recipe": "2025-04-12 16:29:05 +0000"
     },
     "done": true
   },
@@ -162,21 +119,27 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_cyan": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "elytra": "2025-04-12 16:26:04 +0000"
     },
     "done": true
   },
-  "incendium:technical/new_player": {
+  "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "requirement": "2025-04-12 16:07:50 +0000"
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
     },
-    "done": true
+    "done": false
   },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_slab_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
     },
     "done": true
   },
@@ -186,9 +149,15 @@
     },
     "done": true
   },
-  "comforts:hammock_purple_from_white": {
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_planks_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "beautify:candleabras": {
+    "criteria": {
+      "requirement": "2025-04-12 16:27:34 +0000"
     },
     "done": true
   },
@@ -198,15 +167,9 @@
     },
     "done": true
   },
-  "knight_quest:kq_quest_source": {
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_witch_hazel_planks_woodcutting": {
     "criteria": {
-      "kq_quest_source": "2025-04-12 16:07:47 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_recipe": "2025-04-12 16:07:50 +0000"
+      "give_recipe": "2025-04-12 16:29:05 +0000"
     },
     "done": true
   },
@@ -222,43 +185,37 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_pink_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
     },
     "done": true
   },
-  "comforts:hammock_red": {
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_door_from_witch_hazel_planks_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "give_recipe": "2025-04-12 16:29:05 +0000"
     },
     "done": true
   },
-  "comforts:hammock_black_from_white": {
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_planks_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "give_recipe": "2025-04-12 16:29:05 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_yellow_from_white": {
+  "beautify:frames": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "requirement": "2025-04-12 16:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_gate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
     },
     "done": true
   },
   "comforts:sleeping_bag_purple_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
     },
@@ -276,15 +233,15 @@
     },
     "done": true
   },
-  "comforts:hammock_light_gray": {
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "give_recipe": "2025-04-12 16:29:05 +0000"
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "comforts:hammock_light_gray": {
     "criteria": {
-      "WDA": "2025-04-12 16:07:50 +0000"
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
     },
     "done": true
   },
@@ -293,6 +250,18 @@
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-04-12 16:44:45 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
@@ -306,43 +275,13 @@
     },
     "done": true
   },
-  "comforts:hammock_green_from_white": {
+  "mca:recipes/misc/comb": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_orange": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_lime_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "has_item": "2025-04-12 17:07:45 +0000"
     },
     "done": true
   },
   "comforts:sleeping_bag_blue_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_pink": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_orange_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
     },
@@ -354,15 +293,9 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_cyan_from_white": {
+  "mca:recipes/misc/bouquet": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_gray_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "has_item": "2025-04-12 16:13:31 +0000"
     },
     "done": true
   },
@@ -372,21 +305,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
     },
     "done": true
   },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_button_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
     },
     "done": true
   },
@@ -414,33 +353,45 @@
     },
     "done": true
   },
-  "comforts:hammock_brown": {
-    "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
     },
     "done": true
   },
-  "comforts:hammock_blue": {
+  "dungeons_arise:find_greenwood_pub": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "location0": "2025-04-12 16:51:11 +0000"
     },
     "done": true
   },
-  "comforts:hammock_green": {
+  "beautify:trellis": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "requirement": "2025-04-12 16:29:49 +0000"
     },
     "done": true
   },
-  "comforts:hammock_gray": {
+  "minecraft:story/root": {
     "criteria": {
-      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+      "crafting_table": "2025-04-12 16:29:39 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-04-12 17:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:01 +0000"
     },
     "done": true
   },
@@ -467,6 +418,435 @@
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
     },
     "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-04-12 16:29:49 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pressure_plate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/crafting_table_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 16:07:51 +0000"
+    },
+    "done": false
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-04-12 17:07:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 16:07:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-12 16:35:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_chest_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-12 16:15:26 +0000",
+      "minecraft:birch_forest": "2025-04-12 16:07:51 +0000",
+      "minecraft:forest": "2025-04-12 16:51:19 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-12 16:10:45 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 16:07:51 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-12 16:44:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
+    },
+    "done": false
+  },
+  "knight_quest:kq_quest_source": {
+    "criteria": {
+      "kq_quest_source": "2025-04-12 16:07:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-04-12 16:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-12 16:13:03 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_pressure_plate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_gate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-12 16:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_door_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-12 17:07:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 16:29:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 17:14:03 +0000"
+    },
+    "done": false
   },
   "beautify:progression/root": {
     "criteria": {
