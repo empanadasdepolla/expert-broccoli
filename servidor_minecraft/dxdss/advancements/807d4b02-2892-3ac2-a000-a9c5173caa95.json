@@ -13,7 +13,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
     },
     "done": false
   },
@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-04-12 18:36:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:57:20 +0000"
@@ -137,6 +143,12 @@
     },
     "done": true
   },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-04-12 18:36:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:24 +0000"
@@ -145,9 +157,21 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
     },
     "done": false
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-04-12 18:42:34 +0000"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-04-12 18:43:27 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_red_from_white": {
     "criteria": {
@@ -283,8 +307,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-12 18:38:53 +0000",
       "cooked_beef": "2025-04-12 17:11:32 +0000",
-      "beef": "2025-04-12 17:11:13 +0000"
+      "beef": "2025-04-12 17:11:13 +0000",
+      "bread": "2025-04-12 18:42:58 +0000"
     },
     "done": false
   },
@@ -432,6 +458,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-04-12 18:42:53 +0000",
+      "has_block": "2025-04-12 18:42:53 +0000"
+    },
+    "done": true
+  },
   "beautify:blinds": {
     "criteria": {
       "requirement": "2025-04-12 17:01:12 +0000"
@@ -492,6 +525,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-12 18:36:00 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-04-12 16:39:24 +0000"
@@ -500,9 +539,15 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_pole": "2025-04-12 18:35:36 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
@@ -542,7 +587,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
     },
     "done": false
   },
@@ -555,6 +600,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-12 16:39:24 +0000",
+      "minecraft:dripstone_caves": "2025-04-12 18:40:53 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-12 17:10:52 +0000"
     },
     "done": false
@@ -562,6 +608,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-12 18:37:05 +0000"
     },
     "done": true
   },
@@ -576,6 +628,12 @@
       "log_spam_fixer": "2025-04-12 16:39:24 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-04-12 18:35:43 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_orange": {
     "criteria": {
@@ -601,6 +659,12 @@
     },
     "done": true
   },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-04-12 18:42:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-04-12 16:39:24 +0000"
@@ -615,13 +679,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
     },
     "done": false
   },
@@ -663,7 +727,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
     },
     "done": false
   },
@@ -681,7 +745,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
     },
     "done": false
   },
@@ -693,13 +757,20 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-04-12 18:36:13 +0000",
+      "minecraft:zombie": "2025-04-12 18:36:00 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
     },
     "done": false
   },
@@ -757,6 +828,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-04-12 18:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
@@ -781,6 +858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-12 18:42:53 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
@@ -801,7 +884,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
     },
     "done": false
   },
@@ -826,6 +909,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-04-12 18:42:34 +0000"
     },
     "done": true
   },
@@ -885,7 +974,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-12 18:35:25 +0000"
+      "log_spam_fixer": "2025-04-12 18:45:25 +0000"
     },
     "done": false
   },
