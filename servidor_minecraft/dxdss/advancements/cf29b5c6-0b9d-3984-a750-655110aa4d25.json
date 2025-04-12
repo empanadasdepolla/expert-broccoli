@@ -189,6 +189,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-12 16:44:45 +0000",
       "cooked_mutton": "2025-04-12 18:43:13 +0000",
+      "cooked_beef": "2025-04-12 21:17:57 +0000",
       "apple": "2025-04-12 19:26:54 +0000",
       "bread": "2025-04-12 19:19:04 +0000",
       "cookie": "2025-04-12 19:09:50 +0000",
@@ -688,6 +689,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-04-12 21:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_slab_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:29:05 +0000"
@@ -1041,6 +1048,12 @@
     },
     "done": true
   },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-04-12 21:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:38:44 +0000"
@@ -1182,6 +1195,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-04-12 21:17:22 +0000"
     },
     "done": true
   },

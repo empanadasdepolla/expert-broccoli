@@ -1356,3 +1356,27 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [12Apr2025 21:10:38.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Not Today, Thank You]
 [12Apr2025 21:11:44.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Blade of the Samurai]
 [12Apr2025 21:11:55.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Skeleton
+[12Apr2025 21:12:20.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was shot by Skeleton
+[12Apr2025 21:12:25.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 21:12:29.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[12Apr2025 21:12:35.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Diamonds!]
+[12Apr2025 21:12:36.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Cover Me with Diamonds]
+[12Apr2025 21:13:39.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was shot by Skeleton
+[12Apr2025 21:13:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was shot by Skeleton
+[12Apr2025 21:15:10.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 21:15:37.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder fell from a high place
+[12Apr2025 21:15:46.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder fell from a high place
+[12Apr2025 21:17:23.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Skeleton
+[12Apr2025 21:18:17.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Skeleton
+[12Apr2025 21:18:20.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Skeleton
+[12Apr2025 21:18:30.670] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2cb65a2e
+[12Apr2025 21:18:30.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:45761] logged in with entity id 22716 at (48.5, 84.0, 44.5)
+[12Apr2025 21:18:30.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[12Apr2025 21:18:31.337] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[12Apr2025 21:18:31.337] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[12Apr2025 21:18:46.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[12Apr2025 21:18:57.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder was slain by Skeleton
+[12Apr2025 21:19:05.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell from a high place
+[12Apr2025 21:19:15.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[12Apr2025 21:19:21.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[12Apr2025 21:19:30.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]

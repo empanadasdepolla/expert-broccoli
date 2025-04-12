@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-12 21:12:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:26:25 +0000"
@@ -629,6 +635,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-12 21:12:35 +0000"
     },
     "done": true
   },
