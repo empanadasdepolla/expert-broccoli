@@ -2157,3 +2157,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [13Apr2025 04:40:18.647] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Apr2025 04:40:50.070] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
 [13Apr2025 04:40:50.070] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[13Apr2025 04:41:40.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [What a Deal!]
+[13Apr2025 04:42:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Straightening the Scythes]
+[13Apr2025 04:44:37.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has reached the goal [You Need a Mint]
+[13Apr2025 04:45:02.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 sent expired chat: ':peped:'. Is the client/server system time unsynchronized?
+[13Apr2025 04:45:02.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> :peped:
+[13Apr2025 04:45:10.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> de q hablan de mi culeros
+[13Apr2025 04:45:25.262] [Worker-Main-1/WARN] [ModernFix/]: The namespace hexerei contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Apr2025 04:45:29.094] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-300, y=89, z=1658} but found not block entity block Block{minecraft:stone} at location
+[13Apr2025 04:45:29.094] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-300, y=89, z=1658}
+[13Apr2025 04:45:29.094] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-298, y=91, z=1659} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[13Apr2025 04:45:29.094] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-298, y=91, z=1659}
+[13Apr2025 04:45:29.094] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-299, y=92, z=1659} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[13Apr2025 04:45:29.094] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-299, y=92, z=1659}
+[13Apr2025 04:45:29.094] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-298, y=92, z=1659} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[13Apr2025 04:45:29.094] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-298, y=92, z=1659}
+[13Apr2025 04:45:29.095] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-300, y=89, z=1659} but found not block entity block Block{minecraft:stone_stairs}[facing=north,half=bottom,shape=straight,waterlogged=false] at location
+[13Apr2025 04:45:29.095] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=north,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=-300, y=89, z=1659}
+[13Apr2025 04:46:00.489] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[13Apr2025 04:47:16.841] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 04:49:02.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> callate estoy consentra
+[13Apr2025 04:49:58.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Salome'/229042, l='ServerLevel[dxdss]', x=-1102.21, y=27.00, z=245.12] died, message: 'Salome hit the ground too hard whilst trying to escape Skeleton'
+[13Apr2025 04:49:58.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Salome'/229042, l='ServerLevel[dxdss]', x=-1102.21, y=27.00, z=245.12] died: Salome was doomed to fall by Skeleton
+[13Apr2025 04:50:39.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Cat]
+[13Apr2025 04:51:12.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Cat]
+[13Apr2025 04:51:21.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> al fin tengo todas las librerias de la mesa de encantamientos, osea tengo la mesa a nvl max
+[13Apr2025 04:51:25.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Disconnected
+[13Apr2025 04:51:25.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[13Apr2025 04:51:25.625] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sofx0Loder

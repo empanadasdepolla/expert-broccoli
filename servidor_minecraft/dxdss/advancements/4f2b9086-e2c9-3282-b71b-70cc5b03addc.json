@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-04-13 04:39:39 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
@@ -630,6 +636,12 @@
     },
     "done": true
   },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-04-13 04:41:30 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-04-12 21:18:30 +0000"
@@ -835,6 +847,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-04-13 04:41:30 +0000"
     },
     "done": true
   },

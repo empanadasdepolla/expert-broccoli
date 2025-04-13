@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-04-13 04:44:37 +0000"
+    },
+    "done": true
+  },
   "knight_quest:kq_quest_source": {
     "criteria": {
       "kq_quest_source": "2025-04-12 18:53:42 +0000"
