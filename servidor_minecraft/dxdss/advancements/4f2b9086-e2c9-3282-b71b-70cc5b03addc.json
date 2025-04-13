@@ -606,6 +606,12 @@
     },
     "done": true
   },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-04-13 03:47:45 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"

@@ -900,6 +900,12 @@
     },
     "done": true
   },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2025-04-13 03:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:57:20 +0000"
