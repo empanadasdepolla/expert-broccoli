@@ -745,6 +745,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-13 00:09:49 +0000",
+      "minecraft:sparse_jungle": "2025-04-13 16:31:27 +0000",
       "minecraft:river": "2025-04-13 16:07:22 +0000",
       "minecraft:dripstone_caves": "2025-04-13 03:05:41 +0000",
       "minecraft:forest": "2025-04-13 04:26:33 +0000",
@@ -919,6 +920,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-13 04:17:32 +0000",
       "minecraft:spider": "2025-04-13 04:15:44 +0000",
+      "minecraft:cave_spider": "2025-04-13 16:37:13 +0000",
       "minecraft:zombie": "2025-04-13 03:03:30 +0000"
     },
     "done": false
