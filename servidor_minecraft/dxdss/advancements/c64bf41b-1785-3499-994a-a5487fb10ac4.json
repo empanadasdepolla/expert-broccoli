@@ -744,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:calico": "2025-04-13 02:03:59 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
@@ -843,6 +849,12 @@
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-13 02:03:59 +0000"
     },
     "done": true
   },

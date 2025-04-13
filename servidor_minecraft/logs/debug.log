@@ -16025,3 +16025,184 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 02:08:06.761] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Riina}[style={}] has been infected
 [13Apr2025 02:08:12.283] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
 [13Apr2025 02:08:12.283] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[13Apr2025 02:08:17.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[13Apr2025 02:08:17.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[13Apr2025 02:08:57.138] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1527, y=71, z=-2403}) doesn't have enough leaves around top most log
+[13Apr2025 02:08:57.879] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1527, y=72, z=-2403}) doesn't have enough leaves around top most log
+[13Apr2025 02:09:29.847] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:09:30.605] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/straight_05 is being run through DFU (hash 18aabcb97d9efeced1802cd7cedf499861f246d19b6137d68d225447d8feee08), this will cause launch time delays
+[13Apr2025 02:09:30.609] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_1 is being run through DFU (hash e6fdde8996f2e9fb7b1a127608aa2f5cf0ea687284e89255429b9a474c6720dd), this will cause launch time delays
+[13Apr2025 02:09:30.673] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_2 is being run through DFU (hash 8092ef863c479087bd43fd6150b3d12d472d6977f70473bdd7ee867a68dd9000), this will cause launch time delays
+[13Apr2025 02:09:30.677] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_3 is being run through DFU (hash 2033ac939d915fed9a43e934a9454cfa8052f283fa5ee7d73e31fbdc74d391f4), this will cause launch time delays
+[13Apr2025 02:09:30.681] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_4 is being run through DFU (hash 2c14e4db6ebb563ec02cfed9b3d1f8c63c1ebf7b808910abc52c8ce4483567ed), this will cause launch time delays
+[13Apr2025 02:09:30.688] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_5 is being run through DFU (hash 8b609b9f0673343ac5699326e0756362b317b1ba3ea1fa72a4dc7c11141bbb20), this will cause launch time delays
+[13Apr2025 02:09:30.690] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_6 is being run through DFU (hash c67c39ee50e53f7247c421a9fd561621b25170304d2ebc67d0f8807ccfa8373e), this will cause launch time delays
+[13Apr2025 02:09:30.693] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_medium_house_1 is being run through DFU (hash 4c250e6256ba787b9b6c224177c6bce59ab3992dc0e4d753067d23b9b4f5a991), this will cause launch time delays
+[13Apr2025 02:09:30.833] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_medium_house_2 is being run through DFU (hash f92dbf8baf22ce11a092d283ced414ffb40647763d3b30bc3bcd2d96d0b2c190), this will cause launch time delays
+[13Apr2025 02:09:30.841] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_large_house_1 is being run through DFU (hash 240b902835db25118c3138f0dbb8048f54dd73188cf2a389466ee0260889339c), this will cause launch time delays
+[13Apr2025 02:09:30.855] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_fisher_1 is being run through DFU (hash e7e9c4558f9ddb677908f3a9c81c692865cf96e2244f13941d94aa80e38dc0bb), this will cause launch time delays
+[13Apr2025 02:09:30.858] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_fletcher_1 is being run through DFU (hash 76d6dd4cfb464a99a2e0e639d05a1612c1e4e7c950c96fe505f209e1a83d3c02), this will cause launch time delays
+[13Apr2025 02:09:30.859] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_mason_1 is being run through DFU (hash 3344ba78600921fd98fa3cbe6a16e23e7a7be013a3ae3f82a3b411d095b9324e), this will cause launch time delays
+[13Apr2025 02:09:30.861] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_shepherd_1 is being run through DFU (hash 58d72fe7fb708c4509207c90fddc5d0986118df05843570a9a2c429a1a234388), this will cause launch time delays
+[13Apr2025 02:09:30.866] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/houses/birch_forest_weaponsmith_1 is being run through DFU (hash c2d7e6ca6c96a23f1ccdf5bd8ce9a14236f6503539d2c61e2c598aa4f7e2598b), this will cause launch time delays
+[13Apr2025 02:09:30.869] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/terminators/terminator_01 is being run through DFU (hash a7063bd49101eb2746f79a4127fdd94be84cd36b01ea2588d2624bbd5c5d854c), this will cause launch time delays
+[13Apr2025 02:09:30.870] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/terminators/terminator_02 is being run through DFU (hash 3b88e2f1c10bb83663c54400ca31b4e6df96e2f5bb68b96548d5a984a746508e), this will cause launch time delays
+[13Apr2025 02:09:30.870] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/terminators/terminator_03 is being run through DFU (hash 6d78c62c304793fd497f10f7d766c2d9034495a02c01174c453fe87e946f977e), this will cause launch time delays
+[13Apr2025 02:09:30.871] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/terminators/terminator_04 is being run through DFU (hash adc3819775273a3e5bb1286045dfde1d0ae26f2da95e516c561417b67e53375e), this will cause launch time delays
+[13Apr2025 02:09:30.877] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/straight_01 is being run through DFU (hash f9339176170ac4de33a00f8fa8337ed9170d788372b34d11b3fabd5801e19de0), this will cause launch time delays
+[13Apr2025 02:09:30.880] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/birch_forest_decor_1 is being run through DFU (hash 212638cce041ee68451eb77aec5d51625f74273d7b2a5075f73be8f9d60a2159), this will cause launch time delays
+[13Apr2025 02:09:30.881] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/birch_forest_decor_2 is being run through DFU (hash 70ab5b33d31e349618e46bc4a97e228ab6c66dd83c415e193031dcdf84f85b81), this will cause launch time delays
+[13Apr2025 02:09:30.882] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/birch_forest_decor_3 is being run through DFU (hash 793c86e11bd10650fe9877a9f6d5ffe3907a26ea97f1012b2978e693ed67a98f), this will cause launch time delays
+[13Apr2025 02:09:30.886] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/crossroad_06 is being run through DFU (hash 43fd08f3e30958c6e3c298fdd889ecfda07c458df5c7605654500e9e10933579), this will cause launch time delays
+[13Apr2025 02:09:30.891] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/crossroad_05 is being run through DFU (hash 596444a3a822236becfca9850892618722ce687de4c7d823159f50cc6fbe834c), this will cause launch time delays
+[13Apr2025 02:09:30.911] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/straight_04 is being run through DFU (hash 6f2bbe153dd1b2463b5f236c5eddc50f72b2007570ca057c82d34750dcd2ddca), this will cause launch time delays
+[13Apr2025 02:09:30.943] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/turn_01 is being run through DFU (hash ca79f77ce791fe89b52debf40a2a5ea3c2ad19667cf2c8f924283b123f6a7bcd), this will cause launch time delays
+[13Apr2025 02:09:30.945] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/crossroad_04 is being run through DFU (hash b38fc66a7875ba20156de7cdaa3ff5e2ba49b493eac94e8645740f43232f0b54), this will cause launch time delays
+[13Apr2025 02:09:30.946] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/corner_02 is being run through DFU (hash f5f749f3cfd77cff66b07ee7da50b5be70c47f2f899113aad8fd6cd0643828ec), this will cause launch time delays
+[13Apr2025 02:09:30.949] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/straight_03 is being run through DFU (hash 8c8d286a8d48975719fcdceb56e0d3ed50c2102b2020b1df389eb9bbe208bcca), this will cause launch time delays
+[13Apr2025 02:09:30.952] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/corner_01 is being run through DFU (hash bf60637d3b3176dcd7d5b8b55b73302b512c4e6a43d7b378b4116b301a2dcaec), this will cause launch time delays
+[13Apr2025 02:09:30.956] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/crossroad_03 is being run through DFU (hash 1f698f46614ed954852e29c3d1a723b26330e0dc77c26102c66c1fef2ba356e7), this will cause launch time delays
+[13Apr2025 02:09:30.960] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/straight_02 is being run through DFU (hash 685aa028d46c25b3f20fed6ae5d33cfce65a99cff8b1a2a44ae13fe3742f350d), this will cause launch time delays
+[13Apr2025 02:09:30.963] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/crossroad_01 is being run through DFU (hash 392247b31414f21d7a83ca23170d4b638d4e02aebd71b6c5328324f813d2fa64), this will cause launch time delays
+[13Apr2025 02:09:30.968] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/straight_06 is being run through DFU (hash 16aa0fe0432886da07e3a5e891683de2e05f359092a05511c530a0b8b4aea336), this will cause launch time delays
+[13Apr2025 02:09:30.975] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/crossroad_02 is being run through DFU (hash df18299dca38da897fbc2f8fc6528e72597d201fe617737d7f5daf03cca4b223), this will cause launch time delays
+[13Apr2025 02:09:30.979] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/birch_forest_romanian/streets/corner_03 is being run through DFU (hash ea0e82705d18a4c4f301574d9f2adf80f19b1eb40c3cc534dbb04eb6f5cc82e7), this will cause launch time delays
+[13Apr2025 02:09:33.678] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:09:33.678] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:09:33.678] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:09:33.678] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:09:39.149] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:09:39.632] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:09:39.633] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:09:39.633] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:09:39.633] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:09:48.648] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[13Apr2025 02:09:48.648] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[13Apr2025 02:09:53.320] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:mahogany_tree3
+[13Apr2025 02:09:53.363] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:mahogany_tree1
+[13Apr2025 02:10:19.830] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:mahogany_tree2
+[13Apr2025 02:10:22.678] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:mahogany_tree4
+[13Apr2025 02:10:50.381] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_0 is being run through DFU (hash 011de72dba5edace8c5f48f342e2c489bce38caa9a715b6c536f8b668e829056), this will cause launch time delays
+[13Apr2025 02:10:52.923] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
+[13Apr2025 02:10:52.924] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
+[13Apr2025 02:10:56.131] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=626}
+[13Apr2025 02:10:56.131] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
+[13Apr2025 02:10:56.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 0.40512061893787177,10.308394190213988,-5.571237161185763
+[13Apr2025 02:11:05.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[13Apr2025 02:11:24.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> como agarro las nutrias u.u
+[13Apr2025 02:11:46.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> -1479 143 -2816
+[13Apr2025 02:11:53.484] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_1
+[13Apr2025 02:12:59.597] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Apr2025 02:12:59.598] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[13Apr2025 02:12:59.598] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 grappling_hook
+[13Apr2025 02:12:59.598] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 diamond_tower_shield
+[13Apr2025 02:12:59.598] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
+[13Apr2025 02:12:59.853] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Apr2025 02:12:59.853] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[13Apr2025 02:12:59.853] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 grappling_hook
+[13Apr2025 02:12:59.853] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 diamond_tower_shield
+[13Apr2025 02:12:59.853] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
+[13Apr2025 02:13:00.153] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Apr2025 02:13:00.154] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[13Apr2025 02:13:00.154] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 grappling_hook
+[13Apr2025 02:13:00.155] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 diamond_tower_shield
+[13Apr2025 02:13:00.155] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
+[13Apr2025 02:13:00.397] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Apr2025 02:13:00.397] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[13Apr2025 02:13:00.397] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 grappling_hook
+[13Apr2025 02:13:00.397] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 diamond_tower_shield
+[13Apr2025 02:13:00.398] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
+[13Apr2025 02:13:00.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! 5.385279588115054,-2.0013359791121417,-8.378919479688193
+[13Apr2025 02:13:00.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
+[13Apr2025 02:13:01.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:01.480] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:08.068] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:08.068] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:08.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> me dice click isquierdo y si lo reinicio sale lo mimo
+[13Apr2025 02:13:08.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:08.770] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:10.076] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:10.077] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:10.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:10.779] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:14.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:14.268] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:14.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:14.916] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:19.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:19.616] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:20.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:20.270] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:21.372] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:21.372] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:21.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[13Apr2025 02:13:21.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[13Apr2025 02:13:22.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:22.056] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:24.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:24.870] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:25.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:25.517] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:26.589] [Worker-Main-1/WARN] [ModernFix/]: The namespace betterjungletemples contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Apr2025 02:13:26.589] [Worker-Main-1/DEBUG] [ModernFix/]: Structure betterjungletemples:stairs/stairs_0 is being run through DFU (hash 3710a02edd654a2c8605785a01b90c7354e70105cc5a6f50a6842f7025702333), this will cause launch time delays
+[13Apr2025 02:13:26.599] [Worker-Main-1/DEBUG] [ModernFix/]: Structure betterjungletemples:floor_2/room/floor_2_corridor_room_1 is being run through DFU (hash 38626e7e4a37d100d6044f7aeed4503be9dc0b5d9663f999e599c8d2cd363b43), this will cause launch time delays
+[13Apr2025 02:13:26.617] [Worker-Main-1/DEBUG] [ModernFix/]: Structure betterjungletemples:floor_1/room/floor_1_room_5 is being run through DFU (hash 57a28c063e666c66f578f0bd82f4f1d91d8451b141e717f427dd2d20220c20e7), this will cause launch time delays
+[13Apr2025 02:13:26.627] [Worker-Main-1/DEBUG] [ModernFix/]: Structure betterjungletemples:floor_2/room/floor_2_vine_room_2 is being run through DFU (hash 40ac9719fc798ba8a1fc8344575fea1e46117f9963fef69985e9ea76d82598a0), this will cause launch time delays
+[13Apr2025 02:13:26.635] [Worker-Main-1/DEBUG] [ModernFix/]: Structure betterjungletemples:floor_2/hallway/floor_2_hallway_4 is being run through DFU (hash 1b01b9d4949501fdd2d237930560562535c040b15a51eaba23509c273e0281a4), this will cause launch time delays
+[13Apr2025 02:13:26.638] [Worker-Main-1/DEBUG] [ModernFix/]: Structure betterjungletemples:top/top_0 is being run through DFU (hash 36fbe5f1f21c4c52f9b9306c25fc18c7346392dcc1c8709debf8b1e97a588d16), this will cause launch time delays
+[13Apr2025 02:13:26.650] [Worker-Main-1/DEBUG] [ModernFix/]: Structure betterjungletemples:floor_1/room_back/floor_1_room_back_1 is being run through DFU (hash bf7e03e90bae1b739e2901a532b03e6ea37b34c88fa95bc354a19c6c87cc8c48), this will cause launch time delays
+[13Apr2025 02:13:27.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:27.128] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:27.564] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_2
+[13Apr2025 02:13:27.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:27.770] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:29.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:29.669] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:30.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:30.317] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:31.415] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:31.415] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:32.069] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:32.069] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:33.717] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:33.717] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:34.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:34.343] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:40.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:40.126] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:41.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:41.817] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:45.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:45.767] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:46.415] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:46.415] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:49.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> na
+[13Apr2025 02:13:50.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:50.169] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:50.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ fell from a high place
+[13Apr2025 02:13:50.926] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:13:50.926] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:13:58.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> no es compatible con este mod :c
+[13Apr2025 02:14:31.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> presencie un asesinato
+[13Apr2025 02:14:50.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell from a high place
+[13Apr2025 02:14:50.650] [Server thread/DEBUG] [twilightforest/]: Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) respawned and received items held in storage
+[13Apr2025 02:15:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> tengo un pezcado lo llamare pepe
+[13Apr2025 02:15:51.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:15:51.777] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:16:01.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> ME PEGO LA NUTRIA CULIA
+[13Apr2025 02:16:10.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> ush
+[13Apr2025 02:17:06.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> -1538 205 -3060
+[13Apr2025 02:17:20.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[13Apr2025 02:17:48.640] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[13Apr2025 02:18:19.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:18:19.619] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:18:20.017] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:18:20.017] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:18:21.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[13Apr2025 02:18:21.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[13Apr2025 02:18:24.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Kicked by an operator
+[13Apr2025 02:18:24.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[13Apr2025 02:18:24.693] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Flancito0_
+[13Apr2025 02:18:24.694] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[13Apr2025 02:18:24.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked Flancito0_: Kicked by an operator]
+[13Apr2025 02:18:24.728] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
