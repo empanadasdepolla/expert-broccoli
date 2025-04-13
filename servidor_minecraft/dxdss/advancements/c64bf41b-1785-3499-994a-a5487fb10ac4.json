@@ -540,10 +540,13 @@
       "minecraft:dark_forest": "2025-04-12 19:26:41 +0000",
       "minecraft:river": "2025-04-12 19:27:01 +0000",
       "minecraft:dripstone_caves": "2025-04-13 03:03:01 +0000",
+      "minecraft:jagged_peaks": "2025-04-13 04:12:08 +0000",
       "minecraft:forest": "2025-04-12 19:12:41 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-12 19:27:17 +0000",
+      "minecraft:flower_forest": "2025-04-13 04:19:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-12 19:21:26 +0000",
       "minecraft:deep_dark": "2025-04-12 18:55:55 +0000",
+      "minecraft:meadow": "2025-04-13 04:15:36 +0000",
       "minecraft:plains": "2025-04-13 02:46:33 +0000"
     },
     "done": false
@@ -788,6 +791,12 @@
   "mca:root": {
     "criteria": {
       "village_taiga": "2025-04-12 19:29:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-04-13 04:22:48 +0000"
     },
     "done": true
   },

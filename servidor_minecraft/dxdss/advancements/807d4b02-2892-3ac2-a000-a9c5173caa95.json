@@ -271,6 +271,7 @@
       "cooked_mutton": "2025-04-12 18:55:35 +0000",
       "cooked_beef": "2025-04-12 17:11:32 +0000",
       "beef": "2025-04-12 17:11:13 +0000",
+      "apple": "2025-04-13 04:13:31 +0000",
       "bread": "2025-04-12 18:42:58 +0000",
       "golden_apple": "2025-04-13 01:51:25 +0000",
       "rotten_flesh": "2025-04-12 19:18:06 +0000",
@@ -418,6 +419,12 @@
       "log_spam_fixer": "2025-04-12 16:39:24 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-04-13 04:05:15 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:root": {
     "criteria": {
@@ -789,6 +796,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 04:10:50 +0000"
     },
     "done": true
   },

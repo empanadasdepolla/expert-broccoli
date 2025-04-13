@@ -5,23 +5,11 @@
     },
     "done": true
   },
-  "mca:recipes/building_blocks/headstones": {
+  "incendium:technical/on_block": {
     "criteria": {
-      "has_the_upright_recipe": "2025-04-13 00:09:48 +0000"
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
     },
-    "done": true
-  },
-  "comforts:hammock_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 00:21:12 +0000"
-    },
-    "done": true
+    "done": false
   },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
@@ -29,21 +17,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/witch_hazel/barrel_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:51:40 +0000"
     },
     "done": true
   },
@@ -54,12 +30,6 @@
     "done": true
   },
   "comforts:sleeping_bag_lime": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
     },
@@ -83,12 +53,6 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_black_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-04-13 03:22:00 +0000"
@@ -98,12 +62,6 @@
   "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:51:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:08:02 +0000"
     },
     "done": true
   },
@@ -125,39 +83,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 02:59:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:08:02 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_light_blue_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:01:07 +0000"
     },
     "done": true
   },
@@ -197,12 +131,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_slab_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
@@ -212,12 +140,6 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:01:07 +0000"
     },
     "done": true
   },
@@ -233,12 +155,6 @@
     },
     "done": true
   },
-  "comforts:hammock_cyan": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:01:07 +0000"
@@ -251,15 +167,544 @@
     },
     "done": true
   },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-13 04:15:26 +0000"
+    },
+    "done": false
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-04-13 03:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_gate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-04-13 03:51:46 +0000",
+      "bread": "2025-04-13 03:36:18 +0000",
+      "rotten_flesh": "2025-04-13 00:19:33 +0000",
+      "glow_berries": "2025-04-13 03:36:12 +0000",
+      "cooked_chicken": "2025-04-13 03:26:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:51:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_button_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:51:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-04-13 00:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:01:07 +0000",
+      "has_block": "2025-04-13 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 00:09:49 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pressure_plate_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 00:09:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:51:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "zombie_head": "2025-04-13 03:50:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 00:09:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-13 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-13 03:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_chest_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-13 03:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-13 04:25:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-04-13 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-13 00:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
+    },
+    "done": false
+  },
+  "knight_quest:kq_quest_source": {
+    "criteria": {
+      "kq_quest_source": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-04-13 00:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-13 03:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:08:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:08:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-13 04:17:32 +0000",
+      "minecraft:spider": "2025-04-13 04:15:44 +0000",
+      "minecraft:zombie": "2025-04-13 03:03:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:08:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:51:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-13 00:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-13 04:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-04-13 04:01:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
+    },
+    "done": false
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2025-04-13 00:09:49 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_upright_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/barrel_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:51:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:08:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-04-13 04:15:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_slab_from_witch_hazel_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:49 +0000"
     },
     "done": true
   },
-  "comforts:hammock_pink_from_white": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+      "deflected_projectile": "2025-04-13 04:17:22 +0000"
     },
     "done": true
   },
@@ -299,27 +744,9 @@
     },
     "done": true
   },
-  "beautify:frames": {
-    "criteria": {
-      "requirement": "2025-04-13 03:34:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_gate_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:01:07 +0000"
     },
     "done": true
   },
@@ -335,12 +762,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
@@ -350,34 +771,6 @@
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:08:02 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_purple": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_beef": "2025-04-13 03:51:46 +0000",
-      "bread": "2025-04-13 03:36:18 +0000",
-      "rotten_flesh": "2025-04-13 00:19:33 +0000",
-      "glow_berries": "2025-04-13 03:36:12 +0000",
-      "cooked_chicken": "2025-04-13 03:26:36 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:51:40 +0000"
     },
     "done": true
   },
@@ -441,18 +834,6 @@
     },
     "done": true
   },
-  "comforts:hammock_lime": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 00:21:12 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
@@ -466,18 +847,6 @@
     "done": true
   },
   "comforts:sleeping_bag_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_button_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
     },
@@ -501,24 +870,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:51:40 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_blue_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "beautify:trellis": {
-    "criteria": {
-      "requirement": "2025-04-13 00:17:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-13 03:04:30 +0000"
@@ -531,22 +882,21 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-13 04:15:26 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-13 04:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 00:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_stairs_woodcutting_combine": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:01:07 +0000",
-      "has_block": "2025-04-13 03:01:07 +0000"
     },
     "done": true
   },
@@ -556,19 +906,7 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 00:09:49 +0000"
-    },
-    "done": false
-  },
   "comforts:rope_and_nail": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
     },
@@ -586,12 +924,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pressure_plate_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/witch_hazel/crafting_table_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 02:59:17 +0000"
@@ -604,18 +936,6 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_red": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 00:09:49 +0000"
-    },
-    "done": false
-  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-04-13 00:09:48 +0000"
@@ -625,12 +945,6 @@
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:51:40 +0000"
     },
     "done": true
   },
@@ -646,37 +960,13 @@
     },
     "done": true
   },
-  "spartanweaponry:collect_heads": {
+  "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "zombie_head": "2025-04-13 03:50:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 00:09:49 +0000"
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
     },
     "done": false
   },
   "comforts:sleeping_bag_magenta_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-04-13 03:25:01 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
     },
@@ -700,22 +990,17 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "incendium:technical/firestorm": {
     "criteria": {
-      "get_stone": "2025-04-13 03:03:44 +0000"
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
     },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_chest_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-13 00:09:49 +0000",
       "minecraft:dripstone_caves": "2025-04-13 03:05:41 +0000",
+      "minecraft:forest": "2025-04-13 04:26:33 +0000",
       "minecraft:lush_caves": "2025-04-13 03:08:46 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-13 03:35:29 +0000"
     },
@@ -724,12 +1009,6 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-13 03:37:58 +0000"
     },
     "done": true
   },
@@ -744,24 +1023,6 @@
       "log_spam_fixer": "2025-04-13 00:09:49 +0000"
     },
     "done": false
-  },
-  "spartanweaponry:scythe": {
-    "criteria": {
-      "has_scythe": "2025-04-13 03:24:57 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_orange": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-13 00:19:33 +0000"
-    },
-    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -787,33 +1048,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
+  "incendium:technical/holy_wrath": {
     "criteria": {
-      "give_recipe": "2025-04-13 03:01:07 +0000"
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
     },
-    "done": true
-  },
-  "knight_quest:kq_quest_source": {
-    "criteria": {
-      "kq_quest_source": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_keep_kayra": {
-    "criteria": {
-      "location0": "2025-04-13 00:20:49 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-13 02:58:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-04-13 03:03:30 +0000"
     },
     "done": true
   },
@@ -823,35 +1066,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:08:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:08:02 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
     },
     "done": true
   },
-  "comforts:hammock_red": {
+  "incendium:technical/give_ghastling": {
     "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
     },
-    "done": true
-  },
-  "comforts:hammock_black_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
+    "done": false
   },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
@@ -859,11 +1084,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "give_recipe": "2025-04-13 03:08:02 +0000"
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
@@ -871,15 +1096,9 @@
     },
     "done": true
   },
-  "comforts:hammock_gray_from_white": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-04-13 03:03:30 +0000"
+      "log_spam_fixer": "2025-04-13 04:32:51 +0000"
     },
     "done": false
   },
@@ -907,33 +1126,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:08:02 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_lime_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:08:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:51:40 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_orange_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
     },
     "done": true
   },
@@ -946,18 +1141,6 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:01:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
     },
     "done": true
   },
@@ -979,27 +1162,9 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_light_gray_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:51:40 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-04-13 00:09:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 03:01:07 +0000"
     },
     "done": true
   },
@@ -1009,31 +1174,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 00:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_door_from_witch_hazel_planks_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 02:59:17 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_blue": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 02:59:17 +0000"
     },
@@ -1048,12 +1189,6 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-13 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray": {
-    "criteria": {
-      "has_the_recipe": "2025-04-13 00:09:48 +0000"
     },
     "done": true
   },
@@ -1075,21 +1210,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-04-13 00:21:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:51:40 +0000"
-    },
-    "done": true
-  },
-  "beautify:progression/root": {
-    "criteria": {
-      "Install": "2025-04-13 00:09:49 +0000"
     },
     "done": true
   },
