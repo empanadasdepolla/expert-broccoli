@@ -1858,3 +1858,55 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 18:47:47.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
 [13Apr2025 18:47:58.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
 [13Apr2025 18:49:06.216] [Worker-Main-1/WARN] [ModernFix/]: The namespace yungsextras contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Apr2025 18:49:56.429] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2123, y=77, z=-6373} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[13Apr2025 18:49:56.429] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-2123, y=77, z=-6373}
+[13Apr2025 18:50:21.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 18:50:34.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 18:50:35.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 18:52:15.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[13Apr2025 18:52:16.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 18:52:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 18:52:27.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [The Lighthouse]
+[13Apr2025 18:52:27.825] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2331, y=77, z=-6268} but found not block entity block Block{minecraft:stone_stairs}[facing=west,half=bottom,shape=straight,waterlogged=false] at location
+[13Apr2025 18:52:27.825] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=west,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=-2331, y=77, z=-6268}
+[13Apr2025 18:52:27.825] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2330, y=79, z=-6267} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[13Apr2025 18:52:27.825] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-2330, y=79, z=-6267}
+[13Apr2025 18:52:27.825] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2332, y=79, z=-6267} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[13Apr2025 18:52:27.825] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-2332, y=79, z=-6267}
+[13Apr2025 18:52:27.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2332, y=77, z=-6268} but found not block entity block Block{minecraft:stone} at location
+[13Apr2025 18:52:27.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-2332, y=77, z=-6268}
+[13Apr2025 18:52:27.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2332, y=80, z=-6267} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[13Apr2025 18:52:27.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-2332, y=80, z=-6267}
+[13Apr2025 18:52:27.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2331, y=80, z=-6267} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
+[13Apr2025 18:52:27.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-2331, y=80, z=-6267}
+[13Apr2025 18:52:27.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2330, y=80, z=-6267} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[13Apr2025 18:52:27.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-2330, y=80, z=-6267}
+[13Apr2025 18:52:44.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> alguien le interesa un pantalon con reparacion?
+[13Apr2025 18:52:55.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> por ahora no
+[13Apr2025 18:53:03.742] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Apr2025 18:53:03.742] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Apr2025 18:53:03.767] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Apr2025 18:53:03.769] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Apr2025 18:53:07.211] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Apr2025 18:53:07.211] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Apr2025 18:53:07.212] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Apr2025 18:53:07.213] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Apr2025 18:53:07.226] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Apr2025 18:53:07.227] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Apr2025 18:53:10.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10299ms or 205 ticks behind
+[13Apr2025 18:53:10.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -9.942145391634767,-1.373904036466726,-1.4165242179415145
+[13Apr2025 18:53:10.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! 5.0,8.753199980521202,0.651514846361124
+[13Apr2025 18:53:10.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> puto
+[13Apr2025 18:53:10.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> .
+[13Apr2025 18:53:10.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> puto
+[13Apr2025 18:54:19.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> .
+[13Apr2025 18:54:20.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 18:56:10.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [When in Rome]
+[13Apr2025 18:56:21.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [When in Rome]
+[13Apr2025 18:56:38.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> men ayuda- 3 warden xd
+[13Apr2025 18:58:38.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Smash And Bash!]
+[13Apr2025 18:58:54.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has made the advancement [Chest Slayer]
+[13Apr2025 18:58:54.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita has made the advancement [Amateur Archaeologist]
+[13Apr2025 18:59:44.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> zzzzzzzzz
+[13Apr2025 18:59:46.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> zzzzzzzzzzzzzz
+[13Apr2025 18:59:47.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [A Cut Above the Rest]

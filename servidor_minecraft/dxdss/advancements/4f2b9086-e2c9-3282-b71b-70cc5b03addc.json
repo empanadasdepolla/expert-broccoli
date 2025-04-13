@@ -139,6 +139,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-04-13 18:56:21 +0000",
       "in_better_skeleton_dungeon": "2025-04-13 18:38:42 +0000"
     },
     "done": false
@@ -178,6 +179,7 @@
       "cooked_mutton": "2025-04-13 18:24:56 +0000",
       "cooked_beef": "2025-04-13 03:21:03 +0000",
       "beef": "2025-04-13 17:11:27 +0000",
+      "baked_potato": "2025-04-13 18:55:59 +0000",
       "apple": "2025-04-13 17:25:23 +0000",
       "mutton": "2025-04-13 17:34:57 +0000",
       "bread": "2025-04-13 17:39:39 +0000",
@@ -769,6 +771,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-13 18:56:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_planks_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:53:55 +0000"
@@ -790,6 +798,12 @@
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-04-13 18:52:27 +0000"
     },
     "done": true
   },
@@ -1049,8 +1063,10 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-13 03:55:03 +0000",
       "minecraft:birch_forest": "2025-04-12 21:18:31 +0000",
+      "minecraft:beach": "2025-04-13 18:53:50 +0000",
       "minecraft:sparse_jungle": "2025-04-13 03:51:11 +0000",
       "minecraft:river": "2025-04-13 03:55:21 +0000",
+      "minecraft:stony_shore": "2025-04-13 18:54:04 +0000",
       "minecraft:dripstone_caves": "2025-04-13 04:05:41 +0000",
       "minecraft:forest": "2025-04-13 03:55:13 +0000",
       "minecraft:frozen_peaks": "2025-04-13 16:25:38 +0000",

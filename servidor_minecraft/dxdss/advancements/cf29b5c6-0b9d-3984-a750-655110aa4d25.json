@@ -187,6 +187,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-04-13 18:56:10 +0000",
       "in_better_skeleton_dungeon": "2025-04-13 18:38:41 +0000"
     },
     "done": false
@@ -935,6 +936,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_door_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-13 18:56:10 +0000"
     },
     "done": true
   },

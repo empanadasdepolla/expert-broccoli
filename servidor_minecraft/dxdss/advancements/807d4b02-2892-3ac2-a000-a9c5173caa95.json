@@ -1393,6 +1393,7 @@
       "minecraft:forest": "2025-04-12 19:09:45 +0000",
       "minecraft:lush_caves": "2025-04-12 18:47:25 +0000",
       "minecraft:deep_cold_ocean": "2025-04-13 03:07:35 +0000",
+      "minecraft:desert": "2025-04-13 18:52:36 +0000",
       "minecraft:jungle": "2025-04-13 16:37:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-12 20:54:12 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-13 18:34:38 +0000",
@@ -1619,6 +1620,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_gate_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2025-04-13 18:52:36 +0000"
     },
     "done": true
   },
