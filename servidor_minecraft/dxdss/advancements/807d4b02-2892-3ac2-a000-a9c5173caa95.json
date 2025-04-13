@@ -1109,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-13 01:42:12 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:24 +0000"
@@ -1230,6 +1236,7 @@
       "minecraft:forest": "2025-04-12 19:09:45 +0000",
       "minecraft:lush_caves": "2025-04-12 18:47:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-12 20:54:12 +0000",
+      "minecraft:flower_forest": "2025-04-13 01:35:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-12 17:10:52 +0000",
       "minecraft:deep_dark": "2025-04-12 19:05:51 +0000",
       "minecraft:meadow": "2025-04-13 01:32:30 +0000",

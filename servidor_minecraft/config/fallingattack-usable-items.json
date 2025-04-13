@@ -1,4 +1,5 @@
 {
     "minecraft:iron_hoe": false,
-    "minecraft:iron_pickaxe": false
+    "minecraft:iron_pickaxe": false,
+    "minecraft:golden_hoe": false
 }
