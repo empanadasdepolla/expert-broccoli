@@ -1316,3 +1316,69 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 16:22:41.877] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-827, y=94, z=-532}
 [13Apr2025 16:23:25.194] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-56, z=-43}
 [13Apr2025 16:23:25.194] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-52, z=-38}
+[13Apr2025 16:26:31.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> aah un gay
+[13Apr2025 16:26:35.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> xD?
+[13Apr2025 16:26:43.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> me envontro el fran
+[13Apr2025 16:27:04.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ fell from a high place
+[13Apr2025 16:27:07.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> HJJGHFJ
+[13Apr2025 16:27:09.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> JASJFAJ
+[13Apr2025 16:27:09.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> hay
+[13Apr2025 16:27:11.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> q hcieiron?
+[13Apr2025 16:27:13.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> el gancho?
+[13Apr2025 16:27:16.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> leo
+[13Apr2025 16:27:16.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> el solo
+[13Apr2025 16:27:21.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> sis
+[13Apr2025 16:29:16.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> :zzz:
+[13Apr2025 16:29:23.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> ntoenogo mcaa
+[13Apr2025 16:29:28.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
+[13Apr2025 16:29:28.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[13Apr2025 16:29:28.607] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[13Apr2025 16:29:30.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1032, y=80, z=-362} BlockPos{x=-1031, y=80, z=-360}
+[13Apr2025 16:29:32.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> :zzz:
+[13Apr2025 16:29:35.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> zzz
+[13Apr2025 16:29:36.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked Uzumaki0502: Kicked by an operator]
+[13Apr2025 16:29:36.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Kicked by an operator
+[13Apr2025 16:29:36.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
+[13Apr2025 16:29:36.698] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Uzumaki0502
+[13Apr2025 16:29:48.444] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ec030b3
+[13Apr2025 16:29:48.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:34795] logged in with entity id 41366 at (-1437.328564191574, 250.5, -692.9741588129917)
+[13Apr2025 16:29:48.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[13Apr2025 16:29:48.713] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[13Apr2025 16:29:48.713] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[13Apr2025 16:29:53.355] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@792ffcc4
+[13Apr2025 16:29:53.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.54.227.74:41895] logged in with entity id 41560 at (-257.09473736638694, -54.0, 37.5150438286312)
+[13Apr2025 16:29:53.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg joined the game
+[13Apr2025 16:29:53.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[13Apr2025 16:29:53.856] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itzloikg (18)
+[13Apr2025 16:29:53.857] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[13Apr2025 16:29:54.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[13Apr2025 16:29:54.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Uzumaki0502 (4f2b9086-e2c9-3282-b71b-70cc5b03addc) successfully connected to voice chat
+[13Apr2025 16:29:56.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6278e817-929b-30db-84db-38a5c920e412
+[13Apr2025 16:29:57.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6278e817-929b-30db-84db-38a5c920e412
+[13Apr2025 16:29:57.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itzloikg (6278e817-929b-30db-84db-38a5c920e412) successfully connected to voice chat
+[13Apr2025 16:31:53.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[13Apr2025 16:31:56.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> qpaso
+[13Apr2025 16:31:57.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> MATE MI PATO
+[13Apr2025 16:32:00.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> NJOOOOOOOOOOOOOOOOOOOO
+[13Apr2025 16:32:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> MASNAF
+[13Apr2025 16:32:00.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ke
+[13Apr2025 16:32:02.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> QTONTO
+[13Apr2025 16:32:04.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> AJSKSJAKJA
+[13Apr2025 16:32:09.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 sent expired chat: 'xd'. Is the client/server system time unsynchronized?
+[13Apr2025 16:32:09.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> xd
+[13Apr2025 16:32:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> como pasó?
+[13Apr2025 16:32:19.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> matando u n zombie
+[13Apr2025 16:32:20.833] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[13Apr2025 16:32:20.855] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[13Apr2025 16:32:20.855] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[13Apr2025 16:32:20.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> se metio
+[13Apr2025 16:32:23.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> JHJASJFAS
+[13Apr2025 16:32:24.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> qpendejo
+[13Apr2025 16:32:25.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> qpendejo
+[13Apr2025 16:32:25.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> qpendejo
+[13Apr2025 16:32:54.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 16:33:09.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 16:33:37.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> KELAGGGG
+[13Apr2025 16:33:51.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ah no
+[13Apr2025 16:33:59.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> tenia el inventario lleno
+[13Apr2025 16:34:12.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Gamerule playersSleepingPercentage is now set to: 2]
