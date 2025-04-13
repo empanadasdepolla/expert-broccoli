@@ -1544,3 +1544,34 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 17:15:32.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was shot by Pillager
 [13Apr2025 17:16:16.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
 [13Apr2025 17:16:47.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:17:08.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:17:22.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:17:28.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:18:01.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:18:13.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:18:21.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:18:24.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:18:50.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:19:08.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:19:27.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:19:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:19:55.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:20:02.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:20:29.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:20:35.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:21:05.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:21:18.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:21:47.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:21:54.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:22:22.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:22:29.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:22:46.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -9.434001405514664,3.0,-2.7318873747908583
+[13Apr2025 17:22:46.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! 10.160038298997051,0.0,1.1290307679888656
+[13Apr2025 17:22:48.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[13Apr2025 17:23:15.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [...And My Axe!]
+[13Apr2025 17:23:19.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was shot by Pillager
+[13Apr2025 17:23:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was shot by Pillager
+[13Apr2025 17:24:25.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was shot by Pillager
+[13Apr2025 17:24:32.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was shot by Pillager
+[13Apr2025 17:26:57.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:27:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was slain by Vindicator

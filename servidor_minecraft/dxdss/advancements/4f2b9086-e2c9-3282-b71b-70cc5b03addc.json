@@ -285,6 +285,7 @@
     "criteria": {
       "cooked_beef": "2025-04-13 03:21:03 +0000",
       "beef": "2025-04-13 17:11:27 +0000",
+      "apple": "2025-04-13 17:25:23 +0000",
       "golden_apple": "2025-04-13 17:10:35 +0000"
     },
     "done": false
@@ -382,6 +383,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 17:25:33 +0000"
     },
     "done": true
   },

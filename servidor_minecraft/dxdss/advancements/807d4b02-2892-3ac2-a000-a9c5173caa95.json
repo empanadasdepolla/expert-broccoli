@@ -415,6 +415,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "creeper_head": "2025-04-13 17:23:50 +0000",
       "zombie_head": "2025-04-12 19:09:13 +0000",
       "illager_head": "2025-04-12 19:50:44 +0000"
     },
@@ -578,7 +579,9 @@
       "minecraft:spider": "2025-04-12 18:36:13 +0000",
       "minecraft:creeper": "2025-04-13 00:18:42 +0000",
       "minecraft:slime": "2025-04-12 21:03:09 +0000",
+      "minecraft:witch": "2025-04-13 17:23:42 +0000",
       "minecraft:wither_skeleton": "2025-04-13 01:00:07 +0000",
+      "minecraft:cave_spider": "2025-04-13 17:23:29 +0000",
       "minecraft:enderman": "2025-04-13 16:40:48 +0000",
       "minecraft:zombie": "2025-04-12 18:36:00 +0000"
     },

@@ -546,6 +546,7 @@
       "minecraft:slime": "2025-04-12 21:03:05 +0000",
       "minecraft:wither_skeleton": "2025-04-13 00:41:16 +0000",
       "minecraft:husk": "2025-04-13 04:04:59 +0000",
+      "minecraft:cave_spider": "2025-04-13 17:19:46 +0000",
       "minecraft:piglin": "2025-04-13 02:44:24 +0000",
       "minecraft:zombie": "2025-04-12 18:37:17 +0000"
     },
@@ -1511,6 +1512,12 @@
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:56:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-04-13 17:23:15 +0000"
     },
     "done": true
   },
