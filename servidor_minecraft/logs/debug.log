@@ -16498,3 +16498,210 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 02:28:01.169] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/ruin2 is being run through DFU (hash 3e17a0e166a52072f2162ea9451b7a9a350f7e1097a27f8e26f090bb8643d5ea), this will cause launch time delays
 [13Apr2025 02:28:21.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
 [13Apr2025 02:28:21.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[13Apr2025 02:29:34.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked Flancito0_: Kicked by an operator]
+[13Apr2025 02:29:34.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Kicked by an operator
+[13Apr2025 02:29:34.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[13Apr2025 02:29:34.514] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Flancito0_
+[13Apr2025 02:29:34.514] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[13Apr2025 02:29:45.704] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_5 is being run through DFU (hash e8b8fd517c2aae84738f82ad9e51fee2d99b71483c81fb464a726c6aef887270), this will cause launch time delays
+[13Apr2025 02:29:45.873] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_stone
+[13Apr2025 02:29:45.876] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_0
+[13Apr2025 02:29:45.877] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_9
+[13Apr2025 02:29:45.878] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_3
+[13Apr2025 02:29:45.880] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_5
+[13Apr2025 02:29:45.884] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_10
+[13Apr2025 02:29:45.885] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_big_1
+[13Apr2025 02:29:45.885] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/3x3/3x3_8 is being run through DFU (hash 27da72aea2bc33f813d2858be5c9f5da70c7ffff5abdf2b63e22d369b7b0de17), this will cause launch time delays
+[13Apr2025 02:29:45.888] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_6
+[13Apr2025 02:29:45.888] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/arches/arch_10 is being run through DFU (hash 470f82b563f20736d7daf22d518618312c0e2988b232c8871ec5dac6ef967c73), this will cause launch time delays
+[13Apr2025 02:29:45.890] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/arches/arch_9
+[13Apr2025 02:29:45.891] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_7
+[13Apr2025 02:29:56.710] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:29:56.710] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:29:58.393] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:29:58.393] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:29:59.138] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:29:59.139] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:34.813] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:34.813] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:34.814] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:34.814] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:35.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:35.508] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:36.141] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:36.141] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:36.907] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:36.907] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:52.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:52.840] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:53.491] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:53.491] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:54.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:54.140] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:54.814] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:54.814] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:55.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:55.459] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:56.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:56.170] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:56.807] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:56.807] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:57.556] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:57.556] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:32:58.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:32:58.558] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:11.858] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:11.858] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:12.491] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:12.491] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:13.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:13.260] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:13.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:13.262] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:13.910] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:13.911] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:13.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:13.912] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:14.657] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:14.657] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:16.042] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:16.042] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:16.044] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:16.044] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:16.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:16.687] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:16.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:16.688] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:17.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:17.359] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:17.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:17.361] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:17.992] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:17.992] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:17.994] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:17.994] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:18.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:18.659] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:19.964] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:19.964] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:20.607] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:20.607] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:21.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:21.258] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:21.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[13Apr2025 02:33:21.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[13Apr2025 02:33:21.909] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:21.909] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:26.557] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:26.557] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:26.739] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:26.740] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:27.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:27.014] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:27.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:27.212] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:29.907] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:29.907] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:30.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:30.539] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:31.185] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:31.185] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:31.863] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:31.863] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:32.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:32.589] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:33.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:33.260] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:33.908] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:33.909] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:34.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:34.616] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:35.284] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:35.284] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:41.207] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:41.207] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:41.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:41.865] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:42.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:42.488] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:43.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:43.158] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:44.692] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:44.692] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:44.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:44.693] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:45.364] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:45.364] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:45.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:45.365] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:46.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:46.060] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:46.062] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:46.062] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:46.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:46.711] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:33:46.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 02:33:46.711] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 02:34:58.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 02:35:05.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 02:35:30.529] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/turn_01 is being run through DFU (hash ff9263e8cb5b99d8b2933a964867944a24bddaaf18aae0730ef39be667c4bbeb), this will cause launch time delays
+[13Apr2025 02:35:30.530] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_armorer_1 is being run through DFU (hash 1b466cd6a3ad4bbe84ebec133badb20c15a7720a8a7de53e03415b46d2783e15), this will cause launch time delays
+[13Apr2025 02:35:30.533] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_butcher_1 is being run through DFU (hash 2d0b9c7df4ee55bd8de6ff510c505623b8377d3570663a2e76d805777f2786f4), this will cause launch time delays
+[13Apr2025 02:35:30.535] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_cartographer_1 is being run through DFU (hash ad8e107e49a163c0bcda4e244866b3a2d7c28d86628f93913397d6e3de0875fd), this will cause launch time delays
+[13Apr2025 02:35:30.537] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fisher_1 is being run through DFU (hash 254290b891ce2a8a78c48f56286f4a5f44eae3889843a3757fae41f1a2002614), this will cause launch time delays
+[13Apr2025 02:35:30.540] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fletcher_1 is being run through DFU (hash 61f64acd7952d00aa635c4b21613de5b8bea7b0f96528e29cd95cdd1ac99c402), this will cause launch time delays
+[13Apr2025 02:35:30.541] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_leatherworker_1 is being run through DFU (hash 067a44ad5af8d7b9e47ee76e8c028ec2143b62c309a9a55da8aab41c458207d2), this will cause launch time delays
+[13Apr2025 02:35:30.544] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_library_1 is being run through DFU (hash 9c7196387df135312351ab40c1bd625292be1a7e32dcf95c548efd5838b7660e), this will cause launch time delays
+[13Apr2025 02:35:30.546] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_mason_1 is being run through DFU (hash 80e087ad7a4eacc999231d3291a07b313573c1008ed0685b71978f418c12319e), this will cause launch time delays
+[13Apr2025 02:35:30.548] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_shepherd_1 is being run through DFU (hash 66f5853848c1f88c170ff9089d8fbc97587d6920958e8407967467175ac20b98), this will cause launch time delays
+[13Apr2025 02:35:30.550] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_farm_1 is being run through DFU (hash 85312ec4b71d58929c48579685510ecf332eaa3b1daac75043897b688d5378cb), this will cause launch time delays
+[13Apr2025 02:35:30.551] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_toolsmith_and_weaponsmith_1 is being run through DFU (hash b038e57362547d85e0dff96bd5526014ab5bad3685427c7fc332c99e984ae077), this will cause launch time delays
+[13Apr2025 02:35:30.554] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_temple_1 is being run through DFU (hash d31d7af3442e0e6cae51e1767261040bbca5edcdd6cb4da54c6a1bbddd3dfdb1), this will cause launch time delays
+[13Apr2025 02:35:30.557] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_1 is being run through DFU (hash 9a11f9cf46f65aea84d724d38b49a7de5d98dcf7522c1e0b39edd0c08aa366e4), this will cause launch time delays
+[13Apr2025 02:35:30.559] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_2 is being run through DFU (hash 09f138ea948059be3f656ecb95ac553d3062c6e793ed0df4fc75e34bbd4549a9), this will cause launch time delays
+[13Apr2025 02:35:30.561] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_3 is being run through DFU (hash ad61237a0d6afd4b648102bce4deed74837a38218b30a45dc7994765701daac2), this will cause launch time delays
+[13Apr2025 02:35:30.563] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_4 is being run through DFU (hash 65498281eb2ba2bb19f2a9a7b8c4417ea837e812b8417192e76a872addffe55b), this will cause launch time delays
+[13Apr2025 02:35:30.566] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_5 is being run through DFU (hash cb7de76925864c8fe9055df486b83224d8f59227dec72db108425d32a5d31fd1), this will cause launch time delays
+[13Apr2025 02:35:30.567] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_01 is being run through DFU (hash ab221a2e009769dfafec9654f8438547f93e8a59ca3220b73c4cf1cefa76df29), this will cause launch time delays
+[13Apr2025 02:35:30.568] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_02 is being run through DFU (hash 66e890eb9d1d9ee10ef622a600576ddef845198639b9c3f636f8e9f097781ad8), this will cause launch time delays
+[13Apr2025 02:35:30.568] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_03 is being run through DFU (hash 71e4434ac13c4a6b43de4c7136c5143457e030cbc28de95c8dbe7ad45ba4361e), this will cause launch time delays
+[13Apr2025 02:35:30.569] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_04 is being run through DFU (hash 6a8ea3251241d45615752e2904d9b4e3592c576cf7e266fb2342f3fb5415c558), this will cause launch time delays
+[13Apr2025 02:35:30.574] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_02 is being run through DFU (hash 174ad1a14bf48e4815307313386cab69243ee3cb988e819ed6fedd3ab5b542ca), this will cause launch time delays
+[13Apr2025 02:35:30.580] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/snowy_taiga_drakkar_1 is being run through DFU (hash 307387d57d93312ecda10ad14c93782c3ec28ba0a7bad810015aa992cf772f1a), this will cause launch time delays
+[13Apr2025 02:35:30.581] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_03 is being run through DFU (hash 75fdaa68698ae16660ee7e23655f5b5fa49d7be9bef2f39473c6de9ca76c2419), this will cause launch time delays
+[13Apr2025 02:35:30.607] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_04 is being run through DFU (hash 44c9a3788ec85f41af34bf14a1032cf0e08129235993409cac59bfa3f63f6f74), this will cause launch time delays
+[13Apr2025 02:35:30.608] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/corner_01 is being run through DFU (hash c7325a40c7fa7df5cfeff31d6e0aa73b633a4ce5fbf3d79c1849daaf97a0a9c3), this will cause launch time delays
+[13Apr2025 02:35:30.611] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/snowy_taiga_wood_pile_1 is being run through DFU (hash e49eb8ba4e772efd2fffe7e5ff4322a036becc392a6b43569791178bbde9533c), this will cause launch time delays
+[13Apr2025 02:35:30.612] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_03 is being run through DFU (hash b6f818b5e60e084c7981ddac011769b9288b67b0d908f92fb7224377fcc8d307), this will cause launch time delays
+[13Apr2025 02:35:30.615] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_01 is being run through DFU (hash baf170cff6138788562bba5230459bd7768aca184e5a6dafb2746696afc78980), this will cause launch time delays
+[13Apr2025 02:35:30.617] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_05 is being run through DFU (hash e7e5af3a634d1265d908dc5f86485e83d44d4a02bcdfacdc2cde49f4447543e9), this will cause launch time delays
+[13Apr2025 02:35:30.621] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/corner_02 is being run through DFU (hash fb2ef20fa6006051661ebd5d65f9d08cce41d9501ab22190cb214ef7a299cef6), this will cause launch time delays
+[13Apr2025 02:35:30.623] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/corner_03 is being run through DFU (hash 987d799aa447cfdd81bc4beb12904cad47b1cdd274972e2f14cf34bfa05f7ab9), this will cause launch time delays
+[13Apr2025 02:35:30.624] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_01 is being run through DFU (hash 74a7999dfbe8bfc9c9e14a2dc10420af3ce7514353c415ec12e8d5ec4d13a062), this will cause launch time delays
+[13Apr2025 02:35:30.626] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_04 is being run through DFU (hash 8c3966b7e5e3955561cab40974c8f2c4d97bbc05f5ce7af8b40a188a5ee37189), this will cause launch time delays
+[13Apr2025 02:35:30.628] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_05 is being run through DFU (hash d9dff8acd9597fac6a52a70cc042fece0869215a56b42fb6e8b3b3d64a1497a5), this will cause launch time delays
+[13Apr2025 02:35:30.629] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_02 is being run through DFU (hash 617124a88c57068d361b78c58d85b60432b71baf1cb322266a9b92ca5bc40c02), this will cause launch time delays
+[13Apr2025 02:35:47.422] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:47.458] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:47.507] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:47.557] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:47.606] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:47.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:47.715] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:47.760] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:47.809] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:47.857] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:47.907] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:47.957] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:35:48.007] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Apr2025 02:36:05.273] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Camilacapita: {disabled=true, disconnected=true, uuid=c64bf41b-1785-3499-994a-a5487fb10ac4, name=Camilacapita, group=null}
+[13Apr2025 02:38:09.042] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:38:09.042] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:38:09.042] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:38:09.042] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:38:14.798] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:38:14.798] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:38:14.798] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:38:14.798] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:38:21.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[13Apr2025 02:38:21.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
