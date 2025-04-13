@@ -354,6 +354,12 @@
     },
     "done": true
   },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-04-13 20:40:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 18:47:37 +0000"
@@ -1542,6 +1548,12 @@
   "beautify:blinds": {
     "criteria": {
       "requirement": "2025-04-12 17:01:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-04-13 20:42:11 +0000"
     },
     "done": true
   },

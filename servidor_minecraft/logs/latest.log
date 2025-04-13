@@ -2136,3 +2136,40 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 20:32:50.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
 [13Apr2025 20:32:50.609] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Uzumaki0502
 [13Apr2025 20:34:00.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> q mrd
+[13Apr2025 20:34:19.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> vi algo raro y desaparecio
+[13Apr2025 20:35:01.503] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@538caf84
+[13Apr2025 20:35:01.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:41855] logged in with entity id 294436 at (-692.1815096044846, 74.0, -284.0811537172729)
+[13Apr2025 20:35:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[13Apr2025 20:35:02.833] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[13Apr2025 20:35:02.833] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[13Apr2025 20:35:07.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[13Apr2025 20:35:08.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[13Apr2025 20:35:08.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Uzumaki0502 (4f2b9086-e2c9-3282-b71b-70cc5b03addc) successfully connected to voice chat
+[13Apr2025 20:35:18.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[13Apr2025 20:35:23.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 20:37:27.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> me asuste wn
+[13Apr2025 20:37:31.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Disconnected
+[13Apr2025 20:37:31.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
+[13Apr2025 20:37:31.255] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Uzumaki0502
+[13Apr2025 20:37:39.753] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ff81e6c
+[13Apr2025 20:37:39.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:54521] logged in with entity id 296431 at (-690.8921601766242, 74.0, -282.16761410884203)
+[13Apr2025 20:37:39.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[13Apr2025 20:37:40.009] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[13Apr2025 20:37:40.010] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[13Apr2025 20:37:42.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> que es un
+[13Apr2025 20:37:43.199] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[13Apr2025 20:37:44.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[13Apr2025 20:37:44.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Uzumaki0502 (4f2b9086-e2c9-3282-b71b-70cc5b03addc) successfully connected to voice chat
+[13Apr2025 20:37:53.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> petricola
+[13Apr2025 20:40:31.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Smash And Bash!]
+[13Apr2025 20:42:11.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Hammer Time!]
+[13Apr2025 20:42:55.956] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jeanette'/296591, l='ServerLevel[dxdss]', x=-816.25, y=63.00, z=-280.65] died, message: 'Jeanette was slain by Vindicator'
+[13Apr2025 20:42:55.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jeanette'/296591, l='ServerLevel[dxdss]', x=-816.25, y=63.00, z=-280.65] died: Jeanette was slain by Vindicator
+[13Apr2025 20:43:02.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mary'/296575, l='ServerLevel[dxdss]', x=-810.50, y=63.00, z=-284.51] died, message: 'Mary was shot by Pillager'
+[13Apr2025 20:43:02.360] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mary'/296575, l='ServerLevel[dxdss]', x=-810.50, y=63.00, z=-284.51] died: Mary was shot by Pillager
+[13Apr2025 20:43:43.559] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kenneth'/296586, l='ServerLevel[dxdss]', x=-790.53, y=63.00, z=-308.30] died, message: 'Kenneth was shot by Uzumaki0502'
+[13Apr2025 20:43:43.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kenneth'/296586, l='ServerLevel[dxdss]', x=-790.53, y=63.00, z=-308.30] died: Kenneth was shot by Uzumaki0502
+[13Apr2025 20:43:53.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marley'/296592, l='ServerLevel[dxdss]', x=-800.39, y=63.00, z=-306.66] died, message: 'Marley was slain by Ravager'
+[13Apr2025 20:43:53.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marley'/296592, l='ServerLevel[dxdss]', x=-800.39, y=63.00, z=-306.66] died: Marley was slain by Ravager
+[13Apr2025 20:43:58.904] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Norah'/296587, l='ServerLevel[dxdss]', x=-802.53, y=63.00, z=-310.46] died, message: 'Norah was slain by Ravager'
+[13Apr2025 20:43:58.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Norah'/296587, l='ServerLevel[dxdss]', x=-802.53, y=63.00, z=-310.46] died: Norah was slain by Ravager
