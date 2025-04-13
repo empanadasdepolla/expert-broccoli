@@ -6,5 +6,6 @@
     "minecraft:golden_leggings": false,
     "minecraft:bow": false,
     "swordinthestone:forest_sword": true,
-    "minecraft:leather_chestplate": false
+    "minecraft:leather_chestplate": false,
+    "minecraft:golden_axe": false
 }

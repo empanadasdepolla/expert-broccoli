@@ -1326,3 +1326,10 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 21:51:30.245] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Apr2025 21:51:30.245] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Apr2025 21:51:30.245] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 21:52:03.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 sent expired chat: 'xaero-waypoint:casa:C:-690:74:-284:14:false:0:Internal-overworld-waypoints'. Is the client/server system time unsynchronized?
+[13Apr2025 21:52:03.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> xaero-waypoint:casa:C:-690:74:-284:14:false:0:Internal-overworld-waypoints
+[13Apr2025 21:52:29.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to -689.500000, 74.000000, -283.500000]
+[13Apr2025 21:57:45.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[13Apr2025 21:57:49.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! 15.789674676909726,-0.733991704292265,-3.4550508700358478
+[13Apr2025 21:58:28.376] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[13Apr2025 21:58:31.817] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
