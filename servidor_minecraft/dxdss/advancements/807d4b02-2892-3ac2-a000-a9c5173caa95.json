@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-04-13 22:12:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_stairs_woodcutting_combine": {
     "criteria": {
       "give_recipe": "2025-04-13 00:40:27 +0000",
@@ -1687,6 +1693,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-13 16:20:27 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-12 19:08:53 +0000",
+      "minecraft:mushroom_fields": "2025-04-13 22:06:21 +0000",
       "minecraft:deep_ocean": "2025-04-13 21:48:29 +0000",
       "minecraft:eroded_badlands": "2025-04-13 19:00:34 +0000",
       "minecraft:sunflower_plains": "2025-04-13 01:44:38 +0000",
