@@ -1372,3 +1372,20 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 22:22:16.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Zombie
 [13Apr2025 22:22:29.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
 [13Apr2025 22:22:57.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [The Silence of the Forest]
+[13Apr2025 22:24:01.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ fell from a high place
+[13Apr2025 22:24:10.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell from a high place
+[13Apr2025 22:24:18.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:25:05.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:25:57.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to -2058.500000, 23.000000, -2269.500000]
+[13Apr2025 22:26:10.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:26:28.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to -2058.500000, 23.000000, -2269.500000]
+[13Apr2025 22:27:03.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ya
+[13Apr2025 22:27:07.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to -2058.500000, 23.000000, -2269.500000]
+[13Apr2025 22:27:08.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:29:51.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 succumbed to the Lich's explosive magic
+[13Apr2025 22:31:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:31:23.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 succumbed to the Lich's explosive magic
+[13Apr2025 22:31:40.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [The Silence of the Forest]
+[13Apr2025 22:31:59.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ succumbed to the Lich's explosive magic while escaping Kobold
+[13Apr2025 22:32:04.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder succumbed to the Lich's explosive magic
+[13Apr2025 22:33:19.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 succumbed to the Lich's explosive magic while escaping Skeleton
