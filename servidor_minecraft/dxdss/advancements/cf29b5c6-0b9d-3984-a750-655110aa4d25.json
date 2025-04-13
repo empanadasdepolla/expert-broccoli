@@ -259,6 +259,7 @@
       "cooked_beef": "2025-04-12 21:17:57 +0000",
       "apple": "2025-04-12 19:26:54 +0000",
       "bread": "2025-04-12 19:19:04 +0000",
+      "golden_apple": "2025-04-13 22:47:25 +0000",
       "cookie": "2025-04-12 19:09:50 +0000",
       "cooked_chicken": "2025-04-12 19:09:10 +0000",
       "cooked_salmon": "2025-04-12 19:53:54 +0000"
@@ -793,6 +794,12 @@
       "has_item": "2025-04-13 17:06:42 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-13 22:52:29 +0000"
+    },
+    "done": false
   },
   "beautify:progression/root": {
     "criteria": {

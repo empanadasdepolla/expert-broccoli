@@ -1457,3 +1457,116 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 22:42:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> xaero-waypoint:Shared Location:S:2290:63:-9541:15:false:0:Internal-overworld-waypoints
 [13Apr2025 22:43:06.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> me hacen tp a ahi?
 [13Apr2025 22:43:12.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> me haces*
+[13Apr2025 22:43:49.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to 2290.500000, 63.000000, -9540.500000]
+[13Apr2025 22:43:54.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[13Apr2025 22:43:54.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
+[13Apr2025 22:43:55.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 22:44:33.057] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=187}
+[13Apr2025 22:44:33.057] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=189}
+[13Apr2025 22:44:33.058] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=186}
+[13Apr2025 22:44:33.058] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=187}
+[13Apr2025 22:44:33.058] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=186}
+[13Apr2025 22:44:33.058] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=190}
+[13Apr2025 22:44:33.058] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=190}
+[13Apr2025 22:44:33.059] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=189}
+[13Apr2025 22:44:33.121] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-51, z=186}
+[13Apr2025 22:45:18.723] [Worker-Main-138/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:45:18.723] [Worker-Main-138/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:45:18.723] [Worker-Main-138/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:45:18.723] [Worker-Main-138/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:45:39.158] [Worker-Main-139/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:45:39.158] [Worker-Main-139/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:45:39.158] [Worker-Main-139/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:45:39.158] [Worker-Main-139/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:45:46.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 22:46:18.378] [Worker-Main-139/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:47:06.292] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:47:06.293] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:47:06.293] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:47:06.293] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:47:18.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 succumbed to the Lich's explosive magic while escaping Zombie
+[13Apr2025 22:47:29.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 22:47:35.217] [Worker-Main-98/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:47:35.218] [Worker-Main-98/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:47:35.218] [Worker-Main-98/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:47:35.224] [Worker-Main-98/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:47:49.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 22:48:02.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 22:48:10.939] [Worker-Main-139/WARN] [ModernFix/]: The namespace hexerei contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[13Apr2025 22:48:28.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. The Lich and Lich Minion had better aim than Sofx0Loder
+[13Apr2025 22:48:36.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.736] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.736] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.736] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:36.736] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 22:48:41.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 22:48:46.647] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=26, y=-56, z=-114}
+[13Apr2025 22:48:47.738] [Worker-Main-138/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:48:47.741] [Worker-Main-138/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:48:47.742] [Worker-Main-138/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:48:47.742] [Worker-Main-138/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:48:50.096] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-52, z=-111}
+[13Apr2025 22:48:50.096] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-52, z=-109}
+[13Apr2025 22:48:50.128] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-56, z=-114}
+[13Apr2025 22:48:50.166] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=26, y=-56, z=-114}
+[13Apr2025 22:48:50.166] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-56, z=-114}
+[13Apr2025 22:48:50.167] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-52, z=-111}
+[13Apr2025 22:48:50.167] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-52, z=-109}
+[13Apr2025 22:48:50.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was slain by Zombie
+[13Apr2025 22:48:53.935] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=9, y=-56, z=-114}
+[13Apr2025 22:48:53.935] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=-56, z=-114}
+[13Apr2025 22:48:56.063] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=26, y=-56, z=-114}
+[13Apr2025 22:48:56.063] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-56, z=-114}
+[13Apr2025 22:48:56.064] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-52, z=-111}
+[13Apr2025 22:48:56.064] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-52, z=-109}
+[13Apr2025 22:48:56.248] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=9, y=-56, z=-114}
+[13Apr2025 22:48:56.248] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=-56, z=-114}
+[13Apr2025 22:48:59.437] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=26, y=-56, z=-114}
+[13Apr2025 22:48:59.437] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-56, z=-114}
+[13Apr2025 22:48:59.437] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-52, z=-111}
+[13Apr2025 22:48:59.437] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-52, z=-109}
+[13Apr2025 22:49:05.407] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Apr2025 22:49:05.408] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[13Apr2025 22:49:05.409] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 10 baked_potato
+[13Apr2025 22:49:05.409] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 iron_basic_shield
+[13Apr2025 22:49:05.410] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
+[13Apr2025 22:49:08.813] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[13Apr2025 22:49:18.397] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:49:18.742] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[13Apr2025 22:49:18.743] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[13Apr2025 22:49:27.767] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[13Apr2025 22:49:27.768] [Worker-Main-139/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[13Apr2025 22:49:27.780] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[13Apr2025 22:49:27.786] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[13Apr2025 22:49:32.470] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[13Apr2025 22:49:32.470] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[13Apr2025 22:50:22.995] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:50:22.995] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:50:22.995] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:50:22.996] [Worker-Main-110/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:50:34.818] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[13Apr2025 22:50:36.301] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:50:36.301] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:50:36.301] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:50:36.301] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:50:43.778] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[13Apr2025 22:51:23.694] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:51:24.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was killed by Witch using magic
+[13Apr2025 22:51:25.309] [Worker-Main-139/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:51:25.309] [Worker-Main-139/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:51:25.309] [Worker-Main-139/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:51:25.309] [Worker-Main-139/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:51:25.309] [Worker-Main-139/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:51:25.317] [Worker-Main-139/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 22:51:33.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 22:53:05.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
