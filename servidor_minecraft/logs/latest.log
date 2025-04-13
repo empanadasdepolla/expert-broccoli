@@ -2006,3 +2006,34 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 19:30:09.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1225, y=96, z=-1498} BlockPos{x=-1225, y=95, z=-1497}
 [13Apr2025 19:30:09.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1224, y=97, z=-1496} BlockPos{x=-1225, y=95, z=-1497}
 [13Apr2025 19:30:09.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1224, y=97, z=-1496} BlockPos{x=-1225, y=95, z=-1497}
+[13Apr2025 19:32:55.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> .
+[13Apr2025 19:33:01.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Gamerule playersSleepingPercentage is now set to: 3]
+[13Apr2025 19:33:03.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> ya no es necesario q todos duerman?
+[13Apr2025 19:33:51.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [People Are Strange]
+[13Apr2025 19:34:32.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 19:35:18.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> con la ceniza puedo hacer jabon XD
+[13Apr2025 19:35:58.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 19:36:48.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> se excitaba
+[13Apr2025 19:37:31.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> leo son aldeanos verdes?
+[13Apr2025 19:37:44.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> SHHH
+[13Apr2025 19:37:50.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> ay aldeanos verdes igual retrasao
+[13Apr2025 19:37:55.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> CY
+[13Apr2025 19:38:07.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> SON ALDEANOS PENDEJO
+[13Apr2025 19:38:55.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[13Apr2025 19:38:55.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[13Apr2025 19:38:55.717] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[13Apr2025 19:39:01.609] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29d5c1e
+[13Apr2025 19:39:01.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:35801] logged in with entity id 233763 at (-171.85482525719, 77.0, -260.88834602351557)
+[13Apr2025 19:39:01.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[13Apr2025 19:39:02.178] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[13Apr2025 19:39:02.179] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[13Apr2025 19:39:07.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[13Apr2025 19:39:08.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[13Apr2025 19:39:08.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[13Apr2025 19:39:56.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> leo u.u
+[13Apr2025 19:40:08.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> puedo vivir contigo ya que mai no quiere u.u
+[13Apr2025 19:40:15.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Take Aim, Chaps!]
+[13Apr2025 19:40:20.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> poke cy
+[13Apr2025 19:40:54.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> di a cambio de q unu
+[13Apr2025 19:41:32.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 19:41:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
