@@ -283,7 +283,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-04-13 03:21:03 +0000"
+      "cooked_beef": "2025-04-13 03:21:03 +0000",
+      "beef": "2025-04-13 17:11:27 +0000",
+      "golden_apple": "2025-04-13 17:10:35 +0000"
     },
     "done": false
   },
@@ -575,6 +577,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-13 17:09:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-12 21:27:05 +0000"
@@ -590,6 +598,12 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_sign_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 04:03:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-04-13 17:09:14 +0000"
     },
     "done": true
   },
@@ -722,6 +736,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-13 17:09:53 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
@@ -786,6 +806,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-13 16:45:28 +0000",
       "minecraft:skeleton": "2025-04-13 04:20:58 +0000",
+      "minecraft:vindicator": "2025-04-13 17:02:47 +0000",
       "minecraft:magma_cube": "2025-04-13 16:29:05 +0000",
       "minecraft:spider": "2025-04-13 04:17:21 +0000",
       "minecraft:creeper": "2025-04-13 04:20:59 +0000",
@@ -809,6 +830,12 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_planks_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 04:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-04-13 17:09:55 +0000"
     },
     "done": true
   },

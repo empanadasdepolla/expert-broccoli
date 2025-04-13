@@ -1491,3 +1491,56 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 16:54:12.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
 [13Apr2025 16:54:12.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
 [13Apr2025 16:54:12.168] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[13Apr2025 17:00:28.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was blown up by Creeper
+[13Apr2025 17:00:45.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder was shot by Skeleton
+[13Apr2025 17:01:09.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:01:14.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:02:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:02:31.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:02:48.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Chest Slayer]
+[13Apr2025 17:03:24.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has completed the challenge [It Spreads]
+[13Apr2025 17:03:30.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Sneak 100]
+[13Apr2025 17:04:37.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 fell from a high place
+[13Apr2025 17:04:43.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 fell from a high place
+[13Apr2025 17:06:05.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:06:34.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:07:00.023] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 17:08:04.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:08:10.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:08:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:08:30.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:09:14.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [People Are Strange]
+[13Apr2025 17:09:53.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Ol' Betsy]
+[13Apr2025 17:09:53.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Take Aim]
+[13Apr2025 17:09:55.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Who's the Pillager Now?]
+[13Apr2025 17:10:11.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:10:30.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:10:47.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:11:06.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:11:32.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was shot by Pillager
+[13Apr2025 17:11:38.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was shot by Pillager
+[13Apr2025 17:11:53.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:12:15.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:14:13.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:14:20.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was slain by Vindicator
+[13Apr2025 17:15:03.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:15:12.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:15:25.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:15:27.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was shot by Pillager
+[13Apr2025 17:15:32.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was shot by Pillager
+[13Apr2025 17:16:16.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:16:47.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
