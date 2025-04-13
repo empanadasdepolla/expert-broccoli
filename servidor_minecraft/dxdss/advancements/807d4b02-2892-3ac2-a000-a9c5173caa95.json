@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-04-13 01:17:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:warhammer": {
     "criteria": {
       "has_warhammer": "2025-04-12 21:07:29 +0000"
@@ -686,6 +692,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-04-13 01:16:50 +0000"
     },
     "done": true
   },
@@ -830,6 +842,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-04-12 18:42:34 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-04-13 01:17:40 +0000"
     },
     "done": true
   },
@@ -1208,11 +1226,13 @@
       "minecraft:sparse_jungle": "2025-04-12 19:47:28 +0000",
       "minecraft:river": "2025-04-12 20:54:01 +0000",
       "minecraft:dripstone_caves": "2025-04-12 18:40:53 +0000",
+      "minecraft:jagged_peaks": "2025-04-13 01:22:22 +0000",
       "minecraft:forest": "2025-04-12 19:09:45 +0000",
       "minecraft:lush_caves": "2025-04-12 18:47:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-12 20:54:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-12 17:10:52 +0000",
       "minecraft:deep_dark": "2025-04-12 19:05:51 +0000",
+      "minecraft:meadow": "2025-04-13 01:32:30 +0000",
       "minecraft:plains": "2025-04-12 23:47:54 +0000"
     },
     "done": false
