@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-04-13 20:46:42 +0000"
+    },
+    "done": true
+  },
   "beautify:botanist_workbench": {
     "criteria": {
       "requirement": "2025-04-12 19:35:31 +0000"
@@ -265,7 +271,9 @@
       "cooked_beef": "2025-04-13 02:49:41 +0000",
       "pumpkin_pie": "2025-04-13 02:00:36 +0000",
       "bread": "2025-04-12 19:18:28 +0000",
+      "golden_apple": "2025-04-13 20:46:06 +0000",
       "rotten_flesh": "2025-04-13 20:27:59 +0000",
+      "glow_berries": "2025-04-13 20:53:30 +0000",
       "cooked_chicken": "2025-04-12 19:25:52 +0000"
     },
     "done": false
@@ -363,6 +371,12 @@
   "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_stripped_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 20:52:16 +0000"
     },
     "done": true
   },
@@ -702,6 +716,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-13 21:06:56 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
@@ -744,6 +764,7 @@
       "minecraft:spider": "2025-04-12 19:09:47 +0000",
       "minecraft:creeper": "2025-04-12 19:16:56 +0000",
       "minecraft:cave_spider": "2025-04-13 20:13:12 +0000",
+      "minecraft:enderman": "2025-04-13 21:04:26 +0000",
       "minecraft:zombie": "2025-04-12 19:17:57 +0000"
     },
     "done": false
@@ -865,6 +886,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-12 19:09:39 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-04-13 20:46:42 +0000"
     },
     "done": true
   },

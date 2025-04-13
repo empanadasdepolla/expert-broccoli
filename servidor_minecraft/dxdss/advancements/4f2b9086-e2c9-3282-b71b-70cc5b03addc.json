@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-13 20:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 18:19:13 +0000"
@@ -614,11 +620,14 @@
     "criteria": {
       "minecraft:pillager": "2025-04-13 16:45:28 +0000",
       "minecraft:skeleton": "2025-04-13 04:20:58 +0000",
+      "minecraft:ravager": "2025-04-13 20:44:06 +0000",
       "minecraft:vindicator": "2025-04-13 17:02:47 +0000",
       "minecraft:magma_cube": "2025-04-13 16:29:05 +0000",
       "minecraft:spider": "2025-04-13 04:17:21 +0000",
       "minecraft:creeper": "2025-04-13 04:20:59 +0000",
+      "minecraft:slime": "2025-04-13 20:58:28 +0000",
       "quark:forgotten": "2025-04-13 18:40:28 +0000",
+      "minecraft:witch": "2025-04-13 20:45:02 +0000",
       "minecraft:enderman": "2025-04-13 03:50:42 +0000",
       "minecraft:zombie": "2025-04-13 03:24:31 +0000"
     },
@@ -867,6 +876,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/barrel_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 18:19:13 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-04-13 21:06:37 +0000"
     },
     "done": true
   },
