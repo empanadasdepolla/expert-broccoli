@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-13 18:38:42 +0000"
+    },
+    "done": false
+  },
   "beautify:frames": {
     "criteria": {
       "requirement": "2025-04-13 04:39:39 +0000"
@@ -256,6 +262,12 @@
       "log_spam_fixer": "2025-04-12 21:18:31 +0000"
     },
     "done": false
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-13 18:45:48 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_magenta": {
     "criteria": {
@@ -451,6 +463,7 @@
       "minecraft:magma_cube": "2025-04-13 16:29:05 +0000",
       "minecraft:spider": "2025-04-13 04:17:21 +0000",
       "minecraft:creeper": "2025-04-13 04:20:59 +0000",
+      "quark:forgotten": "2025-04-13 18:40:28 +0000",
       "minecraft:enderman": "2025-04-13 03:50:42 +0000",
       "minecraft:zombie": "2025-04-13 03:24:31 +0000"
     },
@@ -744,6 +757,12 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-13 18:38:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_door_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 18:19:13 +0000"
@@ -1017,6 +1036,12 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pressure_plate_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 04:03:26 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-04-13 18:40:29 +0000"
     },
     "done": true
   },

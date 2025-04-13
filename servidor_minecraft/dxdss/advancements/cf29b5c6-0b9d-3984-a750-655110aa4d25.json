@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-13 18:38:41 +0000"
+    },
+    "done": false
+  },
   "beautify:frames": {
     "criteria": {
       "requirement": "2025-04-12 16:51:36 +0000"
@@ -544,6 +550,7 @@
       "minecraft:piglin_brute": "2025-04-13 02:45:17 +0000",
       "minecraft:creeper": "2025-04-12 21:03:02 +0000",
       "minecraft:slime": "2025-04-12 21:03:05 +0000",
+      "quark:forgotten": "2025-04-13 18:41:09 +0000",
       "minecraft:witch": "2025-04-13 17:59:12 +0000",
       "minecraft:wither_skeleton": "2025-04-13 00:41:16 +0000",
       "minecraft:husk": "2025-04-13 04:04:59 +0000",
@@ -894,6 +901,12 @@
       "red": "2025-04-13 02:42:40 +0000"
     },
     "done": false
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-13 18:38:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
     "criteria": {

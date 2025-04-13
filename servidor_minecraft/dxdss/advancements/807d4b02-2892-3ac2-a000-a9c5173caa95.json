@@ -48,6 +48,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:24 +0000"
@@ -231,6 +237,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
     },
     "done": true
   },
@@ -463,9 +475,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_stairs_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_chest_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/chest_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
     },
     "done": true
   },
@@ -511,6 +535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
+    },
+    "done": true
+  },
   "knight_quest:kq_quest_source": {
     "criteria": {
       "kq_quest_source": "2025-04-12 16:39:23 +0000"
@@ -544,6 +574,12 @@
   "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_trapdoor_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
     },
     "done": true
   },
@@ -695,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:26:25 +0000"
@@ -815,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:57:20 +0000"
@@ -860,6 +908,12 @@
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_pressure_plate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
     },
     "done": true
   },
@@ -995,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
@@ -1112,6 +1172,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_gate_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
     },
     "done": true
   },
@@ -1302,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-13 16:20:27 +0000",
@@ -1329,6 +1401,7 @@
       "minecraft:old_growth_birch_forest": "2025-04-12 17:10:52 +0000",
       "minecraft:deep_dark": "2025-04-12 19:05:51 +0000",
       "minecraft:meadow": "2025-04-13 01:32:30 +0000",
+      "minecraft:savanna": "2025-04-13 18:42:51 +0000",
       "minecraft:plains": "2025-04-12 23:47:54 +0000"
     },
     "done": false
@@ -1567,6 +1640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_sign_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:26:16 +0000"
@@ -1636,6 +1715,12 @@
   "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 18:43:03 +0000"
     },
     "done": true
   },

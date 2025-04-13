@@ -4,5 +4,6 @@
     "minecraft:golden_hoe": false,
     "minecraft:golden_pickaxe": false,
     "minecraft:golden_leggings": false,
-    "minecraft:bow": false
+    "minecraft:bow": false,
+    "swordinthestone:forest_sword": true
 }
