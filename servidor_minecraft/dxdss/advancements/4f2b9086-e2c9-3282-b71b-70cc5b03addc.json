@@ -7,7 +7,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
   },
@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2025-04-13 22:16:01 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
@@ -541,7 +547,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
   },
@@ -654,7 +660,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
   },
@@ -736,6 +742,12 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-04-13 22:15:00 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
@@ -768,7 +780,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
   },
@@ -858,7 +870,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
   },
@@ -1020,9 +1032,15 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-04-13 22:20:49 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:longbow": {
     "criteria": {
@@ -1398,7 +1416,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
   },
@@ -1452,7 +1470,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
   },
@@ -1544,7 +1562,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
   },
@@ -1580,7 +1598,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
   },
@@ -1598,7 +1616,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
   },
@@ -1616,7 +1634,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:12:20 +0000"
+      "log_spam_fixer": "2025-04-13 22:22:27 +0000"
     },
     "done": false
   },
@@ -1749,6 +1767,12 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:53:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-04-13 22:20:49 +0000"
     },
     "done": true
   },

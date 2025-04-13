@@ -313,6 +313,14 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_trapdoor": "2025-04-13 22:20:15 +0000",
+      "canopy_planks": "2025-04-13 22:20:04 +0000",
+      "canopy_sapling": "2025-04-13 22:16:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:38:44 +0000"
@@ -678,6 +686,12 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-04-13 22:14:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:42:38 +0000"
@@ -729,6 +743,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:29:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-04-13 22:16:14 +0000"
     },
     "done": true
   },

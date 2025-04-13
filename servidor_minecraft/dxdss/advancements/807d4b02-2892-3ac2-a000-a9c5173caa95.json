@@ -414,6 +414,14 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_planks": "2025-04-13 22:20:00 +0000",
+      "canopy_log": "2025-04-13 22:15:32 +0000",
+      "canopy_sapling": "2025-04-13 22:15:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 16:57:20 +0000"
@@ -881,6 +889,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-04-13 22:15:03 +0000"
     },
     "done": true
   },
