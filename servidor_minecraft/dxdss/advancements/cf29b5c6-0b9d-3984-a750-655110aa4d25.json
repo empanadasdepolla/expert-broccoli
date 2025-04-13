@@ -1170,6 +1170,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-04-13 21:28:54 +0000",
+      "has_block": "2025-04-13 21:28:54 +0000"
+    },
+    "done": true
+  },
   "beautify:blinds": {
     "criteria": {
       "requirement": "2025-04-12 16:29:49 +0000"
@@ -1483,6 +1490,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 21:28:54 +0000"
     },
     "done": true
   },
