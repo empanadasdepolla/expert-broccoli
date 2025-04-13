@@ -1908,3 +1908,34 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [13Apr2025 03:50:02.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to -1265.500000, 142.000000, -1663.500000]
 [13Apr2025 03:50:21.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
 [13Apr2025 03:50:33.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Zombie
+[13Apr2025 03:51:01.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was blown up by Creeper
+[13Apr2025 03:52:30.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> silk
+[13Apr2025 03:53:17.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
+[13Apr2025 03:54:32.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> mai ponle etiqueta y no se despawnea
+[13Apr2025 03:54:59.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 03:55:18.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 03:55:54.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> gracia papa dio que riko
+[13Apr2025 03:56:08.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
+[13Apr2025 03:56:08.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[13Apr2025 03:56:08.834] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[13Apr2025 03:56:11.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked Uzumaki0502: Kicked by an operator]
+[13Apr2025 03:56:11.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Kicked by an operator
+[13Apr2025 03:56:11.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
+[13Apr2025 03:56:11.524] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Uzumaki0502
+[13Apr2025 03:56:28.165] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6495dd8e
+[13Apr2025 03:56:28.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:60237] logged in with entity id 156017 at (-689.0946556101592, 63.0, 103.29700630301622)
+[13Apr2025 03:56:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[13Apr2025 03:56:28.451] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[13Apr2025 03:56:28.452] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[13Apr2025 03:56:34.841] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@748001c2
+[13Apr2025 03:56:34.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.54.227.74:52961] logged in with entity id 156400 at (47.416655779234645, -1.0, -37.473344606422124)
+[13Apr2025 03:56:34.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg joined the game
+[13Apr2025 03:56:35.447] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itzloikg (18)
+[13Apr2025 03:56:35.447] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[13Apr2025 03:56:44.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> a construir mi casita provicional o ns comose va a llamal
+[13Apr2025 03:59:10.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> que?
+[13Apr2025 03:59:16.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> donde
+[13Apr2025 03:59:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> cord
+[13Apr2025 03:59:30.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> cord
+[13Apr2025 03:59:39.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> en priv
+[13Apr2025 03:59:56.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> EN PRIV
