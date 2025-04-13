@@ -1274,3 +1274,55 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 21:40:23.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to 919.500000, 167.000000, -2981.500000]
 [13Apr2025 21:40:23.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3488ms or 69 ticks behind
 [13Apr2025 21:41:15.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [You Are A Pirate]
+[13Apr2025 21:43:08.885] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[13Apr2025 21:43:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Jaws]
+[13Apr2025 21:43:24.491] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[13Apr2025 21:45:46.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Apr2025 21:45:50.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 6.8326608074136175,0.0,-7.808594860845005
+[13Apr2025 21:45:50.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 7.0847221293665825,0.0,-8.118888565111774
+[13Apr2025 21:45:50.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 7.336433720309969,0.0,-8.429492305971507
+[13Apr2025 21:45:50.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 7.58782454445975,0.0,-8.740379844403833
+[13Apr2025 21:45:50.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 7.838917661437904,0.0,-9.051529949477299
+[13Apr2025 21:45:50.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 8.089736829350045,0.0,-9.362921125441972
+[13Apr2025 21:45:50.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 8.340306438662765,0.0,-9.674531645663592
+[13Apr2025 21:45:50.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 8.590645430760674,0.0,-9.9863443366321
+[13Apr2025 21:45:50.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 8.840222810532623,0.0,-10.298769710508168
+[13Apr2025 21:45:50.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 9.08804065235472,0.0,-10.612538473352288
+[13Apr2025 21:45:50.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 9.332706149340993,0.0,-10.92857804239975
+[13Apr2025 21:45:50.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 9.57247402583198,0.0,-11.247899988549761
+[13Apr2025 21:45:50.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 9.805287536128844,0.0,-11.571486925437966
+[13Apr2025 21:45:50.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.029476328571945,0.0,-11.899933206365858
+[13Apr2025 21:45:50.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.243724298377288,0.0,-12.233538772879001
+[13Apr2025 21:45:50.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.44702735124747,0.0,-12.572386518085295
+[13Apr2025 21:45:50.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.638655598307082,0.0,-12.916401780847082
+[13Apr2025 21:45:50.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.818118132002041,0.0,-13.265398756625473
+[13Apr2025 21:45:50.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.985127817049147,0.0,-13.619117010851369
+[13Apr2025 21:45:50.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.139570880997326,0.0,-13.977249196332195
+[13Apr2025 21:45:50.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.281477795079923,0.0,-14.33946229598314
+[13Apr2025 21:45:50.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.410995831932496,0.0,-14.705413474200213
+[13Apr2025 21:45:50.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.52836734748007,0.0,-15.074761418744856
+[13Apr2025 21:45:50.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.633905834967209,0.0,-15.44717444365142
+[13Apr2025 21:45:50.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.72798933376896,0.0,-15.822336004877798
+[13Apr2025 21:45:50.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.811035076771532,0.0,-16.19994820035572
+[13Apr2025 21:45:50.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 5.303270943337111,0.0,-9.08109618999788
+[13Apr2025 21:45:50.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 5.365608306649165,0.0,-9.46279993006101
+[13Apr2025 21:45:50.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 5.418310607059425,0.0,-9.846188409583192
+[13Apr2025 21:46:08.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6600ms or 132 ticks behind
+[13Apr2025 21:47:55.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[13Apr2025 21:48:49.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[13Apr2025 21:50:31.761] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[13Apr2025 21:50:40.922] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-51, z=186}
+[13Apr2025 21:50:42.614] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=187}
+[13Apr2025 21:50:42.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=189}
+[13Apr2025 21:50:42.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=186}
+[13Apr2025 21:50:42.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=187}
+[13Apr2025 21:50:42.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=186}
+[13Apr2025 21:50:42.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=190}
+[13Apr2025 21:50:42.617] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=190}
+[13Apr2025 21:50:42.617] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=189}
+[13Apr2025 21:50:56.149] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=821, y=-1, z=-6227} but found not block entity block Block{minecraft:prismarine_bricks} at location
+[13Apr2025 21:50:56.150] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:prismarine_bricks} but failed at location BlockPos{x=821, y=-1, z=-6227}
+[13Apr2025 21:51:30.245] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 21:51:30.245] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 21:51:30.245] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 21:51:30.245] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:

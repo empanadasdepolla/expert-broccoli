@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-04-13 21:37:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-04-12 21:27:01 +0000"
@@ -825,6 +831,12 @@
       "give_recipe": "2025-04-13 04:03:26 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-13 21:47:14 +0000"
+    },
+    "done": false
   },
   "beautify:progression/root": {
     "criteria": {

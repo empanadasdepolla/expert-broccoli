@@ -16264,3 +16264,101 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 21:40:47.342] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_library
 [13Apr2025 21:40:47.344] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall2_stash
 [13Apr2025 21:41:15.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [You Are A Pirate]
+[13Apr2025 21:42:01.941] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_watchtower
+[13Apr2025 21:42:01.948] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower1
+[13Apr2025 21:42:05.282] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/4
+[13Apr2025 21:42:05.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[13Apr2025 21:42:05.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[13Apr2025 21:43:08.885] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[13Apr2025 21:43:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Jaws]
+[13Apr2025 21:43:24.491] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[13Apr2025 21:45:14.911] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_spawner_room_2
+[13Apr2025 21:45:21.011] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/pieces/small_ship/small_ship_4 is being run through DFU (hash 759d55e217acefe0acfa0f67cae9fc89140340c94843ba90e573345313651ee6), this will cause launch time delays
+[13Apr2025 21:45:21.023] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/pieces/escort/escort_2 is being run through DFU (hash 6162e1d1f20eda2dc1dfc2faaa4566fa429056019e127e60d6c5bf7f93f58f4b), this will cause launch time delays
+[13Apr2025 21:45:21.057] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/pieces/small_ship/small_ship_3 is being run through DFU (hash 6692c575a2b9ba2c92bbff5bc7369eec926a40a07964fc66a51356cdc8b45a9f), this will cause launch time delays
+[13Apr2025 21:45:21.062] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/pieces/small_ship/small_ship_1 is being run through DFU (hash 48edaddad1b0f9de8639d608e57ada8a8a296612efe559dbd70f80cefb7d6730), this will cause launch time delays
+[13Apr2025 21:45:21.081] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/pieces/escort/escort_1 is being run through DFU (hash e833aa073fa08421c28fc67cad2869ae6d2680cf7c8edd559e27f1c37dfee497), this will cause launch time delays
+[13Apr2025 21:45:43.510] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/graveyard/main1
+[13Apr2025 21:45:46.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Apr2025 21:45:50.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 6.8326608074136175,0.0,-7.808594860845005
+[13Apr2025 21:45:50.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 7.0847221293665825,0.0,-8.118888565111774
+[13Apr2025 21:45:50.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 7.336433720309969,0.0,-8.429492305971507
+[13Apr2025 21:45:50.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 7.58782454445975,0.0,-8.740379844403833
+[13Apr2025 21:45:50.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 7.838917661437904,0.0,-9.051529949477299
+[13Apr2025 21:45:50.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 8.089736829350045,0.0,-9.362921125441972
+[13Apr2025 21:45:50.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 8.340306438662765,0.0,-9.674531645663592
+[13Apr2025 21:45:50.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 8.590645430760674,0.0,-9.9863443366321
+[13Apr2025 21:45:50.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 8.840222810532623,0.0,-10.298769710508168
+[13Apr2025 21:45:50.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 9.08804065235472,0.0,-10.612538473352288
+[13Apr2025 21:45:50.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 9.332706149340993,0.0,-10.92857804239975
+[13Apr2025 21:45:50.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 9.57247402583198,0.0,-11.247899988549761
+[13Apr2025 21:45:50.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 9.805287536128844,0.0,-11.571486925437966
+[13Apr2025 21:45:50.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.029476328571945,0.0,-11.899933206365858
+[13Apr2025 21:45:50.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.243724298377288,0.0,-12.233538772879001
+[13Apr2025 21:45:50.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.44702735124747,0.0,-12.572386518085295
+[13Apr2025 21:45:50.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.638655598307082,0.0,-12.916401780847082
+[13Apr2025 21:45:50.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.818118132002041,0.0,-13.265398756625473
+[13Apr2025 21:45:50.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 10.985127817049147,0.0,-13.619117010851369
+[13Apr2025 21:45:50.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.139570880997326,0.0,-13.977249196332195
+[13Apr2025 21:45:50.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.281477795079923,0.0,-14.33946229598314
+[13Apr2025 21:45:50.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.410995831932496,0.0,-14.705413474200213
+[13Apr2025 21:45:50.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.52836734748007,0.0,-15.074761418744856
+[13Apr2025 21:45:50.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.633905834967209,0.0,-15.44717444365142
+[13Apr2025 21:45:50.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.72798933376896,0.0,-15.822336004877798
+[13Apr2025 21:45:50.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 11.811035076771532,0.0,-16.19994820035572
+[13Apr2025 21:45:50.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 5.303270943337111,0.0,-9.08109618999788
+[13Apr2025 21:45:50.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 5.365608306649165,0.0,-9.46279993006101
+[13Apr2025 21:45:50.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Flancito0_) moved too quickly! 5.418310607059425,0.0,-9.846188409583192
+[13Apr2025 21:46:08.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6600ms or 132 ticks behind
+[13Apr2025 21:46:49.834] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/tower/grassy_small1
+[13Apr2025 21:47:14.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[13Apr2025 21:47:14.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[13Apr2025 21:47:55.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[13Apr2025 21:48:18.978] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair1/stair1_3
+[13Apr2025 21:48:49.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[13Apr2025 21:49:00.650] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_heart
+[13Apr2025 21:49:35.604] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 21:49:35.604] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 21:49:36.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 21:49:36.041] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 21:49:36.528] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 21:49:36.528] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 21:49:36.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 21:49:36.953] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 21:49:38.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 21:49:38.265] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 21:49:38.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 21:49:38.773] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 21:49:39.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 21:49:39.178] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 21:49:39.794] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 21:49:39.794] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 21:49:40.335] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 21:49:40.335] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 21:49:40.740] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Apr2025 21:49:40.740] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Apr2025 21:49:58.675] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_empty
+[13Apr2025 21:49:58.797] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_8
+[13Apr2025 21:50:00.462] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[13Apr2025 21:50:25.779] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/sunflower_plains/base_plate
+[13Apr2025 21:50:25.848] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/swamp/base_plate
+[13Apr2025 21:50:25.875] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[13Apr2025 21:50:25.897] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/classic/base_plate
+[13Apr2025 21:50:31.761] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[13Apr2025 21:50:40.922] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-51, z=186}
+[13Apr2025 21:50:42.614] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=187}
+[13Apr2025 21:50:42.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-56, z=189}
+[13Apr2025 21:50:42.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=186}
+[13Apr2025 21:50:42.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=187}
+[13Apr2025 21:50:42.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=186}
+[13Apr2025 21:50:42.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-56, z=190}
+[13Apr2025 21:50:42.617] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-46, y=-56, z=190}
+[13Apr2025 21:50:42.617] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=-56, z=189}
+[13Apr2025 21:50:56.149] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=821, y=-1, z=-6227} but found not block entity block Block{minecraft:prismarine_bricks} at location
+[13Apr2025 21:50:56.150] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:prismarine_bricks} but failed at location BlockPos{x=821, y=-1, z=-6227}
+[13Apr2025 21:51:10.602] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house1
+[13Apr2025 21:51:16.751] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_axolotl_center
+[13Apr2025 21:51:30.245] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 21:51:30.245] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 21:51:30.245] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 21:51:30.245] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
