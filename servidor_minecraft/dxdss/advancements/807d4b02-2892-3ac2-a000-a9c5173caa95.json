@@ -5,6 +5,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-04-13 00:40:27 +0000",
+      "has_block": "2025-04-13 00:40:27 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
@@ -549,7 +556,9 @@
       "minecraft:skeleton": "2025-04-12 19:17:29 +0000",
       "minecraft:vindicator": "2025-04-12 20:37:27 +0000",
       "minecraft:spider": "2025-04-12 18:36:13 +0000",
+      "minecraft:creeper": "2025-04-13 00:18:42 +0000",
       "minecraft:slime": "2025-04-12 21:03:09 +0000",
+      "minecraft:wither_skeleton": "2025-04-13 01:00:07 +0000",
       "minecraft:zombie": "2025-04-12 18:36:00 +0000"
     },
     "done": false
@@ -1095,6 +1104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 00:40:27 +0000"
+    },
+    "done": true
+  },
   "beautify:blinds": {
     "criteria": {
       "requirement": "2025-04-12 17:01:12 +0000"
@@ -1104,6 +1119,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-04-12 16:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 00:40:31 +0000"
     },
     "done": true
   },
@@ -1191,7 +1212,8 @@
       "minecraft:lush_caves": "2025-04-12 18:47:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-12 20:54:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-12 17:10:52 +0000",
-      "minecraft:deep_dark": "2025-04-12 19:05:51 +0000"
+      "minecraft:deep_dark": "2025-04-12 19:05:51 +0000",
+      "minecraft:plains": "2025-04-12 23:47:54 +0000"
     },
     "done": false
   },
@@ -1273,6 +1295,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-13 00:08:58 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-12 16:39:24 +0000"
@@ -1336,6 +1364,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_pressure_plate_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-12 23:50:29 +0000"
     },
     "done": true
   },
