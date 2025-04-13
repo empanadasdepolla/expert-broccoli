@@ -1952,3 +1952,41 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 19:09:55.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
 [13Apr2025 19:09:55.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> -1525
 [13Apr2025 19:09:58.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Camilacapita to -876.500000, -50.000000, -1524.500000]
+[13Apr2025 19:10:56.747] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[13Apr2025 19:10:56.748] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[13Apr2025 19:10:56.775] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[13Apr2025 19:10:59.438] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 19:10:59.450] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 19:11:02.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> q mod d emrd de las tumbas u.u
+[13Apr2025 19:11:09.193] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 19:11:09.193] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 19:11:09.208] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-16, y=-54, z=1646}
+[13Apr2025 19:11:16.046] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 19:11:18.137] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 19:11:18.139] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Apr2025 19:11:35.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> men seme bugio las cosas y se desaparecio mi hacha mis puños y demas cosas u.u
+[13Apr2025 19:11:47.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> no estan
+[13Apr2025 19:11:49.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> u.u
+[13Apr2025 19:12:46.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> leo pvp por cosas uwu
+[13Apr2025 19:13:06.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> miedo
+[13Apr2025 19:14:24.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ fell from a high place
+[13Apr2025 19:14:28.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> carajo
+[13Apr2025 19:15:21.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ohno
+[13Apr2025 19:15:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ fell from a high place
+[13Apr2025 19:16:44.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> u.u
+[13Apr2025 19:16:59.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> khe
+[13Apr2025 19:17:06.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> ns
+[13Apr2025 19:17:57.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> el fran se cree pro por mods u.u
+[13Apr2025 19:18:54.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: 1 slots of type belt have been added to Sofx0Loder]
+[13Apr2025 19:19:00.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: 1 slots of type belt have been added to Uzumaki0502]
+[13Apr2025 19:19:01.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> -1528 167 -2982
+[13Apr2025 19:19:02.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: 1 slots of type belt have been added to Camilacapita]
+[13Apr2025 19:19:05.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: 1 slots of type belt have been added to Flancito0_]
+[13Apr2025 19:19:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to -1527.500000, 167.000000, -2981.500000]
+[13Apr2025 19:19:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> q es marica dice
+[13Apr2025 19:19:57.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> marica
+[13Apr2025 19:20:05.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: 2 slots of type necklace have been added to Sofx0Loder]
+[13Apr2025 19:20:12.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: 2 slots of type necklace have been added to Flancito0_]
+[13Apr2025 19:20:16.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: 2 slots of type necklace have been added to Camilacapita]
+[13Apr2025 19:20:18.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> quien quiere aliento de dragon u.u
+[13Apr2025 19:20:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: 2 slots of type necklace have been added to Uzumaki0502]
