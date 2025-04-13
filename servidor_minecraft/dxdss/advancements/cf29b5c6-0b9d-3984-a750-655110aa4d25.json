@@ -544,6 +544,7 @@
       "minecraft:piglin_brute": "2025-04-13 02:45:17 +0000",
       "minecraft:creeper": "2025-04-12 21:03:02 +0000",
       "minecraft:slime": "2025-04-12 21:03:05 +0000",
+      "minecraft:witch": "2025-04-13 17:59:12 +0000",
       "minecraft:wither_skeleton": "2025-04-13 00:41:16 +0000",
       "minecraft:husk": "2025-04-13 04:04:59 +0000",
       "minecraft:cave_spider": "2025-04-13 17:19:46 +0000",
@@ -783,6 +784,12 @@
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:07:50 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-04-13 18:01:24 +0000"
     },
     "done": true
   },
