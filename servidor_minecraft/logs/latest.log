@@ -2094,3 +2094,45 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 20:18:38.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1259, y=175, z=-1854} BlockPos{x=-1260, y=174, z=-1853}
 [13Apr2025 20:18:38.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1259, y=175, z=-1855} BlockPos{x=-1260, y=174, z=-1853}
 [13Apr2025 20:22:32.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Ice Bucket Challenge]
+[13Apr2025 20:23:42.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> leo me podes hacer tp a estas cord ya q no puedo salir en una montaña?
+[13Apr2025 20:23:56.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Camilacapita]
+[13Apr2025 20:23:57.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 20:24:00.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> xd
+[13Apr2025 20:24:07.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> aña
+[13Apr2025 20:24:18.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[13Apr2025 20:24:19.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 20:24:21.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> pero si estoy en una montaña creo unu
+[13Apr2025 20:24:31.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> puto
+[13Apr2025 20:25:49.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Disconnected
+[13Apr2025 20:25:49.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
+[13Apr2025 20:25:49.122] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Uzumaki0502
+[13Apr2025 20:28:03.372] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1765, y=77, z=-6315} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[13Apr2025 20:28:03.372] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1765, y=77, z=-6315}
+[13Apr2025 20:28:03.372] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1766, y=77, z=-6315} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[13Apr2025 20:28:03.372] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1766, y=77, z=-6315}
+[13Apr2025 20:28:03.372] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1766, y=76, z=-6315} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[13Apr2025 20:28:03.372] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-1766, y=76, z=-6315}
+[13Apr2025 20:28:50.451] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7bfa38b1
+[13Apr2025 20:28:50.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:49101] logged in with entity id 286766 at (-691.1785051532177, 74.0, -282.46738904059487)
+[13Apr2025 20:28:50.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[13Apr2025 20:28:51.681] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[13Apr2025 20:28:51.682] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[13Apr2025 20:28:56.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[13Apr2025 20:28:57.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[13Apr2025 20:28:57.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Uzumaki0502 (4f2b9086-e2c9-3282-b71b-70cc5b03addc) successfully connected to voice chat
+[13Apr2025 20:29:01.825] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 14 on channel sophisticatedcore:channel
+[13Apr2025 20:29:15.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[13Apr2025 20:29:53.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[13Apr2025 20:30:04.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2153, y=66, z=-2225} BlockPos{x=-2153, y=64, z=-2225}
+[13Apr2025 20:30:10.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[13Apr2025 20:30:30.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2161, y=66, z=-2225} BlockPos{x=-2160, y=65, z=-2224}
+[13Apr2025 20:31:50.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2138, y=64, z=-2232} BlockPos{x=-2136, y=62, z=-2231}
+[13Apr2025 20:31:51.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2138, y=64, z=-2232} BlockPos{x=-2136, y=62, z=-2231}
+[13Apr2025 20:31:51.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2138, y=64, z=-2232} BlockPos{x=-2136, y=62, z=-2231}
+[13Apr2025 20:32:00.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4f2b9086-e2c9-3282-b71b-70cc5b03addc timed out
+[13Apr2025 20:32:00.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Uzumaki0502
+[13Apr2025 20:32:00.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[13Apr2025 20:32:50.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Timed out
+[13Apr2025 20:32:50.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
+[13Apr2025 20:32:50.609] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Uzumaki0502
+[13Apr2025 20:34:00.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> q mrd
