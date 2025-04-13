@@ -2185,3 +2185,38 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [13Apr2025 04:51:25.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Disconnected
 [13Apr2025 04:51:25.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
 [13Apr2025 04:51:25.625] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sofx0Loder
+[13Apr2025 04:52:31.121] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@273f745e
+[13Apr2025 04:52:31.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofx0Loder[/127.162.229.176:57307] logged in with entity id 239389 at (53.41354330562485, 68.7531999805212, 584.3000000119209)
+[13Apr2025 04:52:31.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder joined the game
+[13Apr2025 04:52:32.187] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sofx0Loder (18)
+[13Apr2025 04:52:32.188] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sofx0Loder
+[13Apr2025 04:52:45.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Added tag 'Mitcha' to Cat]
+[13Apr2025 04:53:35.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 04:53:52.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Enchanter]
+[13Apr2025 04:53:53.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -289.500000, 77.500000, 323.500000]
+[13Apr2025 04:54:22.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> bye
+[13Apr2025 04:54:26.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Disconnected
+[13Apr2025 04:54:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
+[13Apr2025 04:54:26.978] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Uzumaki0502
+[13Apr2025 04:54:29.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> sim
+[13Apr2025 04:54:32.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Stopping the server]
+[13Apr2025 04:54:32.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Apr2025 04:54:32.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Apr2025 04:54:32.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Server closed
+[13Apr2025 04:54:32.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[13Apr2025 04:54:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Apr2025 04:54:33.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:overworld
+[13Apr2025 04:54:36.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/tht:dimension
+[13Apr2025 04:54:36.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:the_nether
+[13Apr2025 04:54:36.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:the_end
+[13Apr2025 04:54:36.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/twilightforest:twilight_forest
+[13Apr2025 04:54:36.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/aether:the_aether
+[13Apr2025 04:54:36.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dxdss): All chunks are saved
+[13Apr2025 04:54:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[13Apr2025 04:54:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Apr2025 04:54:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Apr2025 04:54:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[13Apr2025 04:54:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[13Apr2025 04:54:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Apr2025 04:54:36.887] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Apr2025 04:54:36.888] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
