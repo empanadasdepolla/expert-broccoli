@@ -3,5 +3,6 @@
     "minecraft:iron_pickaxe": false,
     "minecraft:golden_hoe": false,
     "minecraft:golden_pickaxe": false,
-    "minecraft:golden_leggings": false
+    "minecraft:golden_leggings": false,
+    "minecraft:bow": false
 }
