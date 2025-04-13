@@ -203,6 +203,12 @@
     },
     "done": false
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-13 16:51:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 04:03:26 +0000"
@@ -597,6 +603,7 @@
       "minecraft:forest": "2025-04-13 03:55:13 +0000",
       "minecraft:frozen_peaks": "2025-04-13 16:25:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-13 03:34:07 +0000",
+      "minecraft:meadow": "2025-04-13 16:41:39 +0000",
       "minecraft:plains": "2025-04-13 04:37:48 +0000"
     },
     "done": false
@@ -777,6 +784,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-13 16:45:28 +0000",
       "minecraft:skeleton": "2025-04-13 04:20:58 +0000",
       "minecraft:magma_cube": "2025-04-13 16:29:05 +0000",
       "minecraft:spider": "2025-04-13 04:17:21 +0000",
@@ -867,6 +875,12 @@
   "spartanweaponry:warhammer": {
     "criteria": {
       "has_warhammer": "2025-04-13 03:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-13 16:45:28 +0000"
     },
     "done": true
   },
@@ -987,6 +1001,12 @@
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-04-12 21:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-13 16:45:53 +0000"
     },
     "done": true
   },

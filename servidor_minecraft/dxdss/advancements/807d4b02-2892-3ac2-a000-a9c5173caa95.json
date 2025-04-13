@@ -377,6 +377,12 @@
     },
     "done": false
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-13 16:50:04 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
@@ -573,6 +579,7 @@
       "minecraft:creeper": "2025-04-13 00:18:42 +0000",
       "minecraft:slime": "2025-04-12 21:03:09 +0000",
       "minecraft:wither_skeleton": "2025-04-13 01:00:07 +0000",
+      "minecraft:enderman": "2025-04-13 16:40:48 +0000",
       "minecraft:zombie": "2025-04-12 18:36:00 +0000"
     },
     "done": false
@@ -1150,6 +1157,12 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-04-12 18:50:41 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-13 16:50:05 +0000"
     },
     "done": true
   },

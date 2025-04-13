@@ -1195,6 +1195,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-13 16:45:44 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-12 16:15:26 +0000",
       "minecraft:sunflower_plains": "2025-04-13 02:12:41 +0000",
       "minecraft:birch_forest": "2025-04-12 16:07:51 +0000",

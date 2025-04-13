@@ -1469,3 +1469,25 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 16:44:37.658] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Apr2025 16:45:28.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Voluntary Exile]
 [13Apr2025 16:45:53.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Best Friends Forever]
+[13Apr2025 16:45:58.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[13Apr2025 16:46:13.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> blablalba
+[13Apr2025 16:46:15.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> bleblbel
+[13Apr2025 16:46:17.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> blulbluluuuu
+[13Apr2025 16:46:33.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 sent expired chat: 'liganguliguliwachaliganguligangu'. Is the client/server system time unsynchronized?
+[13Apr2025 16:46:33.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> liganguliguliwachaliganguligangu
+[13Apr2025 16:47:21.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[13Apr2025 16:47:40.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
+[13Apr2025 16:50:01.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg is bleeding. itzloikg was slain by Zombie
+[13Apr2025 16:50:04.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Chest Slayer]
+[13Apr2025 16:50:05.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Amateur Archaeologist]
+[13Apr2025 16:50:12.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg was slain by Zombie
+[13Apr2025 16:50:40.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> -158
+[13Apr2025 16:50:45.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> -43
+[13Apr2025 16:50:48.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> 207
+[13Apr2025 16:51:28.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to -157.500000, -43.000000, 207.500000]
+[13Apr2025 16:51:30.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Not Today, Thank You]
+[13Apr2025 16:53:13.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was blown up by Creeper
+[13Apr2025 16:53:26.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 was blown up by Creeper
+[13Apr2025 16:54:12.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
+[13Apr2025 16:54:12.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[13Apr2025 16:54:12.168] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
