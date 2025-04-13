@@ -29,10 +29,7 @@
       "exp_dmg": 1.0,
       "kbr": 1.0
     },
-    "807d4b02-2892-3ac2-a000-a9c5173caa95": {},
-    "c64bf41b-1785-3499-994a-a5487fb10ac4": {},
-    "4f2b9086-e2c9-3282-b71b-70cc5b03addc": {},
-    "6278e817-929b-30db-84db-38a5c920e412": {
+    "807d4b02-2892-3ac2-a000-a9c5173caa95": {
       "scale": 1.0,
       "eyeHeight": 1.0,
       "hitboxW": 1.0,
@@ -57,7 +54,10 @@
       "proj_dmg": 1.0,
       "exp_dmg": 1.0,
       "kbr": 1.0
-    }
+    },
+    "c64bf41b-1785-3499-994a-a5487fb10ac4": {},
+    "4f2b9086-e2c9-3282-b71b-70cc5b03addc": {},
+    "6278e817-929b-30db-84db-38a5c920e412": {}
   },
   "player_scaling_settings": {},
   "scaling_settings": {
