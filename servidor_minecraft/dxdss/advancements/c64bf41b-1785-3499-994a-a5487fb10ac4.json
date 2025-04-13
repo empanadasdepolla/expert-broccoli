@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:49:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 19:08:36 +0000"
@@ -107,9 +113,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
     },
     "done": true
   },
@@ -161,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
+    },
+    "done": true
+  },
   "beautify:frames": {
     "criteria": {
       "requirement": "2025-04-12 19:25:01 +0000"
@@ -185,9 +215,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
     },
     "done": true
   },
@@ -206,6 +248,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-04-12 19:25:46 +0000",
+      "pumpkin_pie": "2025-04-13 02:00:36 +0000",
       "bread": "2025-04-12 19:18:28 +0000",
       "cooked_chicken": "2025-04-12 19:25:52 +0000"
     },
@@ -343,6 +386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
@@ -451,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
@@ -494,6 +549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-04-12 18:53:43 +0000"
@@ -503,6 +564,12 @@
   "spartanweaponry:scythe": {
     "criteria": {
       "has_scythe": "2025-04-12 19:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
     },
     "done": true
   },
@@ -533,6 +600,12 @@
   "beautify:bookstack": {
     "criteria": {
       "requirement": "2025-04-12 19:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
     },
     "done": true
   },
@@ -584,9 +657,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
     },
     "done": true
   },
@@ -610,6 +695,12 @@
       "minecraft:zombie": "2025-04-12 19:17:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 01:51:27 +0000"
+    },
+    "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
