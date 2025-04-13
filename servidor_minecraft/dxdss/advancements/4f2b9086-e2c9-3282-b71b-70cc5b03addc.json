@@ -287,6 +287,7 @@
       "beef": "2025-04-13 17:11:27 +0000",
       "apple": "2025-04-13 17:25:23 +0000",
       "mutton": "2025-04-13 17:34:57 +0000",
+      "bread": "2025-04-13 17:39:39 +0000",
       "golden_apple": "2025-04-13 17:10:35 +0000"
     },
     "done": false
@@ -336,6 +337,12 @@
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2025-04-13 03:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 17:47:41 +0000"
     },
     "done": true
   },
@@ -829,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2025-04-13 17:44:10 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-04-12 21:18:30 +0000"
@@ -904,6 +917,12 @@
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-04-13 04:41:30 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-04-13 17:36:30 +0000"
     },
     "done": true
   },

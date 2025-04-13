@@ -1590,3 +1590,46 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 17:30:56.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> estoy muy lejos
 [13Apr2025 17:31:56.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to -1265.500000, 42.000000, -1647.500000]
 [13Apr2025 17:36:30.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Minecraft Comes Alive]
+[13Apr2025 17:37:38.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:37:41.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:37:42.924] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 755bc601: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Apr2025 17:37:45.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[13Apr2025 17:37:50.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -0.2908978268729925,0.0,-10.12364888690621
+[13Apr2025 17:38:50.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:38:54.276] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 755bc601: RandomSpreadSearchWorker succeeded with 5267 radius, 389 samples
+[13Apr2025 17:38:54.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:38:55.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 55203ms or 1104 ticks behind
+[13Apr2025 17:39:25.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:39:31.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:40:27.919] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 755bc601: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Apr2025 17:40:30.323] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 755bc601: RandomSpreadSearchWorker failed with 10597 radius, 82 samples
+[13Apr2025 17:41:03.602] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 755bc601: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Apr2025 17:41:03.663] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 755bc601: RandomSpreadSearchWorker failed with 10772 radius, 82 samples
+[13Apr2025 17:42:15.048] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 755bc601: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Apr2025 17:42:15.110] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 755bc601: RandomSpreadSearchWorker failed with 11006 radius, 82 samples
+[13Apr2025 17:44:10.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Fishy Business]
+[13Apr2025 17:44:56.169] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 755bc601: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Apr2025 17:44:56.562] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 755bc601: RandomSpreadSearchWorker failed with 10055 radius, 82 samples
+[13Apr2025 17:47:20.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:47:26.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:47:57.086] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[13Apr2025 17:48:07.733] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 17:48:07.736] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 17:48:07.736] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 17:48:07.737] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 17:48:18.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[13Apr2025 17:48:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[13Apr2025 17:48:18.300] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[13Apr2025 17:48:51.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-700, y=75, z=-281} BlockPos{x=-700, y=73, z=-282}
+[13Apr2025 17:48:54.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-697, y=75, z=-291} BlockPos{x=-696, y=73, z=-292}
+[13Apr2025 17:48:54.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-697, y=75, z=-291} BlockPos{x=-696, y=73, z=-292}
+[13Apr2025 17:48:54.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-697, y=75, z=-291} BlockPos{x=-696, y=73, z=-292}
+[13Apr2025 17:48:55.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-697, y=75, z=-291} BlockPos{x=-696, y=73, z=-292}
+[13Apr2025 17:48:56.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-692, y=75, z=-291} BlockPos{x=-692, y=73, z=-292}
+[13Apr2025 17:48:57.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-687, y=75, z=-287} BlockPos{x=-686, y=73, z=-287}
+[13Apr2025 17:48:57.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-687, y=75, z=-287} BlockPos{x=-686, y=73, z=-287}
+[13Apr2025 17:48:57.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-687, y=75, z=-287} BlockPos{x=-686, y=73, z=-287}
+[13Apr2025 17:49:21.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:49:36.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 17:54:59.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 17:55:18.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
