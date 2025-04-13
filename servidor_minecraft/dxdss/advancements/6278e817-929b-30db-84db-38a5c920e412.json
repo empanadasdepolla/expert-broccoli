@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-04-13 03:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_gate_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 02:59:17 +0000"
@@ -325,7 +331,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-04-13 03:36:18 +0000",
       "rotten_flesh": "2025-04-13 00:19:33 +0000",
+      "glow_berries": "2025-04-13 03:36:12 +0000",
       "cooked_chicken": "2025-04-13 03:26:36 +0000"
     },
     "done": false
@@ -381,6 +389,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-04-13 03:35:32 +0000"
     },
     "done": true
   },
@@ -641,13 +655,20 @@
     "criteria": {
       "minecraft:birch_forest": "2025-04-13 00:09:49 +0000",
       "minecraft:dripstone_caves": "2025-04-13 03:05:41 +0000",
-      "minecraft:lush_caves": "2025-04-13 03:08:46 +0000"
+      "minecraft:lush_caves": "2025-04-13 03:08:46 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-13 03:35:29 +0000"
     },
     "done": false
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-13 00:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-13 03:37:58 +0000"
     },
     "done": true
   },
