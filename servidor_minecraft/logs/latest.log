@@ -1160,3 +1160,10 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 01:03:57.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ fell from a high place
 [13Apr2025 01:04:00.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
 [13Apr2025 01:06:23.985] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 14 on channel sophisticatedcore:channel
+[13Apr2025 01:15:35.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! -23.752273379313237,0.2833660982142874,-1.1096933828071727
+[13Apr2025 01:16:03.156] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[13Apr2025 01:16:06.659] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[13Apr2025 01:16:08.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[13Apr2025 01:16:45.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[13Apr2025 01:16:50.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [This Must be a Sign!]
+[13Apr2025 01:17:18.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved too quickly! 0.4382410924943656,-2.3323233891546096,-14.395940086189299
