@@ -1419,3 +1419,31 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 02:18:24.694] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
 [13Apr2025 02:18:24.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked Flancito0_: Kicked by an operator]
 [13Apr2025 02:18:24.728] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Apr2025 02:18:36.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> NIEBLA
+[13Apr2025 02:18:37.366] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49a9c5e2
+[13Apr2025 02:18:37.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:50347] logged in with entity id 66549 at (44.04135727395814, 84.0, 29.526473585646634)
+[13Apr2025 02:18:37.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[13Apr2025 02:18:37.981] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[13Apr2025 02:18:37.981] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[13Apr2025 02:18:49.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> aca aparecio una niebla de locos
+[13Apr2025 02:20:39.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[13Apr2025 02:20:57.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved wrongly!
+[13Apr2025 02:22:30.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Flancito0_]
+[13Apr2025 02:22:58.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[13Apr2025 02:23:09.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[13Apr2025 02:23:25.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[13Apr2025 02:23:42.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[13Apr2025 02:23:56.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[13Apr2025 02:24:23.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> va a llorar
+[13Apr2025 02:24:42.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[13Apr2025 02:25:28.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> q asco de lag xd
+[13Apr2025 02:26:04.884] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:26:04.884] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:26:04.884] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:26:04.884] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:26:27.683] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:26:56.541] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:26:56.542] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:26:56.542] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:26:56.542] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 02:27:08.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Take Aim]
