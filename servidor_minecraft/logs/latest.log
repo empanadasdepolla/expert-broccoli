@@ -1214,3 +1214,105 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 16:14:31.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> cuanto tenes
 [13Apr2025 16:14:41.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> ano no tengo
 [13Apr2025 16:14:43.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> lo tire
+[13Apr2025 16:14:47.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ah bueno
+[13Apr2025 16:14:48.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> uwu
+[13Apr2025 16:14:58.972] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[13Apr2025 16:14:58.973] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[13Apr2025 16:14:58.974] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[13Apr2025 16:14:58.975] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[13Apr2025 16:15:00.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> lo nececito pa una brujula
+[13Apr2025 16:15:06.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> quemiporta
+[13Apr2025 16:15:08.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 sent expired chat: 'poronga necesitas'. Is the client/server system time unsynchronized?
+[13Apr2025 16:15:08.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> poronga necesitas
+[13Apr2025 16:15:19.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> chupenla
+[13Apr2025 16:15:40.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> :dress:
+[13Apr2025 16:15:40.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> como sacoo el sonido de mis botas
+[13Apr2025 16:15:43.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> m cansa
+[13Apr2025 16:16:08.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no se puede
+[13Apr2025 16:16:10.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> jodase
+[13Apr2025 16:16:11.963] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 16:16:11.963] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 16:16:11.963] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 16:16:11.964] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 16:16:12.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> buuuu
+[13Apr2025 16:16:13.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> por algo lo puse
+[13Apr2025 16:16:19.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> bnuuuuuu
+[13Apr2025 16:16:25.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> a llorar al campito
+[13Apr2025 16:17:21.261] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[13Apr2025 16:17:41.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> está el nether?
+[13Apr2025 16:17:44.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> no
+[13Apr2025 16:17:45.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> no
+[13Apr2025 16:17:46.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> miman
+[13Apr2025 16:17:50.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> notengo cama
+[13Apr2025 16:17:51.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> ando en cueva
+[13Apr2025 16:17:52.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> mina
+[13Apr2025 16:17:55.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Kicked by an operator
+[13Apr2025 16:17:55.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[13Apr2025 16:17:55.913] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[13Apr2025 16:17:55.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked itzloikg: Kicked by an operator]
+[13Apr2025 16:17:55.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Apr2025 16:18:01.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> miman
+[13Apr2025 16:18:04.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 sent expired chat: ':peped:'. Is the client/server system time unsynchronized?
+[13Apr2025 16:18:04.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> :peped:
+[13Apr2025 16:18:10.653] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@17d1221e
+[13Apr2025 16:18:10.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.54.227.74:43585] logged in with entity id 19114 at (-112.5918630805862, -54.0, 77.30000001192093)
+[13Apr2025 16:18:10.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg joined the game
+[13Apr2025 16:18:11.165] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itzloikg (18)
+[13Apr2025 16:18:11.166] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[13Apr2025 16:18:14.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked Uzumaki0502: Kicked by an operator]
+[13Apr2025 16:18:14.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6278e817-929b-30db-84db-38a5c920e412
+[13Apr2025 16:18:14.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Kicked by an operator
+[13Apr2025 16:18:14.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
+[13Apr2025 16:18:14.417] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Uzumaki0502
+[13Apr2025 16:18:15.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6278e817-929b-30db-84db-38a5c920e412
+[13Apr2025 16:18:15.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itzloikg (6278e817-929b-30db-84db-38a5c920e412) successfully connected to voice chat
+[13Apr2025 16:18:16.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked itzloikg: Kicked by an operator]
+[13Apr2025 16:18:16.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Kicked by an operator
+[13Apr2025 16:18:16.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[13Apr2025 16:18:16.896] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[13Apr2025 16:18:20.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked Flancito0_: Kicked by an operator]
+[13Apr2025 16:18:20.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Kicked by an operator
+[13Apr2025 16:18:20.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[13Apr2025 16:18:20.605] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[13Apr2025 16:18:32.890] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ec1a9a6
+[13Apr2025 16:18:32.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:38009] logged in with entity id 19354 at (-1014.4247210295717, 129.0, -1439.2326908080402)
+[13Apr2025 16:18:32.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[13Apr2025 16:18:33.465] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[13Apr2025 16:18:33.465] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[13Apr2025 16:18:37.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[13Apr2025 16:18:38.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[13Apr2025 16:18:38.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[13Apr2025 16:18:42.048] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a785398
+[13Apr2025 16:18:42.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:52433] logged in with entity id 19740 at (-1720.5, 131.0, -432.5)
+[13Apr2025 16:18:42.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[13Apr2025 16:18:42.307] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[13Apr2025 16:18:42.307] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[13Apr2025 16:18:44.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[13Apr2025 16:18:45.202] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54d0b1d4
+[13Apr2025 16:18:45.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.54.227.74:49093] logged in with entity id 19948 at (-112.5918630805862, -54.0, 77.30000001192093)
+[13Apr2025 16:18:45.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg joined the game
+[13Apr2025 16:18:45.962] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[13Apr2025 16:18:45.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Uzumaki0502 (4f2b9086-e2c9-3282-b71b-70cc5b03addc) successfully connected to voice chat
+[13Apr2025 16:18:46.110] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itzloikg (18)
+[13Apr2025 16:18:46.111] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[13Apr2025 16:18:49.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6278e817-929b-30db-84db-38a5c920e412
+[13Apr2025 16:18:50.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6278e817-929b-30db-84db-38a5c920e412
+[13Apr2025 16:18:50.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itzloikg (6278e817-929b-30db-84db-38a5c920e412) successfully connected to voice chat
+[13Apr2025 16:19:49.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> jade es bueno??
+[13Apr2025 16:19:54.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> armaduras
+[13Apr2025 16:19:57.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> okei
+[13Apr2025 16:19:58.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 16:20:33.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 16:20:58.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> .
+[13Apr2025 16:22:41.875] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-827, y=93, z=-534} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[13Apr2025 16:22:41.875] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-827, y=93, z=-534}
+[13Apr2025 16:22:41.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-827, y=93, z=-532} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[13Apr2025 16:22:41.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-827, y=93, z=-532}
+[13Apr2025 16:22:41.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-827, y=94, z=-533} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[13Apr2025 16:22:41.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-827, y=94, z=-533}
+[13Apr2025 16:22:41.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-827, y=94, z=-534} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[13Apr2025 16:22:41.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-827, y=94, z=-534}
+[13Apr2025 16:22:41.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-827, y=94, z=-532} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[13Apr2025 16:22:41.877] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-827, y=94, z=-532}
+[13Apr2025 16:23:25.194] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-56, z=-43}
+[13Apr2025 16:23:25.194] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-52, z=-38}

@@ -763,6 +763,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-13 16:20:41 +0000"
+    },
+    "done": false
+  },
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-04-12 16:39:24 +0000"
@@ -1282,6 +1288,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-13 16:20:27 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-12 19:08:53 +0000",
       "minecraft:sunflower_plains": "2025-04-13 01:44:38 +0000",
       "minecraft:birch_forest": "2025-04-12 16:39:24 +0000",
@@ -1458,6 +1465,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-04-12 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-04-13 16:13:36 +0000"
     },
     "done": true
   },
