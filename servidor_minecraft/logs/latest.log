@@ -1389,3 +1389,71 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 22:31:59.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ succumbed to the Lich's explosive magic while escaping Kobold
 [13Apr2025 22:32:04.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder is bleeding. Sofx0Loder succumbed to the Lich's explosive magic
 [13Apr2025 22:33:19.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 succumbed to the Lich's explosive magic while escaping Skeleton
+[13Apr2025 22:33:58.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was doomed to fall
+[13Apr2025 22:34:30.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 sent expired chat: 'tppppppppppp'. Is the client/server system time unsynchronized?
+[13Apr2025 22:34:30.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> tppppppppppp
+[13Apr2025 22:34:39.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:34:49.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ fell from a high place
+[13Apr2025 22:35:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:35:33.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:35:42.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:35:44.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[13Apr2025 22:35:44.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[13Apr2025 22:35:44.418] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[13Apr2025 22:35:47.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 2 entities to Sofx0Loder]
+[13Apr2025 22:36:14.571] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10c7e3b
+[13Apr2025 22:36:14.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:33881] logged in with entity id 165472 at (-2067.404870764104, 6.0, -2260.8441330336823)
+[13Apr2025 22:36:14.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[13Apr2025 22:36:15.239] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[13Apr2025 22:36:15.240] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[13Apr2025 22:36:22.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[13Apr2025 22:36:23.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[13Apr2025 22:36:23.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[13Apr2025 22:36:35.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:36:43.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:36:53.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Sofx0Loder
+[13Apr2025 22:37:19.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to -2058.500000, 23.000000, -2269.500000]
+[13Apr2025 22:37:28.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ suffocated in a wall
+[13Apr2025 22:37:34.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ suffocated in a wall
+[13Apr2025 22:37:38.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> KE
+[13Apr2025 22:37:53.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to -2058.500000, 23.000000, -2269.500000]
+[13Apr2025 22:38:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[13Apr2025 22:38:07.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 22:38:31.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 sent expired chat: 'saqueme de aqui'. Is the client/server system time unsynchronized?
+[13Apr2025 22:38:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> saqueme de aqui
+[13Apr2025 22:38:42.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:38:47.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 22:38:53.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:39:15.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ is bleeding. Flancito0_ was slain by Sofx0Loder
+[13Apr2025 22:39:18.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ was slain by Sofx0Loder
+[13Apr2025 22:39:50.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
+[13Apr2025 22:39:50.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[13Apr2025 22:39:50.424] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[13Apr2025 22:39:50.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 2 entities to Sofx0Loder]
+[13Apr2025 22:39:56.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 22:39:57.820] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f66bd97
+[13Apr2025 22:39:57.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:34999] logged in with entity id 168095 at (44.5, 84.0, 28.5)
+[13Apr2025 22:39:57.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[13Apr2025 22:39:58.329] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[13Apr2025 22:39:58.329] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[13Apr2025 22:40:04.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 22:40:09.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 22:40:23.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to 919.500000, 167.000000, -2981.500000]
+[13Apr2025 22:40:25.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[13Apr2025 22:40:26.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[13Apr2025 22:40:26.100] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[13Apr2025 22:40:30.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 22:40:34.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 22:40:42.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -1278.500000, 142.500000, -1622.500000]
+[13Apr2025 22:40:45.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 22:40:56.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[13Apr2025 22:40:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported 3 entities to Sofx0Loder]
+[13Apr2025 22:41:31.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -1278.500000, 142.500000, -1622.500000]
+[13Apr2025 22:41:35.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Flancito0_ to Sofx0Loder]
+[13Apr2025 22:41:55.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[13Apr2025 22:42:12.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[13Apr2025 22:42:20.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[13Apr2025 22:42:34.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 22:42:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> xaero-waypoint:Shared Location:S:2290:63:-9541:15:false:0:Internal-overworld-waypoints
+[13Apr2025 22:43:06.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> me hacen tp a ahi?
+[13Apr2025 22:43:12.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> me haces*
