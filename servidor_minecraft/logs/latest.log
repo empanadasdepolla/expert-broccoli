@@ -1910,3 +1910,45 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [13Apr2025 18:59:44.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> zzzzzzzzz
 [13Apr2025 18:59:46.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> zzzzzzzzzzzzzz
 [13Apr2025 18:59:47.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [A Cut Above the Rest]
+[13Apr2025 19:00:27.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[13Apr2025 19:00:27.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Disconnected
+[13Apr2025 19:00:27.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[13Apr2025 19:00:27.806] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sofx0Loder
+[13Apr2025 19:00:33.701] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c353e29
+[13Apr2025 19:00:33.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofx0Loder[/127.162.229.176:47435] logged in with entity id 188497 at (-3013.462628747785, 29.0, -1193.209952395954)
+[13Apr2025 19:00:33.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder joined the game
+[13Apr2025 19:00:34.165] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sofx0Loder (18)
+[13Apr2025 19:00:34.165] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sofx0Loder
+[13Apr2025 19:00:36.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[13Apr2025 19:00:37.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[13Apr2025 19:00:37.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
+[13Apr2025 19:00:38.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> ay
+[13Apr2025 19:00:43.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> hablen men me siento sola uwu
+[13Apr2025 19:00:46.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Blade of the Samurai]
+[13Apr2025 19:00:48.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [An Ancient Tomb]
+[13Apr2025 19:01:10.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> uni9te al grupo
+[13Apr2025 19:01:18.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> apreta v y grupo
+[13Apr2025 19:01:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> pera
+[13Apr2025 19:02:11.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[13Apr2025 19:02:25.775] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Marianne}[style={}] has been infected
+[13Apr2025 19:02:46.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> lito
+[13Apr2025 19:03:15.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> oda
+[13Apr2025 19:03:21.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> ayuda-
+[13Apr2025 19:03:53.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> las cuidades del warden son re grandes ahora wow
+[13Apr2025 19:04:16.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> Lo malo q me vana violar
+[13Apr2025 19:05:28.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> quiero pito
+[13Apr2025 19:05:46.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 19:07:33.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> f
+[13Apr2025 19:07:35.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita is bleeding. Camilacapita was obliterated by a sonically-charged shriek
+[13Apr2025 19:07:37.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> XD
+[13Apr2025 19:07:45.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> XD
+[13Apr2025 19:07:47.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camilacapita was obliterated by a sonically-charged shriek
+[13Apr2025 19:08:07.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> no es por eso lo active por accidente pelotuo
+[13Apr2025 19:08:57.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 fell from a high place
+[13Apr2025 19:09:04.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Uzumaki0502 to Sofx0Loder]
+[13Apr2025 19:09:38.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> leo
+[13Apr2025 19:09:43.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> -877
+[13Apr2025 19:09:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> -50
+[13Apr2025 19:09:55.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ moved wrongly!
+[13Apr2025 19:09:55.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camilacapita> -1525
+[13Apr2025 19:09:58.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Camilacapita to -876.500000, -50.000000, -1524.500000]

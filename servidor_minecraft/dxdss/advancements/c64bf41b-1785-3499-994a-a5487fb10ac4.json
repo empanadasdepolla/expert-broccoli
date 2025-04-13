@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-13 18:58:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 01:51:27 +0000"
@@ -428,6 +434,12 @@
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-04-12 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-13 18:58:54 +0000"
     },
     "done": true
   },

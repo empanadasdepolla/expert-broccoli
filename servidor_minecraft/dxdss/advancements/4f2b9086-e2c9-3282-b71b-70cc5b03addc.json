@@ -183,7 +183,8 @@
       "apple": "2025-04-13 17:25:23 +0000",
       "mutton": "2025-04-13 17:34:57 +0000",
       "bread": "2025-04-13 17:39:39 +0000",
-      "golden_apple": "2025-04-13 17:10:35 +0000"
+      "golden_apple": "2025-04-13 17:10:35 +0000",
+      "cod": "2025-04-13 18:59:34 +0000"
     },
     "done": false
   },
@@ -519,6 +520,12 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-04-13 18:59:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:warhammer": {
     "criteria": {
       "has_warhammer": "2025-04-13 03:47:45 +0000"
@@ -666,6 +673,12 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-04-13 16:23:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-04-13 19:00:46 +0000"
     },
     "done": true
   },
@@ -1069,6 +1082,7 @@
       "minecraft:stony_shore": "2025-04-13 18:54:04 +0000",
       "minecraft:dripstone_caves": "2025-04-13 04:05:41 +0000",
       "minecraft:forest": "2025-04-13 03:55:13 +0000",
+      "minecraft:ocean": "2025-04-13 19:01:25 +0000",
       "minecraft:frozen_peaks": "2025-04-13 16:25:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-13 03:34:07 +0000",
       "minecraft:deep_dark": "2025-04-13 18:18:02 +0000",
