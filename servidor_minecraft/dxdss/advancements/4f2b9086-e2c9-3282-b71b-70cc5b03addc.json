@@ -5,9 +5,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
     },
     "done": false
   },
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-04-14 00:41:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_fence_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 04:03:26 +0000"
@@ -77,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 22:39:20 +0000"
@@ -92,6 +110,12 @@
   "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-04-13 23:18:35 +0000"
     },
     "done": true
   },
@@ -155,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_door_from_polished_witch_hazel_pillar_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 19:49:00 +0000"
@@ -203,6 +233,12 @@
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_chestplate": "2025-04-14 02:25:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 04:03:26 +0000"
@@ -215,6 +251,12 @@
       "in_better_skeleton_dungeon": "2025-04-13 18:38:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
+    },
+    "done": true
   },
   "beautify:frames": {
     "criteria": {
@@ -343,6 +385,8 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_sapling": "2025-04-13 23:24:45 +0000",
+      "canopy_planks": "2025-04-13 23:43:06 +0000",
       "canopy_sapling": "2025-04-13 22:16:01 +0000"
     },
     "done": false
@@ -377,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_boat_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 04:03:26 +0000"
@@ -407,6 +457,12 @@
     },
     "done": false
   },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-04-14 02:16:45 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-04-13 18:45:48 +0000"
@@ -419,11 +475,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 19:49:00 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-04-13 23:33:36 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pressure_plate_from_witch_hazel_planks_woodcutting": {
     "criteria": {
@@ -464,6 +532,12 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_planks_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:53:55 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-04-14 02:14:48 +0000"
     },
     "done": true
   },
@@ -515,6 +589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-12 21:27:05 +0000"
@@ -538,6 +618,18 @@
       "location0": "2025-04-13 17:09:14 +0000"
     },
     "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-04-14 00:25:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-04-13 23:33:36 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
@@ -583,7 +675,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
     },
     "done": false
   },
@@ -641,6 +733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 04:03:26 +0000"
@@ -677,6 +775,12 @@
     },
     "done": true
   },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2025-04-13 23:56:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-13 16:45:28 +0000",
@@ -690,13 +794,14 @@
       "quark:forgotten": "2025-04-13 18:40:28 +0000",
       "minecraft:witch": "2025-04-13 20:45:02 +0000",
       "minecraft:enderman": "2025-04-13 03:50:42 +0000",
+      "minecraft:silverfish": "2025-04-14 00:56:46 +0000",
       "minecraft:zombie": "2025-04-13 03:24:31 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
     },
     "done": false
   },
@@ -721,6 +826,12 @@
   "comforts:hammock_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2025-04-14 02:00:00 +0000"
     },
     "done": true
   },
@@ -822,7 +933,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
     },
     "done": false
   },
@@ -835,6 +946,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-13 03:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
     },
     "done": true
   },
@@ -865,6 +982,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 18:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
     },
     "done": true
   },
@@ -918,7 +1041,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
     },
     "done": false
   },
@@ -1030,6 +1153,12 @@
     },
     "done": true
   },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-04-14 00:00:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 21:27:05 +0000"
@@ -1060,6 +1189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_button_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 04:03:26 +0000"
@@ -1078,23 +1213,29 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-04-14 02:03:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_polished_witch_hazel_pillar_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 19:49:00 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
-    },
-    "done": false
-  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-04-13 22:20:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:longbow": {
     "criteria": {
@@ -1159,6 +1300,12 @@
   "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
     },
     "done": true
   },
@@ -1234,6 +1381,12 @@
     },
     "done": true
   },
+  "knight_quest:kq_quest_find_great_essence": {
+    "criteria": {
+      "kq_quest_find_great_essence": "2025-04-13 23:17:54 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
@@ -1243,6 +1396,12 @@
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 21:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
     },
     "done": true
   },
@@ -1285,6 +1444,12 @@
   "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-04-14 02:24:24 +0000"
     },
     "done": true
   },
@@ -1452,7 +1617,8 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "meef_stroganoff": "2025-04-13 23:03:09 +0000"
+      "meef_stroganoff": "2025-04-13 23:03:09 +0000",
+      "torchberries": "2025-04-13 23:36:26 +0000"
     },
     "done": false
   },
@@ -1488,7 +1654,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
     },
     "done": false
   },
@@ -1542,7 +1708,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
     },
     "done": false
   },
@@ -1556,6 +1722,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-13 03:55:03 +0000",
       "minecraft:birch_forest": "2025-04-12 21:18:31 +0000",
+      "minecraft:badlands": "2025-04-14 00:00:17 +0000",
       "minecraft:beach": "2025-04-13 18:53:50 +0000",
       "minecraft:sparse_jungle": "2025-04-13 03:51:11 +0000",
       "minecraft:river": "2025-04-13 03:55:21 +0000",
@@ -1563,7 +1730,9 @@
       "minecraft:dripstone_caves": "2025-04-13 04:05:41 +0000",
       "minecraft:jagged_peaks": "2025-04-13 19:19:42 +0000",
       "minecraft:forest": "2025-04-13 03:55:13 +0000",
+      "minecraft:desert": "2025-04-14 00:01:10 +0000",
       "minecraft:ocean": "2025-04-13 19:01:25 +0000",
+      "minecraft:flower_forest": "2025-04-14 01:32:10 +0000",
       "minecraft:frozen_peaks": "2025-04-13 16:25:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-13 03:34:07 +0000",
       "minecraft:deep_dark": "2025-04-13 18:18:02 +0000",
@@ -1586,9 +1755,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
-      "meef": "2025-04-13 23:03:09 +0000"
+      "meef": "2025-04-13 23:03:09 +0000",
+      "kill_lich": "2025-04-13 23:33:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -1646,9 +1816,15 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-13 23:30:52 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/mahogany/crafting_table_from_mahogany_planks_woodcutting": {
     "criteria": {
@@ -1682,7 +1858,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
     },
     "done": false
   },
@@ -1700,7 +1876,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
     },
     "done": false
   },
@@ -1718,7 +1894,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 23:06:29 +0000"
+      "log_spam_fixer": "2025-04-14 02:40:30 +0000"
     },
     "done": false
   },
@@ -1781,6 +1957,12 @@
       "give_recipe": "2025-04-13 19:49:00 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-04-13 23:33:36 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_slab_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
@@ -1848,6 +2030,12 @@
     },
     "done": true
   },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-04-13 23:58:04 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
@@ -1860,6 +2048,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_lich": "2025-04-13 23:33:36 +0000",
+      "kill_naga": "2025-04-13 23:18:35 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-04-13 22:20:49 +0000"
@@ -1869,6 +2064,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_door_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 18:19:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2025-04-13 23:17:04 +0000"
     },
     "done": true
   },
@@ -1911,6 +2112,12 @@
   "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-04-14 02:03:30 +0000"
     },
     "done": true
   },
