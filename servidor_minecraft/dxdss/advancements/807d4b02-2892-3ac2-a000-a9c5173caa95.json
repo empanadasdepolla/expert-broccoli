@@ -13,7 +13,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -754,7 +754,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -847,7 +847,9 @@
       "minecraft:pillager": "2025-04-12 19:50:43 +0000",
       "minecraft:blaze": "2025-04-14 02:08:58 +0000",
       "minecraft:skeleton": "2025-04-12 19:17:29 +0000",
+      "minecraft:ghast": "2025-04-15 01:36:24 +0000",
       "minecraft:vindicator": "2025-04-12 20:37:27 +0000",
+      "minecraft:magma_cube": "2025-04-15 01:41:25 +0000",
       "minecraft:spider": "2025-04-12 18:36:13 +0000",
       "minecraft:creeper": "2025-04-13 00:18:42 +0000",
       "minecraft:slime": "2025-04-12 21:03:09 +0000",
@@ -875,7 +877,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -1019,7 +1021,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -1065,6 +1067,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/ghast_buster": {
+    "criteria": {
+      "kill_ghast": "2025-04-15 01:36:24 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:24 +0000"
@@ -1095,6 +1103,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/border_of_life": {
+    "criteria": {
+      "requirement": "2025-04-15 01:04:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:39 +0000"
@@ -1115,7 +1129,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -1239,6 +1253,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-04-15 01:35:03 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:23 +0000"
@@ -1254,6 +1274,12 @@
   "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-15 01:12:32 +0000"
     },
     "done": true
   },
@@ -1301,7 +1327,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -1764,7 +1790,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -1812,7 +1838,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -1922,6 +1948,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-15 02:07:53 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-04-12 16:39:24 +0000"
@@ -1972,7 +2004,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -1985,6 +2017,12 @@
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-12 16:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-15 02:25:53 +0000"
     },
     "done": true
   },
@@ -2020,7 +2058,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -2044,7 +2082,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -2062,7 +2100,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-15 00:59:25 +0000"
+      "log_spam_fixer": "2025-04-15 02:37:18 +0000"
     },
     "done": false
   },
@@ -2170,7 +2208,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-04-14 01:44:39 +0000"
+      "minecraft:crimson_forest": "2025-04-15 01:37:06 +0000",
+      "minecraft:nether_wastes": "2025-04-14 01:44:39 +0000",
+      "minecraft:warped_forest": "2025-04-15 01:06:09 +0000"
     },
     "done": false
   },
