@@ -43,3 +43,14 @@
 [15Apr2025 00:28:00.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
 [15Apr2025 00:28:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [15Apr2025 00:28:17.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[15Apr2025 00:33:14.347] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c4694ae
+[15Apr2025 00:33:14.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:55849] logged in with entity id 11801 at (-1274.05984657174, 142.0, -1644.100861854164)
+[15Apr2025 00:33:14.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[15Apr2025 00:33:17.054] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[15Apr2025 00:33:17.054] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[15Apr2025 00:33:26.539] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[15Apr2025 00:33:27.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[15Apr2025 00:33:27.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[15Apr2025 00:34:42.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> veni a la call
+[15Apr2025 00:34:48.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> ya va
+[15Apr2025 00:35:04.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> estoy ocupao, acabo de salir d bañar
