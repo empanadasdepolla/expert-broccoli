@@ -64,3 +64,21 @@
 [15Apr2025 00:47:45.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> libros?
 [15Apr2025 00:47:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> librerias
 [15Apr2025 00:47:59.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sofx0Loder> trae lo q tengas
+[15Apr2025 00:56:25.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4438ms or 88 ticks behind
+[15Apr2025 00:56:33.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1265, y=142, z=-1635} BlockPos{x=-1265, y=140, z=-1634}
+[15Apr2025 00:59:15.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[15Apr2025 00:59:26.651] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c63ccd06: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[15Apr2025 00:59:29.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[15Apr2025 01:00:35.676] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[15Apr2025 01:00:35.676] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[15Apr2025 01:00:36.169] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID b5958a52-1572-49b0-b92d-a7a4bb272208
+[15Apr2025 01:00:36.218] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID c8d20c97-f7b6-4b40-a6cd-f9e3a84761e2
+[15Apr2025 01:00:36.220] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/expert-broccoli/servidor_minecraft/./crash-reports/crash-2025-04-15_01.00.36-server.txt
+[15Apr2025 01:00:36.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Apr2025 01:00:36.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Apr2025 01:00:36.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Server closed
+[15Apr2025 01:00:36.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[15Apr2025 01:00:36.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Apr2025 01:00:42.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:overworld
+[15Apr2025 01:00:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/tht:dimension
+[15Apr2025 01:00:43.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dxdss]'/minecraft:the_nether
