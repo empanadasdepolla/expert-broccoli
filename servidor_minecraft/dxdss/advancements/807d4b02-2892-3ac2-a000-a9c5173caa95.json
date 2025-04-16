@@ -153,6 +153,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-04-14 02:06:43 +0000",
+      "incendium:weeping_valley": "2025-04-16 18:09:58 +0000",
       "incendium:quartz_flats": "2025-04-14 01:44:17 +0000"
     },
     "done": false
@@ -683,6 +684,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-12 18:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-16 18:03:33 +0000"
     },
     "done": true
   },
@@ -1785,6 +1792,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 20:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-16 18:01:35 +0000"
     },
     "done": true
   },

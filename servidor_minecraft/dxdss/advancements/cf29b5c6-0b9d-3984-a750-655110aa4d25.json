@@ -484,6 +484,7 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "creeper_head": "2025-04-15 00:58:53 +0000",
+      "zombie_head": "2025-04-16 18:07:19 +0000",
       "wither_skeleton_skull": "2025-04-13 00:46:02 +0000"
     },
     "done": false
