@@ -14573,3 +14573,551 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Apr2025 17:20:18.935] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
 [16Apr2025 17:20:19.392] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [16Apr2025 17:20:19.392] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:20:58.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[16Apr2025 17:20:58.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[16Apr2025 17:21:06.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[16Apr2025 17:21:06.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[16Apr2025 17:21:06.182] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[16Apr2025 17:21:06.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[16Apr2025 17:21:06.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_03
+[16Apr2025 17:21:06.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[16Apr2025 17:21:06.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/turn_01
+[16Apr2025 17:21:06.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_06
+[16Apr2025 17:21:06.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_01
+[16Apr2025 17:21:06.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[16Apr2025 17:21:06.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[16Apr2025 17:21:06.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_02
+[16Apr2025 17:21:06.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_05
+[16Apr2025 17:21:06.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_01
+[16Apr2025 17:21:06.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_02
+[16Apr2025 17:21:06.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[16Apr2025 17:21:06.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_03
+[16Apr2025 17:21:06.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[16Apr2025 17:21:06.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[16Apr2025 17:21:06.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[16Apr2025 17:21:06.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[16Apr2025 17:22:01.365] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:01.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:01.367] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:01.419] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:01.465] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:01.513] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:01.565] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:01.616] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:01.666] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:01.714] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:01.768] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:01.818] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:01.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:01.918] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:02.369] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:02.369] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:03.027] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:03.065] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:03.119] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:03.164] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:03.214] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:03.266] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:03.317] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:03.364] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:03.416] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:04.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:04.367] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:04.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:04.873] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:05.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:05.323] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:07.569] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:07.623] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:07.666] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:07.720] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:07.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:07.722] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:07.772] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:07.828] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:07.867] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:08.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:08.171] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:08.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:08.673] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:13.915] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:13.964] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.019] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.064] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.122] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.168] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:14.170] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:14.225] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.275] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.319] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.390] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.423] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.476] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.517] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.570] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.617] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.669] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.717] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:14.719] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:14.769] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.823] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.867] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.922] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:14.967] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.017] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.065] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.116] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.168] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:15.170] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:15.222] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.265] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.319] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.364] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.416] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.470] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.515] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.574] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.619] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.665] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:15.719] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:22:17.262] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/castle
+[16Apr2025 17:22:20.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:20.674] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:21.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:21.126] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:21.382] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/mine/start
+[16Apr2025 17:22:21.385] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[16Apr2025 17:22:21.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:21.571] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:22.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:22.079] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:22.475] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:22.475] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:22.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:22.680] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:22.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:22.873] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:23.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:23.134] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:23.278] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:23.278] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:23.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:23.970] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:28.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:28.265] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:28.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:28.266] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:28.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:28.769] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:29.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:29.267] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:29.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:29.728] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:33.069] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:33.069] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:33.666] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:33.666] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:37.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:37.665] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:38.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:38.065] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:38.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:38.066] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:38.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:38.466] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:41.618] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:41.618] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:46.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:46.421] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:46.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:46.821] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:47.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:47.217] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:57.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:57.168] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:22:57.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:22:57.967] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:23:01.433] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_1
+[16Apr2025 17:23:01.447] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[16Apr2025 17:23:01.450] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/arch1
+[16Apr2025 17:23:01.456] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/6
+[16Apr2025 17:23:04.736] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/doorway
+[16Apr2025 17:23:04.768] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/2
+[16Apr2025 17:23:07.301] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_spawner_room_1
+[16Apr2025 17:23:09.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:23:09.169] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:23:09.566] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:23:09.566] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:23:09.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:23:09.968] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:23:10.643] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pillar1
+[16Apr2025 17:23:12.218] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:23:12.219] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:23:12.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:23:12.624] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:23:13.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:23:13.022] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:23:13.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:23:13.534] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:23:54.579] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[16Apr2025 17:24:14.914] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:14.965] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.170] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.217] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.268] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.321] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.368] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.414] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.465] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.526] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.567] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.619] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.713] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.768] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.816] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.865] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.916] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:18.966] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.020] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.073] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.118] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.167] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.225] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.265] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.314] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.369] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.464] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.464] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:24:19.466] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:24:19.515] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.515] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.565] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.565] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.625] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.625] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.672] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.672] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.715] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.715] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.764] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.764] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.816] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.816] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.867] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.867] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.916] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:19.916] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:24:20.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:24:20.032] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:24:21.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:24:21.498] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:24:22.024] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:24:22.024] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:24:22.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:24:22.532] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:24:23.523] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:24:23.524] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:24:24.021] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:24:24.021] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:24:26.723] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Uzumaki0502: {disabled=false, disconnected=false, uuid=4f2b9086-e2c9-3282-b71b-70cc5b03addc, name=Uzumaki0502, group=null}
+[16Apr2025 17:25:17.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:17.425] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:19.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:19.072] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:29.120] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:29.120] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:29.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:29.266] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:29.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:29.466] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:29.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:29.769] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:29.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:29.916] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:30.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:30.118] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:30.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:30.317] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:30.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:30.466] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:30.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:30.667] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:30.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:30.866] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:31.069] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:31.069] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:31.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:31.266] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:31.456] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:31.456] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:31.629] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:31.629] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:31.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:31.873] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:32.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:32.081] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:32.278] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:32.278] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:32.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:32.517] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:32.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:32.721] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:32.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:32.929] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:33.069] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:33.070] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:33.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:33.266] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:46.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:46.917] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:47.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:47.320] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:47.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:47.720] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:48.123] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:48.123] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:48.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:48.520] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:48.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:48.923] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:49.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:49.373] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:49.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:49.772] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:50.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:50.223] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:50.608] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin4
+[16Apr2025 17:25:50.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:50.671] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:51.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:51.066] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:51.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:25:51.517] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:25:58.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[16Apr2025 17:25:58.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[16Apr2025 17:26:37.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:26:37.077] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:26:47.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [To Infinity and Beyond!]
+[16Apr2025 17:27:13.566] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:13.566] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:13.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:13.969] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:19.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:19.465] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:19.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:19.866] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:20.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:20.270] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:21.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:21.922] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:22.327] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:22.327] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:22.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:22.721] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:33.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:33.619] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:34.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:34.622] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:35.189] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:35.189] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:36.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:36.168] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:36.641] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:36.641] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:37.123] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:37.123] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:38.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:38.067] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:38.537] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:38.538] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:38.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:38.539] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:39.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:39.019] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:40.226] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:40.226] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:41.224] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:41.224] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:41.226] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:41.226] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:41.768] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:41.768] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:42.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:42.421] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:42.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:42.921] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:43.441] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:43.441] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:44.224] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:44.224] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:44.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:44.316] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:44.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:44.736] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:46.366] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:46.366] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:46.867] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:46.867] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:54.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:54.724] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:27:55.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:27:55.129] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:34.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:34.619] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:35.068] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:35.068] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:35.470] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:35.470] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:35.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:35.918] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:37.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:37.723] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:38.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:38.116] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:38.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:38.517] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:38.919] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:38.919] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:40.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:40.416] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:41.366] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:41.366] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:41.819] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:41.819] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:42.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:42.264] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:42.778] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:42.778] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:43.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:43.268] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:48.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Don't Count Your Moas...]
+[16Apr2025 17:28:48.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:48.977] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:49.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:49.465] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:28:50.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:28:50.172] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:29:13.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:29:13.972] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:29:14.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:29:14.490] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:29:15.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:29:15.073] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:29:30.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:29:30.471] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:29:30.867] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:29:30.867] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:29:48.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:29:48.865] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:29:49.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:29:49.368] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:29:49.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:29:49.869] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:29:54.715] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:30:31.071] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:30:31.071] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:30:31.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:30:31.517] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:30:37.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:30:37.317] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:30:58.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[16Apr2025 17:30:58.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[16Apr2025 17:31:22.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:31:22.671] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:31:23.137] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:31:23.137] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:31:27.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:31:27.217] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:31:30.537] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:31:30.537] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:31:36.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:31:36.619] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:31:37.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:31:37.117] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:31:38.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:31:38.165] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:31:38.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:31:38.615] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:33:00.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:33:00.166] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:33:00.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:33:00.667] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:33:01.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:33:01.115] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:35:58.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[16Apr2025 17:35:58.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[16Apr2025 17:36:05.322] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:36:05.322] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:36:05.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:36:05.772] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:36:11.318] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:36:11.318] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:36:11.871] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:36:11.871] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:36:12.322] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:36:12.322] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:36:28.042] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=142, z=-1647}
+[16Apr2025 17:36:28.042] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1277, y=142, z=-1646}
+[16Apr2025 17:36:42.767] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:42.816] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:42.869] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:42.921] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:42.966] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.017] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.067] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.118] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.169] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.220] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.269] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.319] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.368] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.418] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.471] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.519] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.573] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.626] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.673] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.725] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.771] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.826] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.867] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.931] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:43.974] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:44.023] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:44.069] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:44.119] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:44.168] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:44.218] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:36:44.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[16Apr2025 17:37:10.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[16Apr2025 17:38:42.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:38:42.320] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:38:42.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:38:42.830] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:38:43.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:38:43.220] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:38:43.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:38:43.622] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:38:44.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:38:44.017] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:39:03.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:39:03.571] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:39:04.120] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:39:04.120] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:39:04.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:39:04.619] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:39:14.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:39:14.624] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:39:15.071] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:39:15.071] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:39:15.521] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:39:15.521] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:39:43.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:39:43.972] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:39:44.392] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:39:44.392] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource

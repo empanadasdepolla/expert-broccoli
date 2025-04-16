@@ -1158,3 +1158,7 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Apr2025 17:18:10.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
 [16Apr2025 17:19:20.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jillian'/10197, l='ServerLevel[dxdss]', x=-802.93, y=63.00, z=-311.88] died, message: 'Jillian suffocated in a wall'
 [16Apr2025 17:19:20.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jillian'/10197, l='ServerLevel[dxdss]', x=-802.93, y=63.00, z=-311.88] died: Jillian suffocated in a wall
+[16Apr2025 17:26:47.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [To Infinity and Beyond!]
+[16Apr2025 17:28:48.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Don't Count Your Moas...]
+[16Apr2025 17:36:44.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[16Apr2025 17:37:10.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
