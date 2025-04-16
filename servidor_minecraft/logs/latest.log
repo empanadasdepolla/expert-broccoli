@@ -1162,3 +1162,14 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Apr2025 17:28:48.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder has made the advancement [Don't Count Your Moas...]
 [16Apr2025 17:36:44.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
 [16Apr2025 17:37:10.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[16Apr2025 17:47:39.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Disconnected
+[16Apr2025 17:47:39.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game
+[16Apr2025 17:47:39.570] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sofx0Loder
+[16Apr2025 17:49:47.064] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@429d9fd7
+[16Apr2025 17:49:47.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sofx0Loder[/127.162.229.176:39013] logged in with entity id 33850 at (-2147.8705128724496, 25.0, -2269.699999988079)
+[16Apr2025 17:49:47.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder joined the game
+[16Apr2025 17:49:47.927] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sofx0Loder (18)
+[16Apr2025 17:49:47.927] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sofx0Loder
+[16Apr2025 17:49:50.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[16Apr2025 17:49:51.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
+[16Apr2025 17:49:51.976] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
