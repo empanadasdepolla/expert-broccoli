@@ -71,6 +71,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 03:19:44 +0000"
@@ -285,6 +297,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 19:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
     },
     "done": true
   },
@@ -595,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_sign_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 04:03:26 +0000"
@@ -721,6 +745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_stairs_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/barrel_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 23:30:52 +0000"
@@ -748,6 +778,12 @@
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_button_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
     },
     "done": true
   },
@@ -979,6 +1015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/chest_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 19:49:00 +0000"
@@ -1183,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
+    },
+    "done": true
+  },
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2025-04-14 02:03:30 +0000"
@@ -1252,6 +1300,12 @@
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-04-13 18:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
     },
     "done": true
   },
@@ -1399,6 +1453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
@@ -1414,6 +1474,12 @@
   "aether:silver_dungeon": {
     "criteria": {
       "kill_valkyrie_queen": "2025-04-14 02:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
     },
     "done": true
   },
@@ -1480,6 +1546,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 17:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
     },
     "done": true
   },
@@ -1619,6 +1691,12 @@
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-12 21:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
     },
     "done": true
   },
@@ -1995,6 +2073,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_door_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-13 18:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 17:53:57 +0000"
     },
     "done": true
   },

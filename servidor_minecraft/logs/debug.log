@@ -15542,3 +15542,198 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Apr2025 17:49:52.174] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sofx0Loder: {disabled=false, disconnected=false, uuid=cf29b5c6-0b9d-3984-a750-655110aa4d25, name=Sofx0Loder, group=null}
 [16Apr2025 17:50:58.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
 [16Apr2025 17:50:58.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[16Apr2025 17:53:01.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[16Apr2025 17:53:11.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[16Apr2025 17:53:43.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/bottom
+[16Apr2025 17:55:58.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[16Apr2025 17:55:58.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[16Apr2025 17:57:04.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_oak
+[16Apr2025 17:57:04.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[16Apr2025 17:57:04.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[16Apr2025 17:57:04.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[16Apr2025 17:57:04.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[16Apr2025 17:57:04.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[16Apr2025 17:57:05.000] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[16Apr2025 17:57:59.920] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:57:59.969] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[16Apr2025 17:58:19.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:jungle_ruin/jungle_ruins_axolotl_center
+[16Apr2025 17:58:21.106] [Worker-Main-44/WARN] [ModernFix/]: The namespace nova_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Apr2025 17:58:21.107] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house3 is being run through DFU (hash dfb86452ac3f741117d8cd22e8d80841a5fea0d5e2a863e597be880e3d311c4e), this will cause launch time delays
+[16Apr2025 17:58:21.332] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_path4 is being run through DFU (hash ba456929414c1ecc5f54683e29582d97ebbad359d86971385617a8557f9e6354), this will cause launch time delays
+[16Apr2025 17:58:21.350] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_temple2 is being run through DFU (hash 1c95a95a96d9c0299f821f2b7370a4bd98e25983ce1f8181527923fed67301ed), this will cause launch time delays
+[16Apr2025 17:58:21.380] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house_fletcher is being run through DFU (hash c96b5672ee65969e2aae27212ba0d5b32586c3efad903c3fce3b81f178491978), this will cause launch time delays
+[16Apr2025 17:58:21.384] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house_butcher is being run through DFU (hash 3ef31e9354620867a8c1237f57bfc8cb23879b77f5412f185529ef2249431c79), this will cause launch time delays
+[16Apr2025 17:58:21.387] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house2 is being run through DFU (hash c876c1dff109065dc7fc1436bd2c957bf1c3374cbba437dd713cce2e7613b3b3), this will cause launch time delays
+[16Apr2025 17:58:21.391] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house8 is being run through DFU (hash 4f24ed6c792739f6ba84679e857458ceb3c2de06b99e50506717631d0b70c221), this will cause launch time delays
+[16Apr2025 17:58:21.395] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house5 is being run through DFU (hash 418fd0416df18c6d1c9c0dfdff9f4fa46d0d95d957a87dad8715f22ee58d907a), this will cause launch time delays
+[16Apr2025 17:58:21.405] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house_smith is being run through DFU (hash 6c96179ecbb3c26bc85ab34308adf89dd290eded5e8355b489fa22fcbedc2e83), this will cause launch time delays
+[16Apr2025 17:58:21.408] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_path2 is being run through DFU (hash 497a0c4f23c9ab3bac8deefea145718825e8fecd14a476516c1eeafe3653bab5), this will cause launch time delays
+[16Apr2025 17:58:21.416] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_temple3 is being run through DFU (hash 2355033b4ca715a660eb31f43355a1069cbaacb594eaf146408a96d4029652a6), this will cause launch time delays
+[16Apr2025 17:58:21.437] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house7 is being run through DFU (hash acf7ce3791af0a5529e2a10eb943409d34cd53424bfe9d5bc9ba1b7c8a3859dd), this will cause launch time delays
+[16Apr2025 17:58:21.441] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_path1 is being run through DFU (hash e110eba6c3aa457031fdef0b104c3571e9aec582c9036e6fd710a01a841946cb), this will cause launch time delays
+[16Apr2025 17:58:21.444] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_spring is being run through DFU (hash a5fc50630e4fdfe02b41fd350d8ef8c00ad07860c57a4b2e049cc359fae2043a), this will cause launch time delays
+[16Apr2025 17:58:21.445] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_villayan is being run through DFU (hash 6a31e1bedbc8f9919dd6ddafa984798966aeda96a2456316c9bc19e45a2a2e7f), this will cause launch time delays
+[16Apr2025 17:58:21.448] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house4 is being run through DFU (hash a5f5365dfac3750a1efedba67c24ad4739db714a313d128151233cdc8faed560), this will cause launch time delays
+[16Apr2025 17:58:21.452] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house1 is being run through DFU (hash 1a5f9d835607105d7c3ac51b7332e2426918b72cae0c121abc59058db5587e02), this will cause launch time delays
+[16Apr2025 17:58:21.454] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house_mason is being run through DFU (hash afa551ab886f1145a7d448caa2bcb24a2523a57558ebfad03f04e230e3f86a2d), this will cause launch time delays
+[16Apr2025 17:58:21.458] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_lamp1 is being run through DFU (hash d6d9288f889d903edbdaa94620ee6eb6d8cd8288f2db03accc7aeb689296c06e), this will cause launch time delays
+[16Apr2025 17:58:21.464] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_path3 is being run through DFU (hash bfd161f472b46512553fd1f42b7027bcc7aefe4eab5040cdd79878771ee4d903), this will cause launch time delays
+[16Apr2025 17:58:21.467] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house_library is being run through DFU (hash 2743e9ec47e4e69e4bfb6a5946395c48472eb3d51c079274b01492cbc41f2283), this will cause launch time delays
+[16Apr2025 17:58:21.472] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_villayan_big is being run through DFU (hash 2104d8931548b147193d6781c5f9577e1724c17a183c8df98f81c8213bdc760c), this will cause launch time delays
+[16Apr2025 17:58:21.480] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house_shepherd is being run through DFU (hash 30ae6dfb4ab240af197f9cb23a945b7e4447c76f812e0dfadac70207125f4a3b), this will cause launch time delays
+[16Apr2025 17:58:21.483] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_lamp3 is being run through DFU (hash ac9ed3678aa8fcfaa20c8c70a2faa9ae9a74d06e03d3be2fe0ef7df8f8697c7f), this will cause launch time delays
+[16Apr2025 17:58:21.485] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_axolotl is being run through DFU (hash 4065ee5b5edb828a583a2f204afa8e77a2220665c386678bfa64a7327b99b3ea), this will cause launch time delays
+[16Apr2025 17:58:21.488] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house_smith2 is being run through DFU (hash 50fa769b114bb52ac7c9e24ea65afa8f8429e979d5240f0f1eeddfd0aabe7b95), this will cause launch time delays
+[16Apr2025 17:58:21.550] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_lamp2 is being run through DFU (hash fdf66d5ada3cb6944f15e6279d908ea05c40fdde5c9da7cc9d6fa28dd74333e4), this will cause launch time delays
+[16Apr2025 17:58:21.552] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_temple1 is being run through DFU (hash fbdd1ca04b9db2b46b45ee8f4e07fc05d7305caabe35fa52eba85687a052d915), this will cause launch time delays
+[16Apr2025 17:58:21.569] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_house6 is being run through DFU (hash 40aa739d09c99e238353140a69e25b836c19000fb0e686129893034219431bfd), this will cause launch time delays
+[16Apr2025 17:58:21.572] [Worker-Main-44/DEBUG] [ModernFix/]: Structure nova_structures:jungle_ruin/jungle_ruins_farm is being run through DFU (hash bb7a6f0d0908ff5f213e045a32226fb6fe99674374a0755f15ec12ac750f344c), this will cause launch time delays
+[16Apr2025 17:58:23.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3723ms or 74 ticks behind
+[16Apr2025 17:58:24.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2147.500000, 19.500000, -2276.500000]
+[16Apr2025 17:58:26.168] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[16Apr2025 17:59:25.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:church/glass_nether_wastes
+[16Apr2025 17:59:25.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:church/glass_warped_forest
+[16Apr2025 17:59:25.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:church/glass_toxic_heap
+[16Apr2025 17:59:25.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:church/glass_withered_forest
+[16Apr2025 17:59:25.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:church/glass_basalt_deltas
+[16Apr2025 17:59:25.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:church/glass_infernal_dunes
+[16Apr2025 17:59:25.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:church/glass_crimson_forest
+[16Apr2025 17:59:25.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:church/glass_quartz_flats
+[16Apr2025 17:59:25.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:church/glass_ssv
+[16Apr2025 17:59:25.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter2
+[16Apr2025 17:59:25.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_hv
+[16Apr2025 17:59:25.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_vh
+[16Apr2025 17:59:25.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_4way
+[16Apr2025 17:59:25.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_hv
+[16Apr2025 17:59:25.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_v
+[16Apr2025 17:59:25.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_hv
+[16Apr2025 17:59:25.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_vh
+[16Apr2025 17:59:25.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_t
+[16Apr2025 17:59:25.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_s
+[16Apr2025 17:59:25.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_long
+[16Apr2025 17:59:25.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_elbow
+[16Apr2025 17:59:25.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v
+[16Apr2025 17:59:25.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_vh
+[16Apr2025 17:59:25.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_tall
+[16Apr2025 17:59:25.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_end
+[16Apr2025 17:59:25.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_end
+[16Apr2025 17:59:27.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:27.268] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:27.742] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:27.742] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:28.124] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:28.124] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:28.524] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:28.524] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:29.631] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:29.631] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:30.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:30.028] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:30.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:30.534] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:30.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:30.934] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:31.334] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:31.334] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:31.734] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:31.734] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:32.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:32.168] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:41.692] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:41.692] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:46.024] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:46.024] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:46.469] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:46.469] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:52.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:52.310] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:54.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:54.569] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 17:59:55.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 17:59:55.020] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:00:22.842] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:00:22.842] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:02.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[16Apr2025 18:01:02.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[16Apr2025 18:01:04.818] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:04.819] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:05.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:05.321] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:07.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:07.320] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:07.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:07.769] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:21.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:21.135] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:21.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[16Apr2025 18:01:21.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[16Apr2025 18:01:21.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[16Apr2025 18:01:21.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[16Apr2025 18:01:21.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[16Apr2025 18:01:21.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[16Apr2025 18:01:21.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[16Apr2025 18:01:21.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large7
+[16Apr2025 18:01:21.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[16Apr2025 18:01:21.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[16Apr2025 18:01:21.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[16Apr2025 18:01:21.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[16Apr2025 18:01:21.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[16Apr2025 18:01:21.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[16Apr2025 18:01:21.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[16Apr2025 18:01:21.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[16Apr2025 18:01:21.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[16Apr2025 18:01:21.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[16Apr2025 18:01:21.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[16Apr2025 18:01:21.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small6
+[16Apr2025 18:01:21.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[16Apr2025 18:01:21.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[16Apr2025 18:01:21.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[16Apr2025 18:01:21.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[16Apr2025 18:01:21.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[16Apr2025 18:01:21.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small2
+[16Apr2025 18:01:21.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[16Apr2025 18:01:21.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large6
+[16Apr2025 18:01:21.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[16Apr2025 18:01:21.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[16Apr2025 18:01:21.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:21.535] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:21.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:21.956] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:22.467] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:22.468] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:22.839] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:22.839] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:23.227] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:23.227] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:23.533] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[16Apr2025 18:01:23.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:23.637] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:24.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:24.048] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:24.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:24.431] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:24.725] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:obsidilith_arena/base
+[16Apr2025 18:01:24.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:24.831] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:25.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:25.691] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:26.121] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:26.121] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:26.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:26.169] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:26.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:26.579] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:26.732] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:26.732] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:27.291] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:27.291] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:27.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:27.840] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:29.319] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:29.319] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:30.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:30.421] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:31.071] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:31.072] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[16Apr2025 18:01:31.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Apr2025 18:01:31.073] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource

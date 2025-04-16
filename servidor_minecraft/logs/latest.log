@@ -1173,3 +1173,8 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Apr2025 17:49:50.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf29b5c6-0b9d-3984-a750-655110aa4d25
 [16Apr2025 17:49:51.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf29b5c6-0b9d-3984-a750-655110aa4d25
 [16Apr2025 17:49:51.976] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) successfully connected to voice chat
+[16Apr2025 17:53:01.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[16Apr2025 17:53:11.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[16Apr2025 17:58:21.106] [Worker-Main-44/WARN] [ModernFix/]: The namespace nova_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Apr2025 17:58:23.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3723ms or 74 ticks behind
+[16Apr2025 17:58:24.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2147.500000, 19.500000, -2276.500000]
