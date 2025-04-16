@@ -1154,3 +1154,7 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16Apr2025 17:02:57.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
 [16Apr2025 17:02:58.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
 [16Apr2025 17:02:58.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[16Apr2025 17:16:16.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 is bleeding. Uzumaki0502 was shot by Sofx0Loder
+[16Apr2025 17:18:10.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[16Apr2025 17:19:20.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jillian'/10197, l='ServerLevel[dxdss]', x=-802.93, y=63.00, z=-311.88] died, message: 'Jillian suffocated in a wall'
+[16Apr2025 17:19:20.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jillian'/10197, l='ServerLevel[dxdss]', x=-802.93, y=63.00, z=-311.88] died: Jillian suffocated in a wall
