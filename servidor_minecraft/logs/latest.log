@@ -1139,3 +1139,43 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 01:20:28.478] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Apr2025 01:20:28.478] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Apr2025 01:20:37.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 01:23:42.275] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4048f6f0
+[17Apr2025 01:23:42.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Uzumaki0502[/127.58.111.88:49085] logged in with entity id 2379 at (-103.50853162191562, 82.0, 1763.95432249511)
+[17Apr2025 01:23:42.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 joined the game
+[17Apr2025 01:23:43.550] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Uzumaki0502 (18)
+[17Apr2025 01:23:43.550] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Uzumaki0502
+[17Apr2025 01:23:47.921] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[17Apr2025 01:23:48.923] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4f2b9086-e2c9-3282-b71b-70cc5b03addc
+[17Apr2025 01:23:48.923] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Uzumaki0502 (4f2b9086-e2c9-3282-b71b-70cc5b03addc) successfully connected to voice chat
+[17Apr2025 01:23:49.891] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/2687, l='ServerLevel[dxdss]', x=-286.50, y=76.00, z=1871.50]
+[17Apr2025 01:23:49.892] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/2688, l='ServerLevel[dxdss]', x=-286.47, y=76.00, z=1867.76]
+[17Apr2025 01:23:49.892] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/2689, l='ServerLevel[dxdss]', x=-286.50, y=76.00, z=1865.50]
+[17Apr2025 01:26:08.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to Uzumaki0502]
+[17Apr2025 01:26:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to -2155.500000, 65.500000, -2242.500000]
+[17Apr2025 01:27:59.248] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[17Apr2025 01:28:53.287] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=138, z=-19}
+[17Apr2025 01:28:53.290] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=138, z=-20}
+[17Apr2025 01:28:53.290] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=138, z=-17}
+[17Apr2025 01:28:53.291] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=138, z=-22}
+[17Apr2025 01:28:53.891] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:28:53.891] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:28:53.892] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:28:53.892] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:29:24.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-517, y=82, z=1925} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[17Apr2025 01:29:24.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-517, y=82, z=1925}
+[17Apr2025 01:29:29.695] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-539, y=82, z=2187} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[17Apr2025 01:29:29.695] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-539, y=82, z=2187}
+[17Apr2025 01:29:29.695] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-539, y=81, z=2188} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[17Apr2025 01:29:29.695] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-539, y=81, z=2188}
+[17Apr2025 01:29:29.695] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-539, y=82, z=2188} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[17Apr2025 01:29:29.695] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-539, y=82, z=2188}
+[17Apr2025 01:29:52.278] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37f68c64
+[17Apr2025 01:29:52.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:56437] logged in with entity id 9575 at (-484.69999998807907, 62.41999998688698, -297.4676801736292)
+[17Apr2025 01:29:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[17Apr2025 01:29:55.993] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[17Apr2025 01:29:55.994] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[17Apr2025 01:30:11.726] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[17Apr2025 01:30:11.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[17Apr2025 01:30:12.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[17Apr2025 01:30:12.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[17Apr2025 01:30:29.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
