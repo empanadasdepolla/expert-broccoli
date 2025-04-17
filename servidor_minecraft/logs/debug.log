@@ -14788,3 +14788,187 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 01:43:35.968] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_fletcher_1
 [17Apr2025 01:43:35.968] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_leatherworker_1
 [17Apr2025 01:43:35.968] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_shepherd_1
+[17Apr2025 01:44:03.821] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond1
+[17Apr2025 01:44:07.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[17Apr2025 01:44:07.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[17Apr2025 01:44:10.910] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_left_corner
+[17Apr2025 01:44:10.913] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top_right_corner
+[17Apr2025 01:44:10.914] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/left
+[17Apr2025 01:44:10.917] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_right_corner_1
+[17Apr2025 01:44:10.918] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/right
+[17Apr2025 01:44:10.921] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top
+[17Apr2025 01:44:10.924] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top_left_corner
+[17Apr2025 01:44:10.925] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_right_corner_2
+[17Apr2025 01:44:10.964] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/sauna_1
+[17Apr2025 01:44:25.070] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/4
+[17Apr2025 01:44:38.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[17Apr2025 01:44:40.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -10.035897115159969,0.544813860751816,0.4607123165806115
+[17Apr2025 01:44:46.811] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/1
+[17Apr2025 01:44:46.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -3.9492398667276802,1.4440165403149479,9.288821001894576
+[17Apr2025 01:44:46.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -8.32819775968619,-1.833799854075096,5.437407187088411
+[17Apr2025 01:44:51.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -7.639713352542344,2.3433386053764877,6.296910310920794
+[17Apr2025 01:44:58.476] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/conduit_ruin_1
+[17Apr2025 01:44:59.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6377ms or 127 ticks behind
+[17Apr2025 01:45:13.298] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/staircase1
+[17Apr2025 01:45:19.806] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin3
+[17Apr2025 01:45:23.132] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_2
+[17Apr2025 01:45:30.742] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_1
+[17Apr2025 01:45:53.446] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hut2
+[17Apr2025 01:46:02.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -8.949907662912665,-3.9961166936296877,2.396754805841283
+[17Apr2025 01:46:04.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
+[17Apr2025 01:46:05.792] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool_small1
+[17Apr2025 01:46:16.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -5.8492161357876284,-3.76776716827942,7.284145923138112
+[17Apr2025 01:46:17.562] [Worker-Main-38/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"8",powered:"false"}}
+[17Apr2025 01:46:17.563] [Worker-Main-38/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: piglin for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"piglin",note:"5",powered:"false"}}
+[17Apr2025 01:46:17.578] [Worker-Main-38/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: instrument with value: creeper for blockstate: {Name:"minecraft:note_block",Properties:{instrument:"creeper",note:"12",powered:"false"}}
+[17Apr2025 01:46:22.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3353ms or 67 ticks behind
+[17Apr2025 01:46:26.197] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:26.197] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:26.198] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:26.198] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:26.198] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:26.198] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:26.199] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:26.199] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:26.199] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:26.199] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:26.199] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:30.324] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aneta'/24716, l='ServerLevel[dxdss]', x=-969.28, y=139.00, z=3610.63] died, message: 'Aneta suffocated in a wall'
+[17Apr2025 01:46:33.212] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_1
+[17Apr2025 01:46:34.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -6.585898995360594,-4.681165269680491,6.027050865982346
+[17Apr2025 01:46:37.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -0.9928925923128418,-10.009505511901722,1.0251970005829207
+[17Apr2025 01:46:45.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -4.981753162632003,-3.7679833382501897,7.981288112811399
+[17Apr2025 01:46:45.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7232ms or 144 ticks behind
+[17Apr2025 01:46:59.765] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_spruce
+[17Apr2025 01:46:59.765] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[17Apr2025 01:46:59.767] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[17Apr2025 01:46:59.769] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[17Apr2025 01:46:59.774] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_birch
+[17Apr2025 01:46:59.775] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[17Apr2025 01:46:59.775] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[17Apr2025 01:46:59.775] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[17Apr2025 01:46:59.776] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[17Apr2025 01:46:59.776] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[17Apr2025 01:46:59.784] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[17Apr2025 01:46:59.784] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[17Apr2025 01:46:59.785] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[17Apr2025 01:46:59.785] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[17Apr2025 01:46:59.786] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_mangrove
+[17Apr2025 01:46:59.786] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[17Apr2025 01:46:59.787] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[17Apr2025 01:46:59.787] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[17Apr2025 01:46:59.789] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[17Apr2025 01:46:59.790] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_oak
+[17Apr2025 01:46:59.791] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[17Apr2025 01:46:59.798] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[17Apr2025 01:46:59.806] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[17Apr2025 01:46:59.813] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[17Apr2025 01:46:59.813] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[17Apr2025 01:46:59.813] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[17Apr2025 01:46:59.814] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[17Apr2025 01:46:59.814] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[17Apr2025 01:46:59.815] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[17Apr2025 01:46:59.815] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[17Apr2025 01:46:59.816] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[17Apr2025 01:46:59.818] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[17Apr2025 01:46:59.819] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[17Apr2025 01:46:59.819] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[17Apr2025 01:46:59.819] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[17Apr2025 01:46:59.820] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[17Apr2025 01:46:59.820] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[17Apr2025 01:46:59.821] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[17Apr2025 01:46:59.821] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[17Apr2025 01:46:59.822] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[17Apr2025 01:46:59.822] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[17Apr2025 01:46:59.822] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[17Apr2025 01:46:59.823] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[17Apr2025 01:46:59.823] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[17Apr2025 01:46:59.823] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[17Apr2025 01:46:59.824] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[17Apr2025 01:46:59.826] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[17Apr2025 01:46:59.827] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[17Apr2025 01:46:59.827] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[17Apr2025 01:46:59.828] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[17Apr2025 01:46:59.828] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[17Apr2025 01:46:59.836] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[17Apr2025 01:46:59.837] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[17Apr2025 01:46:59.837] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[17Apr2025 01:46:59.838] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[17Apr2025 01:46:59.838] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[17Apr2025 01:46:59.839] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[17Apr2025 01:46:59.839] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[17Apr2025 01:46:59.840] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_desert
+[17Apr2025 01:46:59.841] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[17Apr2025 01:46:59.841] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[17Apr2025 01:46:59.842] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_acacia
+[17Apr2025 01:46:59.843] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[17Apr2025 01:46:59.845] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[17Apr2025 01:46:59.859] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:59.859] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:59.859] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:59.860] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:59.860] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:59.860] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:46:59.860] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:47:00.913] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/medium1
+[17Apr2025 01:47:00.934] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/ruin1
+[17Apr2025 01:47:00.966] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[17Apr2025 01:47:00.977] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/tower/desert_small1
+[17Apr2025 01:47:24.014] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/arch1
+[17Apr2025 01:47:25.395] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/star1
+[17Apr2025 01:48:02.191] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:48:02.192] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:48:02.192] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:48:02.192] [Worker-Main-42/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:48:24.720] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1186, y=101, z=3430} but found not block entity block Block{minecraft:snow}[layers=1] at location
+[17Apr2025 01:48:24.721] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=-1186, y=101, z=3430}
+[17Apr2025 01:48:26.024] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring2
+[17Apr2025 01:48:28.418] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1211, y=100, z=3414} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[17Apr2025 01:48:28.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-1211, y=100, z=3414}
+[17Apr2025 01:48:28.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1211, y=101, z=3413} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[17Apr2025 01:48:28.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-1211, y=101, z=3413}
+[17Apr2025 01:48:28.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1211, y=101, z=3414} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[17Apr2025 01:48:28.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1211, y=101, z=3414}
+[17Apr2025 01:49:28.706] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower3
+[17Apr2025 01:49:30.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[17Apr2025 01:49:30.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[17Apr2025 01:49:36.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[17Apr2025 01:49:36.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[17Apr2025 01:51:04.927] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:51:04.927] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:51:09.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:51:09.149] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:51:09.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:51:09.974] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:51:46.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_front_left
+[17Apr2025 01:51:46.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_bottom_front_right
+[17Apr2025 01:51:46.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_front_left
+[17Apr2025 01:51:46.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_front_left
+[17Apr2025 01:51:46.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_front_left
+[17Apr2025 01:51:46.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_shelf_5wide_0
+[17Apr2025 01:51:46.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_shelf_4wide_1
+[17Apr2025 01:51:46.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_4wide_0
+[17Apr2025 01:51:46.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/study_md_l_0
+[17Apr2025 01:51:46.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/better_portals
+[17Apr2025 01:51:46.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/quarters_sm
+[17Apr2025 01:51:46.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/mess_md_l_0
+[17Apr2025 01:51:46.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_3wide_0
+[17Apr2025 01:51:46.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/jail_md_r_0
+[17Apr2025 01:51:46.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/nether_reactor_md_r_0
+[17Apr2025 01:51:46.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/storeroom_sm_0
+[17Apr2025 01:51:46.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_3wide_1
+[17Apr2025 01:51:46.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_broken_statue_0
+[17Apr2025 01:51:46.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/blaze_stairs_ruined_1
+[17Apr2025 01:51:46.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_deadend_decor
+[17Apr2025 01:51:46.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_4_r
+[17Apr2025 01:51:46.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_4
+[17Apr2025 01:51:46.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_1
+[17Apr2025 01:51:46.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_junction_3_covered
+[17Apr2025 01:51:46.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_ruined_2
+[17Apr2025 01:51:46.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_beacon_lit
+[17Apr2025 01:53:42.475] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:53:42.475] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:53:42.891] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:53:42.891] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:53:43.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:53:43.422] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
