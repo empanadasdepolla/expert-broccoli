@@ -14535,3 +14535,256 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 01:33:12.687] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
 [17Apr2025 01:33:13.137] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [17Apr2025 01:33:13.137] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:37.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:37.231] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:37.700] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:37.700] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:38.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:38.199] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:38.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:38.731] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:39.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:39.199] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:46.391] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:46.391] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:46.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:46.881] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:47.931] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:47.931] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:48.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:48.380] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:48.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:48.881] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:49.383] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:49.383] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:57.730] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:57.730] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:58.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:33:58.232] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:33:59.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[17Apr2025 01:33:59.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[17Apr2025 01:34:59.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:34:59.249] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:34:59.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:34:59.251] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:34:59.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:34:59.790] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:34:59.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:34:59.792] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:00.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:00.231] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:00.233] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:00.233] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:00.702] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:00.702] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:00.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:00.704] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:01.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:01.234] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:01.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:01.237] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:01.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:01.731] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:01.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:01.731] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:03.032] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:03.032] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:03.492] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:03.492] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:05.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:05.231] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:07.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:07.084] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:07.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:07.084] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:07.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:07.084] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:07.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:07.833] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:10.280] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:10.280] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:10.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:10.790] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:24.301] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:24.301] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:24.778] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:24.778] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:26.152] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:26.152] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:26.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:26.677] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:27.102] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:27.102] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:55.144] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_closed
+[17Apr2025 01:35:55.145] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_closed
+[17Apr2025 01:35:55.146] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_1
+[17Apr2025 01:35:56.076] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:56.076] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:56.528] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:56.528] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:57.076] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:57.076] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:57.536] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:57.536] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:58.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:58.029] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:35:58.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:35:58.530] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:37:49.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[17Apr2025 01:37:49.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large3
+[17Apr2025 01:37:49.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter5
+[17Apr2025 01:37:49.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[17Apr2025 01:37:49.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[17Apr2025 01:37:49.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[17Apr2025 01:37:49.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[17Apr2025 01:37:49.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter6
+[17Apr2025 01:38:26.768] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_1
+[17Apr2025 01:38:47.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:38:47.329] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:38:47.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:38:47.780] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:38:48.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:38:48.277] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:38:48.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:38:48.729] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:38:49.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:38:49.178] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:38:54.179] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:38:54.179] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:38:54.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:38:54.626] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:38:59.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save dxdss
+[17Apr2025 01:38:59.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete dxdss
+[17Apr2025 01:39:38.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 01:39:51.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 01:40:04.000] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_double
+[17Apr2025 01:40:08.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[17Apr2025 01:40:10.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[17Apr2025 01:40:13.116] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:40:13.116] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:40:14.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:40:14.530] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:40:14.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:40:14.979] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:40:17.965] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[17Apr2025 01:40:24.411] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_1
+[17Apr2025 01:40:24.545] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_sm
+[17Apr2025 01:40:24.668] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hut7
+[17Apr2025 01:40:26.392] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_lg
+[17Apr2025 01:40:27.221] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters2
+[17Apr2025 01:40:27.222] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/treasure1
+[17Apr2025 01:40:27.223] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall1
+[17Apr2025 01:40:27.224] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_bedroom2
+[17Apr2025 01:40:27.224] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_bedroom3
+[17Apr2025 01:40:27.225] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_storage
+[17Apr2025 01:40:27.226] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters_hall_books
+[17Apr2025 01:40:27.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -2.7283214369891766,1.0013359791121417,9.585977216921037
+[17Apr2025 01:40:29.017] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[17Apr2025 01:40:29.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[17Apr2025 01:40:31.909] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of hexerei:witch_hut
+[17Apr2025 01:40:32.028] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/table1
+[17Apr2025 01:40:32.381] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_5
+[17Apr2025 01:40:39.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:40:39.790] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:40:41.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:40:41.877] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:40:58.948] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[17Apr2025 01:40:58.953] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[17Apr2025 01:41:01.009] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue_small
+[17Apr2025 01:41:01.789] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_birch
+[17Apr2025 01:41:01.800] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_forest
+[17Apr2025 01:41:01.807] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_mangrove
+[17Apr2025 01:41:01.816] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_dark_oak
+[17Apr2025 01:41:01.825] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_taiga
+[17Apr2025 01:41:01.834] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_savanna
+[17Apr2025 01:41:01.843] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_jungle
+[17Apr2025 01:41:07.603] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior216
+[17Apr2025 01:41:07.837] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:41:07.838] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:41:07.838] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:41:07.838] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:41:07.838] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Apr2025 01:41:24.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:41:24.877] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:41:25.326] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:41:25.326] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:41:25.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:41:25.777] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:41:26.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:41:26.309] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:41:26.727] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:41:26.727] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:42:07.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:42:07.431] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:42:09.629] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:42:09.629] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:42:10.702] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:42:10.702] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:42:29.240] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[17Apr2025 01:42:37.842] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/medium2
+[17Apr2025 01:42:37.854] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/sundial
+[17Apr2025 01:42:37.872] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/rock_house1
+[17Apr2025 01:42:37.878] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[17Apr2025 01:42:44.256] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of nullscape:skeleton/8
+[17Apr2025 01:42:44.294] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[17Apr2025 01:42:44.329] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool3
+[17Apr2025 01:42:50.377] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[17Apr2025 01:42:52.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -6.301227128004484,1.7720895910464947,8.747279365467875
+[17Apr2025 01:42:53.327] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[17Apr2025 01:42:53.334] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_small
+[17Apr2025 01:42:54.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[17Apr2025 01:42:54.338] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower2
+[17Apr2025 01:42:54.354] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector5
+[17Apr2025 01:42:54.387] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_castle_small
+[17Apr2025 01:42:54.397] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_corner
+[17Apr2025 01:42:54.405] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_watchtower
+[17Apr2025 01:42:54.472] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house1
+[17Apr2025 01:42:54.486] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound1
+[17Apr2025 01:42:54.492] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[17Apr2025 01:43:10.522] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior1
+[17Apr2025 01:43:11.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -7.730846207783088,6.706279602861159,0.022174108026320027
+[17Apr2025 01:43:11.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 moved too quickly! -6.573149369297369,0.9368621518127895,9.719383029146684
+[17Apr2025 01:43:12.314] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/conduit_ruin_3
+[17Apr2025 01:43:13.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3907ms or 78 ticks behind
+[17Apr2025 01:43:28.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder moved too quickly! -5.018470246870493,7.540741870785922,4.6369237575595434
+[17Apr2025 01:43:32.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Apr2025 01:43:32.428] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Apr2025 01:43:35.874] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/streets/crossroad_03
+[17Apr2025 01:43:35.875] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_1_l
+[17Apr2025 01:43:35.876] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_1_r
+[17Apr2025 01:43:35.877] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_2_l
+[17Apr2025 01:43:35.877] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_2_r
+[17Apr2025 01:43:35.878] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_3_l
+[17Apr2025 01:43:35.880] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_3_r
+[17Apr2025 01:43:35.880] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_4_l
+[17Apr2025 01:43:35.881] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_4_r
+[17Apr2025 01:43:35.882] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_5_l
+[17Apr2025 01:43:35.882] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_5_r
+[17Apr2025 01:43:35.883] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_6_l
+[17Apr2025 01:43:35.883] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_small_house_6_r
+[17Apr2025 01:43:35.884] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_medium_house_1_l
+[17Apr2025 01:43:35.885] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_medium_house_1_r
+[17Apr2025 01:43:35.885] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_medium_house_2_l
+[17Apr2025 01:43:35.886] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_large_house_1
+[17Apr2025 01:43:35.887] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_large_house_2
+[17Apr2025 01:43:35.889] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_large_house_3
+[17Apr2025 01:43:35.891] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_large_house_4
+[17Apr2025 01:43:35.891] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_armorer_1
+[17Apr2025 01:43:35.892] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_cartographer_1
+[17Apr2025 01:43:35.893] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_library_1
+[17Apr2025 01:43:35.893] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_mason_1
+[17Apr2025 01:43:35.895] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_temple_1
+[17Apr2025 01:43:35.895] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/houses/badlands_toolsmith_and_weaponsmith_1
+[17Apr2025 01:43:35.900] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/streets/crossroad_02
+[17Apr2025 01:43:35.906] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/streets/crossroad_01
+[17Apr2025 01:43:35.907] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/badlands_lamp_1
+[17Apr2025 01:43:35.907] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/badlands_lamp_2
+[17Apr2025 01:43:35.907] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/badlands_lamp_3
+[17Apr2025 01:43:35.948] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/streets/straight_01
+[17Apr2025 01:43:35.949] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/terminators/terminator_01
+[17Apr2025 01:43:35.949] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/terminators/terminator_02
+[17Apr2025 01:43:35.967] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_butcher_1
+[17Apr2025 01:43:35.967] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_fisher_1
+[17Apr2025 01:43:35.968] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_fletcher_1
+[17Apr2025 01:43:35.968] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_leatherworker_1
+[17Apr2025 01:43:35.968] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/professions_misc/badlands_shepherd_1

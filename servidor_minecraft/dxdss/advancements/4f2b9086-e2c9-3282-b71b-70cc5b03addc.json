@@ -836,7 +836,8 @@
       "minecraft:husk": "2025-04-16 18:08:34 +0000",
       "minecraft:enderman": "2025-04-13 03:50:42 +0000",
       "minecraft:silverfish": "2025-04-14 00:56:46 +0000",
-      "minecraft:zombie": "2025-04-13 03:24:31 +0000"
+      "minecraft:zombie": "2025-04-13 03:24:31 +0000",
+      "minecraft:drowned": "2025-04-17 01:38:54 +0000"
     },
     "done": false
   },
@@ -1263,6 +1264,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-04-13 22:20:49 +0000"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-04-17 01:30:19 +0000"
     },
     "done": true
   },
