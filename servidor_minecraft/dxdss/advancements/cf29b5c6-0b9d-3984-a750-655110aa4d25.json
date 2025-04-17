@@ -734,6 +734,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-04-17 01:56:02 +0000"
+    },
+    "done": true
+  },
   "twilightforest:naga_armors": {
     "criteria": {
       "armor": "2025-04-13 23:53:16 +0000"

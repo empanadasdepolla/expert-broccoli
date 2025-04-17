@@ -154,7 +154,8 @@
     "criteria": {
       "incendium:infernal_dunes": "2025-04-14 02:06:43 +0000",
       "incendium:weeping_valley": "2025-04-16 18:09:58 +0000",
-      "incendium:quartz_flats": "2025-04-14 01:44:17 +0000"
+      "incendium:quartz_flats": "2025-04-14 01:44:17 +0000",
+      "incendium:inverted_forest": "2025-04-17 01:57:09 +0000"
     },
     "done": false
   },
@@ -1315,6 +1316,12 @@
   "beautify:botanist_workbench": {
     "criteria": {
       "requirement": "2025-04-12 18:43:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-04-17 01:54:40 +0000"
     },
     "done": true
   },
