@@ -1269,3 +1269,49 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [17Apr2025 01:59:38.457] [Worker-Main-40/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [17Apr2025 01:59:38.458] [Worker-Main-40/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [17Apr2025 02:00:51.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [The Soul Forge]
+[17Apr2025 02:05:39.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 02:05:41.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 02:06:22.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 02:06:25.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 02:06:31.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 02:06:40.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported itzloikg to Sofx0Loder]
+[17Apr2025 02:07:10.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has completed the challenge [The broken Nether's warmachine]
+[17Apr2025 02:07:22.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> NERFEENLO
+[17Apr2025 02:07:30.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> :'v
+[17Apr2025 02:07:31.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Kicked by an operator
+[17Apr2025 02:07:31.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ left the game
+[17Apr2025 02:07:31.638] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Flancito0_
+[17Apr2025 02:07:31.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Kicked Flancito0_: Kicked by an operator]
+[17Apr2025 02:07:31.673] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Apr2025 02:07:34.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> JASJASJ
+[17Apr2025 02:07:35.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Uzumaki0502> XD
+[17Apr2025 02:07:37.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <itzloikg> lo kickeaba
+[17Apr2025 02:07:40.822] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@83a43ad
+[17Apr2025 02:07:40.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flancito0_[/127.223.198.220:43359] logged in with entity id 54322 at (-1901.67197939372, 44.0, -844.3370029259164)
+[17Apr2025 02:07:40.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ joined the game
+[17Apr2025 02:07:41.426] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Flancito0_ (18)
+[17Apr2025 02:07:41.427] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Flancito0_
+[17Apr2025 02:07:43.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
+[17Apr2025 02:07:45.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[17Apr2025 02:07:46.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 807d4b02-2892-3ac2-a000-a9c5173caa95
+[17Apr2025 02:07:46.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Flancito0_ (807d4b02-2892-3ac2-a000-a9c5173caa95) successfully connected to voice chat
+[17Apr2025 02:08:25.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Teleported Sofx0Loder to itzloikg]
+[17Apr2025 02:09:56.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-702, y=75, z=-269} BlockPos{x=-703, y=73, z=-270}
+[17Apr2025 02:09:57.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-702, y=75, z=-269} BlockPos{x=-703, y=73, z=-270}
+[17Apr2025 02:10:00.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-710, y=73, z=-276} BlockPos{x=-710, y=73, z=-275}
+[17Apr2025 02:10:00.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-710, y=73, z=-276} BlockPos{x=-710, y=73, z=-275}
+[17Apr2025 02:14:00.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itzloikg lost connection: Disconnected
+[17Apr2025 02:14:00.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg left the game
+[17Apr2025 02:14:00.275] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client itzloikg
+[17Apr2025 02:14:08.131] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d81d679
+[17Apr2025 02:14:08.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itzloikg[/127.235.183.21:55393] logged in with entity id 59046 at (35.69999998807907, -33.0, 153.43843303764322)
+[17Apr2025 02:14:08.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itzloikg joined the game
+[17Apr2025 02:14:08.529] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of itzloikg (18)
+[17Apr2025 02:14:08.529] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to itzloikg
+[17Apr2025 02:14:12.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6278e817-929b-30db-84db-38a5c920e412
+[17Apr2025 02:14:13.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6278e817-929b-30db-84db-38a5c920e412
+[17Apr2025 02:14:13.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player itzloikg (6278e817-929b-30db-84db-38a5c920e412) successfully connected to voice chat
+[17Apr2025 02:14:27.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flancito0_> leo onde tas?
+[17Apr2025 02:14:35.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-710, y=72, z=-244} BlockPos{x=-710, y=71, z=-246}
+[17Apr2025 02:14:35.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-710, y=72, z=-244} BlockPos{x=-710, y=71, z=-246}
+[17Apr2025 02:14:35.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-710, y=72, z=-244} BlockPos{x=-710, y=71, z=-246}

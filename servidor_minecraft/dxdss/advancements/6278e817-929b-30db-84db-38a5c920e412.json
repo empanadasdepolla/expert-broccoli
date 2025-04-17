@@ -601,6 +601,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-17 02:14:32 +0000"
+    },
+    "done": false
+  },
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-04-13 00:09:49 +0000"

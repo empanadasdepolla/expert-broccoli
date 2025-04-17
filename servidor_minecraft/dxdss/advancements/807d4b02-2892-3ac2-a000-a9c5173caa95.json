@@ -327,6 +327,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-04-17 02:07:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-12 17:02:47 +0000"
@@ -1228,6 +1234,18 @@
       "give_recipe": "2025-04-12 17:02:47 +0000"
     },
     "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-17 02:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-17 02:09:25 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
